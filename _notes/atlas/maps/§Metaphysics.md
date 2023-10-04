@@ -1,0 +1,1 @@
+What sorts of things exist? What is the nature of those things? Do some things exist independently of our perception? What is the nature of space and time? What is the relationship of the mind to the body? What is it to be a person? What is it to be conscious? Do gods exist?

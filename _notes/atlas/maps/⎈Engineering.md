@@ -1,0 +1,116 @@
+![[Pasted image 20231002185902.png]]
+
+
+**[Engineering](https://en.wikipedia.org/wiki/Engineering "Engineering")** is the [scientific discipline](https://en.wikipedia.org/wiki/Scientific_discipline "Scientific discipline") and profession that applies [scientific theories](https://en.wikipedia.org/wiki/Scientific_theories "Scientific theories"), mathematical methods, and empirical evidence to design, create, and analyze technological solutions cognizant of safety, human factors, physical laws, regulations, practicality, and cost.
+
+## Branches of engineering
+
+- [Applied engineering](https://en.wikipedia.org/wiki/Applied_engineering_(field) "Applied engineering (field)") – application of management, design, and technical skills for the design and integration of systems, the execution of new product designs, the improvement of manufacturing processes, and the management and direction of physical and/or technical functions of a firm or organization.
+    - [Packaging engineering](https://en.wikipedia.org/wiki/Packaging_engineering "Packaging engineering")
+- [Biological engineering](https://en.wikipedia.org/wiki/Biological_engineering "Biological engineering")
+    - [Agricultural engineering](https://en.wikipedia.org/wiki/Agricultural_engineering "Agricultural engineering")
+    - [Bionics](https://en.wikipedia.org/wiki/Bionics "Bionics")
+    - [Genetic engineering](https://en.wikipedia.org/wiki/Genetic_engineering "Genetic engineering")
+    - [Biomedical engineering](https://en.wikipedia.org/wiki/Biomedical_engineering "Biomedical engineering")
+    - [Metabolic engineering](https://en.wikipedia.org/wiki/Metabolic_engineering "Metabolic engineering")
+    - [Neural engineering](https://en.wikipedia.org/wiki/Neural_engineering "Neural engineering")
+    - [Tissue engineering](https://en.wikipedia.org/wiki/Tissue_engineering "Tissue engineering")
+- [Civil engineering](https://en.wikipedia.org/wiki/Civil_engineering "Civil engineering")
+    - [Environmental engineering](https://en.wikipedia.org/wiki/Environmental_engineering "Environmental engineering")
+    - [Architectural engineering](https://en.wikipedia.org/wiki/Architectural_engineering "Architectural engineering")
+    - [Construction engineering](https://en.wikipedia.org/wiki/Construction_engineering "Construction engineering")
+    - [Geotechnical engineering](https://en.wikipedia.org/wiki/Geotechnical_engineering "Geotechnical engineering")
+    - [Transportation engineering](https://en.wikipedia.org/wiki/Transportation_engineering "Transportation engineering")
+    - [Hydro engineering](https://en.wikipedia.org/wiki/Hydro_engineering "Hydro engineering")
+    - [Structural engineering](https://en.wikipedia.org/wiki/Structural_engineering "Structural engineering")
+    - [Urban engineering](https://en.wikipedia.org/wiki/Urban_engineering "Urban engineering") (municipal engineering)
+    - [Architectonics](https://en.wikipedia.org/wiki/Architecture "Architecture")
+- [Chemical engineering](https://en.wikipedia.org/wiki/Chemical_engineering "Chemical engineering") _([outline](https://en.wikipedia.org/wiki/Outline_of_chemical_engineering "Outline of chemical engineering"))_
+    - [Materials engineering](https://en.wikipedia.org/wiki/Materials_engineering "Materials engineering")
+    - [Molecular engineering](https://en.wikipedia.org/wiki/Molecular_engineering "Molecular engineering")
+    - [Process engineering](https://en.wikipedia.org/wiki/Process_engineering "Process engineering") – also appears under industrial engineering
+- [Electrical engineering](https://en.wikipedia.org/wiki/Electrical_engineering "Electrical engineering") _([outline](https://en.wikipedia.org/wiki/Outline_of_electrical_engineering "Outline of electrical engineering"))_
+    - [Broadcast engineering](https://en.wikipedia.org/wiki/Broadcast_engineering "Broadcast engineering")
+    - [[§Computer Engineering]]
+    - [Power systems engineering](https://en.wikipedia.org/wiki/Power_systems_engineering "Power systems engineering")
+    - [Telecommunications engineering](https://en.wikipedia.org/wiki/Telecommunications_engineering "Telecommunications engineering")
+    - [Electronic engineering](https://en.wikipedia.org/wiki/Electronic_engineering "Electronic engineering") (includes microelectronics engineering, microelectronics and semiconductor engineering)
+    - [Optical engineering](https://en.wikipedia.org/wiki/Optical_engineering "Optical engineering")
+- [Electromechanical engineering](https://en.wikipedia.org/wiki/Electromechanical_engineering "Electromechanical engineering")
+    - [Control engineering](https://en.wikipedia.org/wiki/Control_engineering "Control engineering") _([outline](https://en.wikipedia.org/wiki/Outline_of_control_engineering "Outline of control engineering"))_
+    - [Mechatronics](https://en.wikipedia.org/wiki/Mechatronics "Mechatronics")
+    - [Electromechanics](https://en.wikipedia.org/wiki/Electromechanics "Electromechanics")
+    - [Instrumentation engineering](https://en.wikipedia.org/wiki/Instrumentation_engineering "Instrumentation engineering")
+- [Forensic engineering](https://en.wikipedia.org/wiki/Forensic_engineering "Forensic engineering")
+- [Geological engineering](https://en.wikipedia.org/wiki/Geological_engineering "Geological engineering")
+- [Green engineering](https://en.wikipedia.org/wiki/Green_engineering "Green engineering")
+- [Industrial engineering](https://en.wikipedia.org/wiki/Industrial_engineering "Industrial engineering")
+    - [Engineering psychology](https://en.wikipedia.org/wiki/Engineering_psychology "Engineering psychology")
+    - [Ergonomics](https://en.wikipedia.org/wiki/Ergonomics "Ergonomics")
+    - [Facilities engineering](https://en.wikipedia.org/wiki/Facilities_engineering "Facilities engineering")
+    - [Logistic engineering](https://en.wikipedia.org/wiki/Logistic_engineering "Logistic engineering")
+    - [Performance engineering](https://en.wikipedia.org/wiki/Performance_engineering "Performance engineering")
+    - [Process engineering](https://en.wikipedia.org/wiki/Process_engineering "Process engineering") – also appears under chemical engineering
+    - [Quality engineering](https://en.wikipedia.org/wiki/Quality_engineering "Quality engineering") (quality assurance engineering)
+    - [Reliability engineering](https://en.wikipedia.org/wiki/Reliability_engineering "Reliability engineering")
+    - [Safety engineering](https://en.wikipedia.org/wiki/Safety_engineering "Safety engineering")
+    - [Security engineering](https://en.wikipedia.org/wiki/Security_engineering "Security engineering")
+    - [Support engineering](https://en.wikipedia.org/wiki/Support_engineering "Support engineering")
+- [Information engineering](https://en.wikipedia.org/wiki/Information_engineering_(field) "Information engineering (field)")
+- [Materials engineering](https://en.wikipedia.org/wiki/Materials_engineering "Materials engineering")
+    - [Amorphous metals](https://en.wikipedia.org/wiki/Amorphous_metals "Amorphous metals")
+    - [Biomaterials engineering](https://en.wikipedia.org/wiki/Biomaterials_engineering "Biomaterials engineering")
+    - [Casting](https://en.wikipedia.org/wiki/Casting "Casting")
+    - [Ceramic engineering](https://en.wikipedia.org/wiki/Ceramic_engineering "Ceramic engineering")
+    - [Composite materials](https://en.wikipedia.org/wiki/Composite_materials "Composite materials")
+    - [Corrosion engineering](https://en.wikipedia.org/wiki/Corrosion_engineering "Corrosion engineering")
+    - [Crystal engineering](https://en.wikipedia.org/wiki/Crystal_engineering "Crystal engineering")
+    - [Electronic materials](https://en.wikipedia.org/wiki/Electronic_materials "Electronic materials")
+    - [Forensic materials engineering](https://en.wikipedia.org/wiki/Forensic_materials_engineering "Forensic materials engineering")
+    - [Metal forming](https://en.wikipedia.org/wiki/Metal_forming "Metal forming")
+    - [Metallurgical engineering](https://en.wikipedia.org/wiki/Metallurgical_engineering "Metallurgical engineering")
+    - [Nanomaterials](https://en.wikipedia.org/wiki/Nanomaterials "Nanomaterials")
+    - [Plastics engineering](https://en.wikipedia.org/wiki/Plastics_engineering "Plastics engineering")
+    - [Surface engineering](https://en.wikipedia.org/wiki/Surface_engineering "Surface engineering")
+    - [Vitreous materials](https://en.wikipedia.org/wiki/Vitreous_materials "Vitreous materials") (glass)
+    - [Welding](https://en.wikipedia.org/wiki/Welding "Welding")
+- [Mechanical engineering](https://en.wikipedia.org/wiki/Mechanical_engineering "Mechanical engineering")
+    - [Acoustical engineering](https://en.wikipedia.org/wiki/Acoustical_engineering "Acoustical engineering") – includes audio engineering
+    - [Aerospace engineering](https://en.wikipedia.org/wiki/Aerospace_engineering "Aerospace engineering") – branch of engineering behind the design, construction and science of aircraft and spacecraft. It is broken into two major and overlapping branches:
+        - [Aeronautical engineering](https://en.wikipedia.org/wiki/Aeronautical_engineering "Aeronautical engineering") – deals with craft that stay within Earth's atmosphere
+        - [Astronautical engineering](https://en.wikipedia.org/wiki/Astronautical_engineering "Astronautical engineering") – deals with craft that operate outside of Earth's atmosphere
+    - [Automotive engineering](https://en.wikipedia.org/wiki/Automotive_engineering "Automotive engineering") (automotive systems engineering)
+    - [Manufacturing engineering](https://en.wikipedia.org/wiki/Manufacturing_engineering "Manufacturing engineering")
+    - [Marine engineering](https://en.wikipedia.org/wiki/Naval_architecture "Naval architecture")
+    - [Thermal engineering](https://en.wikipedia.org/wiki/Thermal_engineering "Thermal engineering")
+    - [Naval architecture](https://en.wikipedia.org/wiki/Naval_architecture "Naval architecture")
+    - [Sports engineering](https://en.wikipedia.org/wiki/Sports_engineering "Sports engineering")
+    - [Vacuum engineering](https://en.wikipedia.org/wiki/Vacuum_engineering "Vacuum engineering")
+- [Military engineering](https://en.wikipedia.org/wiki/Military_engineering "Military engineering")
+    - [Combat engineering](https://en.wikipedia.org/wiki/Combat_engineering "Combat engineering")
+    - [Military technology](https://en.wikipedia.org/wiki/Military_technology "Military technology")
+- [Petroleum engineering](https://en.wikipedia.org/wiki/Petroleum_engineering "Petroleum engineering")
+    - [Petroleum geology](https://en.wikipedia.org/wiki/Petroleum_geology "Petroleum geology")
+    - [Drilling engineering](https://en.wikipedia.org/wiki/Drilling_engineering "Drilling engineering")
+    - [Production engineering](https://en.wikipedia.org/wiki/Petroleum_production_engineering "Petroleum production engineering")
+    - [Reservoir engineering](https://en.wikipedia.org/wiki/Reservoir_engineering "Reservoir engineering")
+    - [Well logging](https://en.wikipedia.org/wiki/Well_logging "Well logging")
+    - [Well testing](https://en.wikipedia.org/wiki/Well_test_(oil_and_gas) "Well test (oil and gas)")
+- [Radiation engineering](https://en.wikipedia.org/w/index.php?title=Radiation_engineering&action=edit&redlink=1 "Radiation engineering (page does not exist)")
+    - [Nuclear engineering](https://en.wikipedia.org/wiki/Nuclear_engineering "Nuclear engineering")
+    - [Radiation protection engineering](https://en.wikipedia.org/w/index.php?title=Radiation_protection_engineering&action=edit&redlink=1 "Radiation protection engineering (page does not exist)")
+- [Planetary engineering](https://en.wikipedia.org/wiki/Planetary_engineering "Planetary engineering") – planetary engineering is the application of technology for the purpose of influencing the global properties of a planet. The goal of this theoretical task is usually to make other worlds habitable for life. Perhaps the best-known type of planetary engineering is terraforming, by which a planet's surface conditions are altered to be more like those of Earth.
+    - [Climate engineering](https://en.wikipedia.org/wiki/Climate_engineering "Climate engineering") (geoengineering)
+- [Software engineering](https://en.wikipedia.org/wiki/Software_engineering "Software engineering")
+    - [Computer-aided engineering](https://en.wikipedia.org/wiki/Computer-aided_engineering "Computer-aided engineering")
+    - [Knowledge engineering](https://en.wikipedia.org/wiki/Knowledge_engineering "Knowledge engineering")
+    - [Language engineering](https://en.wikipedia.org/wiki/Language_engineering "Language engineering")
+    - [Release engineering](https://en.wikipedia.org/wiki/Release_engineering "Release engineering")
+    - [Teletraffic engineering](https://en.wikipedia.org/wiki/Teletraffic_engineering "Teletraffic engineering")
+    - [Usability engineering](https://en.wikipedia.org/wiki/Usability_engineering "Usability engineering")
+- [Sustainable engineering](https://en.wikipedia.org/wiki/Sustainable_engineering "Sustainable engineering")
+- [Systems engineering](https://en.wikipedia.org/wiki/Systems_engineering "Systems engineering") – analysis, design, and control of gigantic engineering systems.
+
+
+
+

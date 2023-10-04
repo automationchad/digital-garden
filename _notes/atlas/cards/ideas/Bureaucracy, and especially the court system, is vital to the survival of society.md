@@ -1,0 +1,9 @@
+In USA we like to make fun of lawyers, but the courts are really vital.
+
+The court system isn't just a legal construct; it's a social adhesive that prevents anarchy. In a stage purple society, characterized by tribal dynamics, the absence of a legal system can ignite endless cycles of revenge and violence. Here's the scenario: Tribe A's pig wanders into Tribe B's territory. Tribe B, unaware of the pig's origin, slaughters it. Tribe A retaliates, escalating the conflict into a bloody, multi-generational feud. This is where the legal system comes into play, acting as a third-party arbiter to provide clear boundaries and impartial judgments.
+
+The government's monopoly on force ensures that individuals don't take justice into their own hands, which is essential for societal stability. Without a fair and impartial system of justice, you don't just get individual disputes; you get chaos and bloodshed.
+
+Libertarian ideals that argue for free markets and minimal government oversight often overlook this crucial aspect of human nature: left to their own devices, people will form factions for survival—gangs, cults, political parties, you name it. Without a centralized authority to regulate these groups, it's only a matter of time before knives are drawn and wars are started.
+
+The strength of a governed society lies in its ability to accommodate diversity, be it religious, cultural, or ideological. Without safeguards like the legal system or constitutional amendments that protect minorities, majorities will impose their will indiscriminately. And let's be clear, they won't lose sleep over it; moral development often lags behind the exertion of power. Thus, far from being an obstruction to freedom, a well-functioning legal system is the linchpin that allows diverse groups to coexist peacefully.

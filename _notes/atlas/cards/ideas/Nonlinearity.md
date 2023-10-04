@@ -1,0 +1,1 @@
+The effects are rarely proportional. A small change in one variable can cause disproportionate changes elsewhere due to the system's complexity.

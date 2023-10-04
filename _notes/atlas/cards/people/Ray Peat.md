@@ -1,0 +1,7 @@
+Dr. Ray Peat's main thesis is that "Energy and structure are interdependent at every level." My understanding of this idea is that it is the guiding principle of life.
+
+> "The relation of energy to structure is, I think, the central question of biology. (The importance of the same question for the physical sciences might indicate in a rough way how Haldane's predicted "swallowing up" might occur.) The ideas of resonance and hysteresis, which are only vaguely defined in physics, have to do with the interaction of energy and structure on various levels of complexity and organization, and are examples of physical concepts that can gain meaning and clarity from biology. When energy flows through matter, order accumulates (as a result of resonance and hysteresis, for example), but we hear so much about "entropy," "randomness," and "symmetry" that we forget most of the formative processes in the material world." -Ray Peat, Generative Energy
+
+> "Energy flows through all systems, and the flow of energy leaves a residue of structure" -Ray Peat, Generative Energy
+
+> "The flow of energy through substance increases the order in that substance. More life and more energy can solve many of the basic problems of life." -Ray Peat, Generative Energy

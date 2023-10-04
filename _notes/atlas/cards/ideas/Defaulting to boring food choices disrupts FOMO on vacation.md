@@ -1,0 +1,5 @@
+Food is often a highlight of travel, so I’ll usually choose where I eat lunch and dinner quite carefully. That’s great if the point of the trip is exploration and adventure, but if the point is restfulness, the decision process itself distracts ([[FOMO on vacation disrupts restfulness]]).
+
+The “interesting” food choice can be exciting when it turns out well, but it’s frustrating when it’s disappointing. Such places are often more expensive and require more travel, too, so negative outcomes are magnified. All this makes food tourism higher-variance. Again, that’s great for exploration, but not great for restfulness.
+
+On my January 2020 trip to Maui I decided that since I already know Maui’s not a good place for food tourism, that I would just eat at food trucks, counter service places, and convenient spots. I’d maximize beach time, avoid traveling and spending extra money on so-so food, and I’d avoid making taxing decisions.

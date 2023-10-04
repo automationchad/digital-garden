@@ -1,0 +1,6 @@
+- [[Insight through making]]
+    - [[Deep collaborations between tool-makers and tool-users may support insight through making]]
+    - [[Collaborations between tool-makers and tool-users can best iterate via a sequence of different projects]]
+    - [[Collaborations between tool-makers and tool-users depend on building effective “armories” of tool ideas]]
+- [[Pixar’s movies and technology development act as coupled flywheels]]
+- [[David Holz’s iterative invention cycle]]

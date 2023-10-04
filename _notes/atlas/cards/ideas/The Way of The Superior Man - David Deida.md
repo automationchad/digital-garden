@@ -1,0 +1,7 @@
+15 Stop Hoping Your Woman To Get Easier
+
+_A woman often seems to test her man's capacity to remain unperturbed in his truth and purpose. She tests him to feel his freedom and depth of love, to know that he is trustable. Her tests may come in the form of complaining, challenging him, changing her mind, doubting him, distracting him, or even undermining his purpose in a subtle or not so subtle way. A man should never think his woman's testing is going to end and his life will get easier. Rather, he should appreciate that she does these things to feel his strength, integrity, and openness. Her desire is for his deepest truth and love. As he grows, so will her testing._
+- The most erotic moment for a woman is feeling that you are Shiva, the divine masculine: imperturbable, totally loving, fully present, and all-pervading. She cannot move you, because you already are what you are, with or without her.
+- If you remain full and strong, humorous and happy, your truth unperturbed by her testing, then you pass the test.
+- "Honey, I'll get you some milk, all right," you say as you sweep her off the ground and lay her on the couch, laughing, kissing, looking deeply into her eyes, and "milking" her happiness with the confident loving of your caresses.
+- It never ends. This is the secret. You can't get out of it. Finding a different woman won't get you out of it. Therapy won't get you out of it. Financial or sexual mastery won't get you out of it. Your woman is testing you because she loves you.

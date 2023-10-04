@@ -1,0 +1,3 @@
+New participants in an [[Enabling environment]] may not immediately be able to do what it enables. The typical solution is an abstract introductory experience: explanatory guides, onboarding classes, background readings, etc. These supports can help new participants eventually access what an environment enables, but they’re not ideal: [[Enabling environments focus on doing what’s enabled]].
+
+It’s often possible to improve an environment’s design to support more immediate participation (e.g. with [[Cognitive scaffolding]]). One powerful design approach: [[Enacted experiences can bootstrap active participation in enabling environments]].

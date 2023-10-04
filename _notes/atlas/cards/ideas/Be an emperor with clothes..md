@@ -1,0 +1,1 @@
+If you buy things you don’t need, soon you will have to sell things you do need.

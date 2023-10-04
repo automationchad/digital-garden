@@ -1,0 +1,1 @@
+You take whatever you’re going through with you until you choose to leave it behind. Travel is not an escape, it’s an exploration. An addition to ourselves.

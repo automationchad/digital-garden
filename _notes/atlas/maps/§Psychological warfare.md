@@ -1,0 +1,24 @@
+- [Demoralization](https://en.wikipedia.org/wiki/Demoralization_(warfare) "Demoralization (warfare)"):
+    - Distributing [pamphlets](https://en.wikipedia.org/wiki/Pamphlet "Pamphlet") that encourage [desertion](https://en.wikipedia.org/wiki/Desertion "Desertion") or supply instructions on how to surrender.
+    - Shock and awe military strategy.
+    - Projecting repetitive and disturbing noises and music for long periods at high volume towards groups under siege like during [Operation Nifty Package](https://en.wikipedia.org/wiki/Operation_Nifty_Package "Operation Nifty Package").
+- Propaganda radio stations, such as [Lord Haw-Haw](https://en.wikipedia.org/wiki/Lord_Haw-Haw "Lord Haw-Haw") in World War II on the "Germany calling" station.
+- Renaming cities and other places when captured, such as the renaming of Saigon to [Ho Chi Minh City](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City "Ho Chi Minh City") after Communist victory in the [Vietnam War](https://en.wikipedia.org/wiki/Vietnam_War "Vietnam War").
+- [False flag](https://en.wikipedia.org/wiki/False_flag "False flag") events.
+- [Terrorism](https://en.wikipedia.org/wiki/Terrorism "Terrorism")[[40]](https://en.wikipedia.org/wiki/Psychological_warfare#cite_note-40)
+- The threat of chemical weapons.[[41]](https://en.wikipedia.org/wiki/Psychological_warfare#cite_note-41)
+- Information warfare.
+
+Most of these techniques were developed during World War II or earlier, and have been used to some degree in every conflict since. Daniel Lerner was in the [OSS](https://en.wikipedia.org/wiki/Office_of_Strategic_Services "Office of Strategic Services") (the predecessor to the American CIA) and in his book, attempts to analyze how effective the various strategies were. He concludes that there is little evidence that any of them were dramatically successful, except perhaps surrender instructions over loudspeakers when victory was imminent. Measuring the success or failure of psychological warfare is very hard, as the conditions are very far from being a controlled experiment.
+
+Lerner also divides psychological warfare operations into three categories:[[42]](https://en.wikipedia.org/wiki/Psychological_warfare#cite_note-lerner-42)[_[page needed](https://en.wikipedia.org/wiki/Wikipedia:Citing_sources "Wikipedia:Citing sources")_]
+
+- [White propaganda](https://en.wikipedia.org/wiki/White_propaganda "White propaganda") (Omissions and Emphasis): Truthful and not strongly biased, where the source of information is acknowledged.
+- [Grey propaganda](https://en.wikipedia.org/wiki/Grey_propaganda "Grey propaganda") (Omissions, Emphasis and Racial/Ethnic/Religious Bias): Largely truthful, containing no information that can be proven wrong; the source is not identified.
+- [Black propaganda](https://en.wikipedia.org/wiki/Black_propaganda "Black propaganda") (Commissions of falsification): Inherently deceitful, information given in the product is attributed to a source that was not responsible for its creation.
+
+Lerner says grey and black operations ultimately have a heavy cost, in that the target population sooner or later recognizes them as propaganda and discredits the source. He writes, "This is one of the few dogmas advanced by Sykewarriors that is likely to endure as an axiom of propaganda: Credibility is a condition of persuasion. Before you can make a man do as you say, you must make him believe what you say."[[42]](https://en.wikipedia.org/wiki/Psychological_warfare#cite_note-lerner-42): 28  Consistent with this idea, the Allied strategy in World War II was predominantly one of truth (with certain exceptions).[_[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed "Wikipedia:Citation needed")_]
+
+In _[Propaganda: The Formation of Men's Attitudes](https://en.wikipedia.org/wiki/Propaganda:_The_Formation_of_Men%27s_Attitudes "Propaganda: The Formation of Men's Attitudes")_, [Jacques Ellul](https://en.wikipedia.org/wiki/Jacques_Ellul "Jacques Ellul") discusses psychological warfare as a common peace policy practice between nations as a form of indirect aggression. This type of propaganda drains the public opinion of an opposing regime by stripping away its power on public opinion. This form of aggression is hard to defend against because no international court of justice is capable of protecting against psychological aggression since it cannot be legally adjudicated.
+
+> "Here the propagandists is [sic] dealing with a foreign adversary whose morale he seeks to destroy by psychological means so that the opponent begins to doubt the validity of his beliefs and actions."[[43]](https://en.wikipedia.org/wiki/Psychological_warfare#cite_note-43)[[44]](https://en.wikipedia.org/wiki/Psychological_warfare#cite_note-44)

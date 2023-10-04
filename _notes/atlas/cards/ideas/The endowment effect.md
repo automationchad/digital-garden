@@ -1,0 +1,1 @@
+People ascribe more value to things once they own them. This can create a kind of tunnel vision, where one becomes overly focused on what they already have, impeding their ability to see other opportunities or to innovate.

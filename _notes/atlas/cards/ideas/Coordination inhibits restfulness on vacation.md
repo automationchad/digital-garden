@@ -1,0 +1,3 @@
+When traveling with others, one naturally wants to make sure that everyone’s enjoying themselves, that plans are acceptable to all, etc. If one wants to do something, one has to seek others’ approval and align on timing. Acting on impulse is somewhat harder.
+
+This is part of why solitary travel can be more restful. One approach that can help in traveling with others: pre-committing to a standard routine that doesn’t require coordination ([[Routines promote restfulness on vacation]]).

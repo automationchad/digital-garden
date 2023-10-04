@@ -1,0 +1,1 @@
+aka “grasping, craving, thirst”; see [[Buddhism]]

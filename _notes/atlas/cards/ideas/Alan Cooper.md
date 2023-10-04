@@ -1,0 +1,1 @@
+Interface design pioneer. Coined “interaction design”; published _The Inmates Are Running the Asylum_ and _About Face_.

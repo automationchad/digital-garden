@@ -1,0 +1,1 @@
+Trade theoretical purity or future perfection in favor of getting things done today.

@@ -1,0 +1,11 @@
+The circular argument here is a masterclass in manipulation, designed to maintain a status quo that benefits a select few at the expense of many. Let's break it down:
+
+First, they sell the idea that having children is an ecological sin, glorifying a child-free lifestyle. Then, they argue that we need more immigrants because no one is having kids. It's a fabricated crisis, presented as a solution to a problem they themselves championed.
+
+What's really at play here is a multi-pronged strategy. Immigrants, often coming from less affluent backgrounds, take on debts—making them economic serfs in a system they're just entering. They're disconnected from the culture, which makes them more susceptible to narratives that serve those in power. Many come from homogenous societies, making them easier to manage as a collective unit. They're often willing to settle for lower wages, further driving down labor costs and undermining local job markets. Finally, they usually come from low-trust societies, predisposing them to transactional relationships with those in power.
+
+This isn't about altruism or social justice; it's about leveraging a vulnerable population to suppress any uprising of nativist or populist sentiments. If locals start demanding more—like higher wages or better working conditions—the influx of immigrants acts as a buffer, keeping the local populace in check.
+
+Those in power employ cognitive dissonance as a tool. They'll champion lower wages for jobs "Americans won't do," but in the next breath, call for higher minimum wages in industries that serve their agenda. It's a calculated move to keep the masses divided and confused, fostering an environment where the elites can continue to thrive.
+
+So, when politicians like Shinzo Abe or Viktor Orban suggest that the solution is for locals to have more children, the immediate response is a barrage of contradictory arguments. It's a smokescreen, designed to maintain a system that enables a small group to wield disproportionate power and influence.

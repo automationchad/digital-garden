@@ -1,0 +1,15 @@
+In a good [[Enabling environment]] like a strong corporation or Minecraft, the activities mostly comprise _doing_ what those environments enable.
+
+By contrast, most books (even executable books) don’t involve _doing_ what they’re about. These environments’ activities are _about_ what they’re about—reading about basketball, not playing basketball. They’re at a remove from the action, and that makes them less able to enable their participants.
+
+This is a natural byproduct of the higher-level observations described in [[Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes]] and [[Enabling environments focus on creating opportunities for growth and action, not on skill-building]].
+
+A focus on action keeps environment authors honest. It forces them to focus on the elements which meaningfully enable action. That keeps the activities centered around intrinsically meaningful purposes ([[Enabling environments’ activities directly serve an intrinsically meaningful purpose]]), rather than more abstract goals.
+
+Activities _doing_ what’s being enabled will generally create more personal connection than activities _about_ what’s being enabled. That connection’s important: [[Deep understanding requires (and is a result of) intense personal connection]].
+
+Social enabling environments can expand participants’ reach by helping them build on each others’ ideas. That effect will be limited if the social activity is only _about_ what’s being enabled. A lunchtime discussion with a colleague might be quite helpful, but if you find his ideas striking, you’ll probably find a collaboration with the colleague much more enabling.
+
+One challenge here is that [[Novices in enabling environments often can’t do what’s enabled]]. In fact, that’s part of what _keeps_ novices novices. Once novices can participate to some extent, then the environment can integrate powerful dynamic scaffolds to enable them further (see [Metacognitive supports require dynamic, participatory environments](https://notes.andymatuschak.org/zADYGiM6rnN6iTBHqVa6kiu)). For instance, a coach might suggest which exercises might best help an athlete achieve his goals on a given day ([Metacognitive supports as cognitive scaffolding](https://notes.andymatuschak.org/zL2zRTTRhWf1Lx4x9p2uCDt)). Minecraft’s single-player experience builds players’ construction skills by hiding increasingly complex materials in locations which require progressive mastery to reach.
+
+For a counter-argument, see [Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching. Educational Psychologist, 41(2), 75–86](https://notes.andymatuschak.org/zUiDqjKiS3udc3wcvcFbcpc).

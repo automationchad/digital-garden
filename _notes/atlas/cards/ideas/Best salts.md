@@ -1,0 +1,1 @@
+Best salt by trace mineral content: Baja sea salt > Celtic sea salt > Redmond salt > Real salt > Himalayan pink salt > Cargill sea salt > table salt

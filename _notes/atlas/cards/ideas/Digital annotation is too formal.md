@@ -1,0 +1,5 @@
+Computerized annotations are too literal in their data structure: they represent annotation using precise textual ranges. But when I mark up a book, I’m often gesturing at a general area, not an exact range. Often there _is_ no exact range that corresponds to what I’m referencing. To specify an exact range would be misleading (and distracting in presentation).
+
+All this is very natural in the physical world, with stickies and scratch marks and dog-eared pages. But digitally, we have the [[Tyranny of formality in interfaces]].
+
+This kind of strict structure also makes inter-textual commentary much more difficult. When bringing two texts in conversation with one another, it’s relatively rare that you want to make a point by referring to two precise textual ranges. You need to talk about broader strokes of argument, supported by “passages”. You might provide a pull-quote to _illustrate_ a passage’s argument, but you’re really referring to the passage, not to the precise quote.

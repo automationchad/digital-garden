@@ -1,0 +1,1 @@
+It’s the passion, respect, trust, and beauty of knowing someone to their core. When you meet someone ask yourself if your motivations are rooted in these values or if it’s just sex.
