@@ -17,3 +17,5 @@ Experience at least 3 per day
 - Spontaneity
 
 Read more books, but to feel wise I need to be getting it out to people. If I got it out to people then it would help.
+
+Related: [[§Non-coercion]]

@@ -2,4 +2,10 @@ Most of us seek answers in the external world ([[External movement does not deta
 
 It’s not you *and* the world, or you ‘versus’ the world. You are a part of the world, you ARE the world. This is the difference between seeing life as forces acting on you, and you BEING the force that acts upon the world. Former is limited, latter is unlimited. You are elemental.
 
+Contra: [[Pitching out corrupts within]]
+
+Related: 
+
+- [[Do your own thinking]]
+
 

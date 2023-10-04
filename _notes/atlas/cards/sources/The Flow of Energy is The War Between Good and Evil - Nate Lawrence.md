@@ -110,5 +110,5 @@ Our job is to wage the war against evil. Live in accordance with nature, say yes
 _This is how we protect higher consciousness…_
 
 
-See: [[Non-coercion]], [[Metabolism and energy flow 1]]
+See: [[§Non-coercion]], [[Metabolism and energy flow 1]]
 
