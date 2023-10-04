@@ -1,23 +1,7 @@
 ---
-banner: 
-banner_y: 0.212
+title: Library
 ---
 <img src="./assets/20231001190849.png" width="100%"/>
-
-
-> [!abstract]- The Marzella Classification System 
-> - [[#000 - Knowledge Management]], 
-> - [[#100 - Personal Management]]
-> - [[#200 - Philosophy, Psychology ; Spirituality, Religion]]
-> - [[#300 - Social Sciences]]
-> - [[#400 - Communications, Language, & Linguistics]]
-> - [[#500 - Natural Sciences]]
-> - [[#600 - Applied Sciences]]
-> - [[#700 - Art & Recreation]]
-> - [[#800 - Literature]]
-> - [[#900 - History & Biography & Geography]]
-
----
 
 ## 000 - Knowledge Management
 
@@ -76,7 +60,3 @@ If folks barely remember leisure, they likely completely forgot about classical 
 - [[⎈History]]
 
 The [[§Art & Science Storytelling]] look at some great storytellers of history. 
-
----
-
-Please don't go crazy numbering things. We are just using a pre-made map so we can easily add dots of new interests. 
