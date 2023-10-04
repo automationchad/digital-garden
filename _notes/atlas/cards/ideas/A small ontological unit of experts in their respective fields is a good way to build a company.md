@@ -45,11 +45,13 @@ Experiment with audacious moves. Cancel all meetings for a week. Push changes to
 Remember, show and tell isn't just for kids. Be the one who does and teaches. Maintain that startup agility, that sense of ownership, because the moment you lose that, you're not steering the ship—you're just cargo.
 
 Related: 
+
 - [[Middle management is generally useless]] 
 - [[Effective system design requires insights drawn from serious contexts of use]]
 - [[Premature scaling can stunt system iteration]] 
 - [[Enabling environments focus on doing what’s enabled]]
 - [[Make it intuitive]]
+- [[§Sovereignty]]
 
 
 ### References

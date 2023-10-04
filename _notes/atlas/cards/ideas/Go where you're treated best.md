@@ -34,3 +34,6 @@ The EKG formula:
 - Dabble in foreign currencies, seizing opportunities for favorable returns simply by holding another country's money.
 
 Freedom, in this framework, leverages the global landscape to serve your individual needs and aspirations.
+
+
+Related: [[Perpetual traveler]]

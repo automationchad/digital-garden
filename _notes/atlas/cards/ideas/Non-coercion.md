@@ -12,7 +12,7 @@ Following the principles of [[Levels of magnification]] I see this playing out 3
    
 2. *Peer-to-peer*: At this level, it's about forming relationships based on mutual respect and freedom, avoiding manipulative tactics and power plays ([[Non-coercive marketing; Anti-marketing]], [[Operate from the inside-out]]). This also means not just doing work that pays the bills, but engaging in endeavors that are intrinsically rewarding ([[Non-coercive productivity]]).
    
-3. *Institutionally*: Here, you're navigating the systems of governance and societal structures in a way that minimizes coercion and maximizes personal freedom. ([[Go where you're treated best.]] and the [[Five flag theory]].)
+3. *Institutionally*: Here, you're navigating the systems of governance and societal structures in a way that minimizes coercion and maximizes personal freedom. You put yourself in environments [[Go where you're treated best|where you're treated best]])
 
 ---
 
