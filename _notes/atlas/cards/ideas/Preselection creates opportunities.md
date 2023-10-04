@@ -2,4 +2,8 @@ Preselection is the attraction that comes from “passive” indicators. These a
 
 In business, preselection refers to the initial perception others have of your company based on external indicators such as your reputation, client base, or even the physical appearance of your office space. Leveraging preselection effectively means building a strong brand and fostering positive relationships with key stakeholders. When other companies see you working with reputable clients and delivering high-quality products or services, it enhances your business's attractiveness. It can create opportunities by drawing potential clients, partners, or investors towards your company before any direct interaction takes place.
 
-See: [[Persona capitalizes on opportunities]], [[Personality maintains opportunities]]
+See:
+
+- [[Attraction is not a binary]]
+- [[Persona capitalizes on opportunities]]
+- [[Personality maintains opportunities]]

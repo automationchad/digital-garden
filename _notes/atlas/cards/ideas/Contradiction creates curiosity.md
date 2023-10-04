@@ -1,4 +1,4 @@
-When people first encounter you, their curiosity is already piqued—thanks to positive word of mouth. [[Preselection creates opportunities.]]
+When people first encounter you, their curiosity is already piqued—thanks to positive word of mouth. [[Preselection creates opportunities]]
 
 You don't disappoint. Your actions live up to the hype, solidifying your standing. [[Persona capitalizes on opportunities]]
 
