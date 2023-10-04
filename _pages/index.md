@@ -4,7 +4,7 @@ title: Home
 id: home
 permalink: /
 ---
-I'm Will. You may know me as *marzella*. Currently wandering the earth in search of adventure. 
+Hi, I'm Will. You may know me as *marzella*. Currently wandering the earth in search of adventure. 
 
 ### You are here
 
