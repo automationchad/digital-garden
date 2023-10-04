@@ -50,7 +50,6 @@ body {
 	color: $color-text;
 	font-size: 1rem;
 	max-width: 63em;
-	background-color: #100e17;
 	@media (min-width: 820px) {
 		font-size: 1.2rem;
 	}
@@ -115,8 +114,8 @@ a {
 	border-bottom: 1px solid $color-border;
 	color: $color-primary;
 	&:hover {
-		color: #8b88e6 !important;
-		border-bottom: 1px solid #8b88e6 !important;
+		color: #6a30ff !important;
+		border-bottom: 1px solid #6a30ff !important;
 	}
 	&:after {
 		position: relative;
@@ -133,8 +132,8 @@ a {
 }
 
 *:focus {
-	color: #8b88e6 !important;
-	border-bottom: 1px solid #8b88e6 !important;
+	color: #6a30ff !important;
+	border-bottom: 1px solid #6a30ff !important;
 }
 
 nav {
