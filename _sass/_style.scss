@@ -35,6 +35,7 @@ $color-primary: hsl(0, 0%, 10%);
 $color-text: hsl(0, 0%, 20%);
 $color-subtext: hsl(0, 0%, 30%);
 $color-border: hsl(0, 0%, 85%);
+$color-action: #147d82;
 $color-box-background: mix($color-primary, white, 4%);
 $border-radius: 4px;
 $font-family: --apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
@@ -112,10 +113,10 @@ a {
 	padding: 0 0.1em;
 	text-decoration: none;
 	border-bottom: 1px solid $color-border;
-	color: #6a30ff !important;
+	color: $color-primary;
 	&:hover {
-		color: #6a30ff !important;
-		border-bottom: 1px solid #6a30ff !important;
+		color: $color-action;
+		border-bottom: 1px solid $color-action !important;
 	}
 	&:after {
 		position: relative;
@@ -132,8 +133,8 @@ a {
 }
 
 *:focus {
-	color: #6a30ff !important;
-	border-bottom: 1px solid #6a30ff !important;
+	color: $color-action !important;
+	border-bottom: 1px solid $color-action !important;
 }
 
 nav {
