@@ -4,8 +4,7 @@ title: Home
 id: home
 permalink: /
 ---
-
-![The Last Fortress](https://cdna.artstation.com/p/assets/images/images/002/414/626/large/andreas-rocha-thelastfortress.jpg?1461446296)
+<img src="https://cdna.artstation.com/p/assets/images/images/002/414/626/large/andreas-rocha-thelastfortress.jpg?1461446296" width="100%"/>
 ## 🌏 Atlas
 
 These are maps to launch your `efforts`. 
