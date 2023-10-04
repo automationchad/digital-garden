@@ -10,4 +10,7 @@ If you don’t sacrifice for your goal, your goal will become the sacrifice.
 
 Knowledge of the fundamentals requires [[Walking the path of the master]].
 
-See: [[The one-punch philosophy]]
+See: 
+
+- [[The one-punch philosophy]]
+- [[Premature scaling can stunt system iteration]]

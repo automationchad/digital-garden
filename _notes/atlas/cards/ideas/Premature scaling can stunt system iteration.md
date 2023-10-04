@@ -13,7 +13,7 @@ Once you have lots of users with lots of use cases, it’s more difficult to cha
 
 Those same varied users simply consume a great deal of time day-to-day: a fault which occurs for 1% of people will present no real problem in a small prototype, but it’ll be high-priority when you have 100k users.
 
-Once this playbook becomes the primary goal, your incentives change: your goal will naturally become making the graphs go up, rather than answering fundamental questions about your system (contra [Focus on power over scale for transformative system design](https://notes.andymatuschak.org/zRHGYaDyQDBypztBaFYZgtR)).
+Once this playbook becomes the primary goal, your incentives change: your goal will naturally become making the graphs go up, rather than answering fundamental questions about your system (contra [[Focus on power over scale for transformative system design]]).
 
 ## On remaining small
 
