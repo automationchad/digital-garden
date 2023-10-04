@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+Sort of like a [/now page](https://sivers.org/nowff), but with a broader time horizon and focused on what I’m thinking about.
 
-Feel free to tell the world about what you love! 😍
+- [[Keeping the main thing the main thing]]
