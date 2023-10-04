@@ -124,6 +124,11 @@ a {
 		content: '↗';
 		color: #aaaaaa;
 	}
+	&.internal-link:after,
+	&.footnote:after,
+	&.reversefootnote:after {
+		content: '';
+	}
 }
 
 *:focus {

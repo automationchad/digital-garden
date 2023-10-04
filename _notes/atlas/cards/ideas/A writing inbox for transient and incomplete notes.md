@@ -7,19 +7,6 @@ created: 2023-09-29
 tags:
   - 0🌲
 ---
-
-``` dataview
-TABLE WITHOUT ID
- file.link as "Encounters and new notes",
- (date(today) - file.cday).day as "Days alive"
-
-FROM "encounters" 
-
-SORT file.cday asc
-
-LIMIT 20
-```
-
 Even if you aspire to write [[Evergreen notes]], most notes begin as transient notes. You should be able to capture thoughts without friction ([[Close open loops]]), then reliably develop them into evergreen notes over time ([[Knowledge work should accrete]]). This implies two important mechanisms:
 
 1. a quick way to capture transient notes which clearly isolates them from evergreen notes; and

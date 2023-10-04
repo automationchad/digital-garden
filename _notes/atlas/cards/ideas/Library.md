@@ -2,7 +2,8 @@
 banner: 
 banner_y: 0.212
 ---
-![[Pasted image 20231001190849.png]]
+<img src="./assets/20231001190849.png" width="100%"/>
+
 
 > [!abstract]- The Marzella Classification System 
 > - [[#000 - Knowledge Management]], 

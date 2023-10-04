@@ -4,24 +4,20 @@ title: Home
 id: home
 permalink: /
 ---
+I'm Will. You may know me as *marzella*. Currently wandering the earth in search of adventure. 
+
+### You are here
+
+The Ronin Repository, a haven for sharing my ever-evolving ideas.
+
 <img src="https://cdna.artstation.com/p/assets/images/images/002/414/626/large/andreas-rocha-thelastfortress.jpg?1461446296" width="100%"/>
-## 🌏 Atlas
 
-These are maps to launch your `efforts`. 
+This space is where I engage in what some call [[digital gardening]], cultivating a thriving ecosystem of interconnected notes that continually challenge my beliefs and assumptions. In doing so, I strive to enhance my thinking, foster continuous learning, and fuel my creativity.
 
-> Where would you like to go?
+As you explore this repository, you'll find a few key links to start your journey:
 
-![[Pasted image 20231001190528.png]]
+- [[Library]]
+- [[Work with the garage door up]]
+- [[§What’s top of mind]]
 
-* To do inspired work, go to [[A writing inbox for transient and incomplete notes|Inbox]]
-- To launch into your knowledge, try out: [[Library]] | [[⎈People]] | [[§Sources]]
-- To catalyze your mind, go to your [[§Thinking]] and [[§List of cognitive biases]]).
-- For grounding, [[§What’s top of mind]], [[List of activities to do when feeling low-energy]], and [[⎈Life Map]].
-
-# 📆 Calendar
-
-> What's on your mind?
-
-
-* To journal, focus your day, or to capture a spark, go to [[2023-10-01|Daily working logs]]
-- To capture specific type of things, go to [[{{date}}|Captain's Logs]]
+Please note that, for now, there are no indices or conventional navigational aids. To embark on this intellectual voyage, you'll need to follow a link that piques your interest and sets you on your path. So, dive in, explore, and join me in this digital realm of discovery.
