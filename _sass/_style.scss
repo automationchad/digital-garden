@@ -115,8 +115,8 @@ a {
 	border-bottom: 1px solid $color-border;
 	color: $color-primary;
 	&:hover {
-		color: black !important;
-		background: #fffaf1;
+		color: #8b88e6 !important;
+		border-bottom: 1px solid #8b88e6 !important;
 	}
 	&:after {
 		position: relative;
@@ -135,7 +135,6 @@ a {
 *:focus {
 	color: #8b88e6 !important;
 	border-bottom: 1px solid #8b88e6 !important;
-	background: #fffaf1 !important;
 }
 
 nav {
