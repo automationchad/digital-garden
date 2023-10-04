@@ -6,6 +6,7 @@ permalink: /
 ---
 Hi, I'm Will. You may know me as *marzella*. Currently wandering the earth in search of adventure. 
 
+
 ### You are here
 
 The Ronin Repository, a haven for sharing my ever-evolving ideas.
