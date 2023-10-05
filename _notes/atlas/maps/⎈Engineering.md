@@ -29,7 +29,7 @@
     - [Materials engineering](https://en.wikipedia.org/wiki/Materials_engineering "Materials engineering")
     - [Molecular engineering](https://en.wikipedia.org/wiki/Molecular_engineering "Molecular engineering")
     - [Process engineering](https://en.wikipedia.org/wiki/Process_engineering "Process engineering") – also appears under industrial engineering
-- [Electrical engineering](https://en.wikipedia.org/wiki/Electrical_engineering "Electrical engineering") _([outline](https://en.wikipedia.org/wiki/Outline_of_electrical_engineering "Outline of electrical engineering"))_
+- [[§Electrical Engineering]]
     - [Broadcast engineering](https://en.wikipedia.org/wiki/Broadcast_engineering "Broadcast engineering")
     - [[§Computer Engineering]]
     - [Power systems engineering](https://en.wikipedia.org/wiki/Power_systems_engineering "Power systems engineering")
@@ -74,7 +74,7 @@
     - [Surface engineering](https://en.wikipedia.org/wiki/Surface_engineering "Surface engineering")
     - [Vitreous materials](https://en.wikipedia.org/wiki/Vitreous_materials "Vitreous materials") (glass)
     - [Welding](https://en.wikipedia.org/wiki/Welding "Welding")
-- [Mechanical engineering](https://en.wikipedia.org/wiki/Mechanical_engineering "Mechanical engineering")
+- [[§Mechanical Engineering]]
     - [Acoustical engineering](https://en.wikipedia.org/wiki/Acoustical_engineering "Acoustical engineering") – includes audio engineering
     - [Aerospace engineering](https://en.wikipedia.org/wiki/Aerospace_engineering "Aerospace engineering") – branch of engineering behind the design, construction and science of aircraft and spacecraft. It is broken into two major and overlapping branches:
         - [Aeronautical engineering](https://en.wikipedia.org/wiki/Aeronautical_engineering "Aeronautical engineering") – deals with craft that stay within Earth's atmosphere

@@ -1,10 +1,6 @@
 Creative work requires openness, interplay, slack, [[Sense of abundance]]. Fixation on output often creates [[Scarcity mindset]], subverts its own goal. Also readily makes creative work miserable.
 
-That being said, even [[Be pragmatic rather than dogmatic]], said another way: Never let bureaucracy stifle the human element. 
-
-Process is only ever implemented to make the human experience of value faster and better.
-
-If a process doesn’t serve that purpose any more, it is considered unnecessary bureaucracy, it is useless and is deleted.
+That being said, [[Be pragmatic rather than dogmatic|be pragmatic rather than dogmatic]] -- never let bureaucracy stifle the human element. Process is only ever implemented to make the human experience of value faster and better. If a process doesn’t serve that purpose any more, it is considered unnecessary bureaucracy, it is useless and instantly deleted.
 
 Related:
 
@@ -12,9 +8,11 @@ Related:
 - [[Momentum as explore-exploit heuristic in creative work]]
 - [[Recast celebrations as reflective spaces, rather than rewards]]
 - [[A rigid fixation on “focus” can harm creative work]]
-- [Remember I still love you](https://notes.andymatuschak.org/zRb4YASez79kbVav9Lfm4JA)
+- [[Are you still eating your vegetables?]]
 - [[The one-punch philosophy]]
 - [[Non-coercive productivity]].
+- [[Dig the tree deeper]]
+- [[Content versus structure]]
 
 ## References
 

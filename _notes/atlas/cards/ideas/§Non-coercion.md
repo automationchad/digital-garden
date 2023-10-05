@@ -12,7 +12,9 @@ Following the [[Levels of magnification|levels of magnification]], I see this pl
 
  2. *Peer-to-peer*: At this level, it's about forming relationships based on mutual respect and freedom, avoiding manipulative tactics and power plays ([[Non-coercive marketing; Anti-marketing]], [[Operate from the inside-out]]). This also means not just doing work that pays the bills, but engaging in endeavours that are intrinsically rewarding creating [[Non-coercive productivity]].
 
- 3. *Intellectually*: This is about sharpening your thinking to ensure you're making decisions from a place of autonomy ([[Do your own thinking]]), not conforming to societal norms or external pressures.
+ 3. *Intellectually*: This is about sharpening your thinking to ensure you're making decisions from a place of autonomy ([[Do your own thinking]]), not conforming to societal norms or external pressures. [[Only do things that are authentic to you]].
+
+A good heuristic for coercive actions is looking at friction. [[Friction tells us if we're forcing something not meant to be]].
 
 ---
 

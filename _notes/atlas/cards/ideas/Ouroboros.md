@@ -1,0 +1,1 @@
+Dragon or snake eating it's own tail.

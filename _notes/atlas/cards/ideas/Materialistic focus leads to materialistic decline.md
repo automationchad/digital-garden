@@ -12,5 +12,6 @@ See:
 
 - [[The endowment effect]]
 - [[Overfitting]]
-- [[§The tyranny of metrics]]
+- [[The tyranny of metrics]]
 - [[Cobra effect]]
+- [[Goodhart's Law]]

@@ -3,103 +3,43 @@ created: 2023-09-17
 tags:
   - 0🌲
 ---
-Have a look a this LinkedIn profile.
-
-[https://www.linkedin.com/in/carl-nygard/details/experience/](https://www.linkedin.com/in/carl-nygard/details/experience/)
-
-Below is a mapping out of his career.
+A journey through Carl Nygard's [LinkedIn profile](https://www.linkedin.com/in/carl-nygard/details/experience/](https://www.linkedin.com/in/carl-nygard/details/experience/) reveals a path not often highlighted in today's rapid-content culture... 
 
 ![[career-progression.png]]
 
 Notice something?
 
-This man was in the trenches for 8 years before he even touched consulting.
+Over eight years, he immersed himself deeply into his profession before transitioning to consulting. No YouTube channel. No courses. Just dedicated, hands-on experience. 
 
-He doesn’t have a YouTube channel.
+This brings to light a key understanding: [[Unstandardized outcomes cannot be standardized.]]
 
-He doesn’t sell a course.
+It's an important reminder that there's no template for unique achievements. 
 
-[[Unstandardized outcomes cannot be standardized.]]
+Every individual journey is just that - individual. 
 
-Meanwhile all these retards are trying to become “EXPERTS” just by watching YouTube vids.
+Yet, today's young generation, is often misled. Many believe they can become experts overnight, largely thanks to videos and online courses. 
 
-And the gurus are selling these retards:
+But expertise can't be rushed or faked. And the marketplace reflects this. 
 
-![[guru-1.png]]
+Yes, there are plenty of self-proclaimed 'gurus' eager to sell their knowledge....
+
+<img src="../../assets/guru-1.png" width="50%"/>
 
 ![[guru-3.png]]
 
-
+But as Nicolas Taleb wisely points out:
 
 > “Beware of the person who gives advice, telling you that a certain action on your part is “good for you” while it is also good for him, while the harm to you doesn’t directly affect him.” — Nicolas Taleb
 
-They may close some clients but it’s all the same — dweebs and squids selling and buying from dweebs and squids.
+While these gurus might find some success, they're mostly catering to those who're equally lost — dweebs and squids selling and buying from dweebs and squids (See: [[Ouroboros]])
 
-You wanna close the BIG biz?
+Want to land the big clients? Prove yourself first. Earn your place. Dive deep into your field. Grind. Learn. [[Pathemata mathemata]]. Achieve. And when you've amassed enough genuine experience, then, and only then, consider selling your expertise.
 
-Earn your stripes in the Trenches for an insanely LONG time.
+Take my uncle, for example. Today, he's raking in $5M a year as a consultant. But he didn't start there. He dedicated 25 years, working tirelessly, before he ventured into consultancy. 
 
-Learn some stuff. 
+And why can he charge what he does now? Because he truly understands complex problems. He spent many years accruing a random selection of skills and experiences and deployed them against many different types of problems.
 
-Achieve.
-
-[[Pathemata mathemata]]
-
-THEN sell your expertise.
-
-My uncle is making $5M a year at 50.
-
-He worked his ASS off for 25 years before he became a consultant.
-
-Why is he able to charge this much?
-
-Because he solves hard problems.
-
-He spent many years accruing a random selection of skills and experiences - and deployed them against many different types of problems.
-
-So how do you get started?
-
-First of all right now, don’t try and be the strategy guy.
-
-You have no idea on what strategies work and don’t work.
-
-Focus on doing the work and then you can draw the insights backwards once you’ve accrued the experience.
-
-You’re going to be facing an uphill battle with Motis Group, there are plenty of technology consultancies out there, that are bigger and are equipping with more skilled people.
-
-Do a bit of everything:
-
-1. Work the 9-5
-2. Start your own thing on the side
-3. Join a successful consulting firm.
-
-DO IT ALL.
-
-1. Work for startups for a couple more years (2021 — 2029), get into a management position.
-
-2. Start Motis Group and start consulting people independently (2029 - ongoing). Once you get into a management position (you’ll be able to help strategise more effectlively, as well as have more time to serve clients on the side because you’re no longer in the trenches at the W-2.
-    
-3. Keep running Motis Group and then join a big consulting firm (2037).
-    
-    [Thoughtworks: Delivering extraordinary impact together](https://www.thoughtworks.com/en-us)
-    
-
-Your task is to find a unique niche within tech (sales, APIs and AI) - using AI to make information gathering and querying easier.
-
-Point is that you can be patient because you’re collecting knowledge now.
-
-You don’t have to be UBER rich in 3 years. It’ll all go to waste anyway.
-
-Funnel money into RE investments and long term assets.
-
-[[Keeping the main thing the main thing]].
-
-Grow slowly but surely.
-
-Patient but furious.
-
-You’ll get there.
-
+Don't rush to be the strategist. Without genuine experience, it's impossible to discern which strategies are effective. Instead, focus on the groundwork. Build your foundation. With time and perseverance, you can draw the insights backwards.
 
 ---
 

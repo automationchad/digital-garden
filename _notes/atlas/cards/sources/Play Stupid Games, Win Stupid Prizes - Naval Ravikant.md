@@ -22,4 +22,4 @@ That whole space went to zero because Amazon won e-tail completely. There was no
 
 We got the booby prize because we were caught up in competition with a bunch of our peers. We should have been looking at what the consumer really wanted and being authentic to ourselves, which was reviews, not price comparison. We should have gone further into esoteric items where customers had less data and wanted reviews more badly.
 
-If we stayed authentic to ourselves, we would have done better.
+If we stayed [[Only do things that are authentic to you|authentic to ourselves]] we would have done better.

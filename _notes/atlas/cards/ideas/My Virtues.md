@@ -11,6 +11,8 @@
 
 `Def:` Multiple options open. Systems to obtain more options. Ability to walk away from options.
 
+[[Zig when everyone else zags]]
+
 ---
 
 [[⎈Proactivity]]

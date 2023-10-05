@@ -29,6 +29,7 @@ Go to my [[⎈Life Map]] to brush up on [[My Virtues]] and more.
 
 - [[⎈People]]
 - [[⎈Politics]]
+- [[⎈Warfare]]
 - [[⎈Society]]
 - [[⎈Law]]
 - [[⎈Relationships]]
@@ -41,8 +42,7 @@ A sharp break from the previous section, the 500s explore the natural world and 
 
 - [[Chemistry]]
 - [[Geology]]
-- [[Plants]]
-- [[Animals]]
+- [[⎈Biology]]
 - [[⎈Systems]]
 
 ## 600 - Applied Sciences

@@ -1,1 +1,3 @@
 Your focus should be laser-sharp—on the task at hand, not the broader context. Think of yourself as the master of the contents of a box, not the architect of the box itself. And while you might have solutions for a range of issues, don't overreach. Build systems designed for adaptability and ease of change, not complex monoliths meant to solve every conceivable issue.
+
+See: [[Be pragmatic rather than dogmatic]], [[Operate from the inside-out]]

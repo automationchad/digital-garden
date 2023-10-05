@@ -9,15 +9,4 @@ Have a place to honor the importance of the people your life.
 	- [[Entertainment Industry]]
 	- [[Literary Industry]]
 
-## Prominent People 🌋
-
-```dataview
-TABLE WITHOUT ID
- file.link as People,
- dates as "Years Lived"
-
-FROM #people
-
-SORT dates asc
-```
 
