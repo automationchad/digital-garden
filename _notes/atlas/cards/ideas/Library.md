@@ -35,7 +35,7 @@ Go to my [[⎈Life Map]] to brush up on [[My Virtues]] and more.
 - [[⎈Relationships]]
 
 ## 400 - Communications, Language, & Linguistics
-A fun section of the library, the 400s contains the underrated and oft-maligned subject of [[§Rhetoric]]. And one cannot talk long about rhetoric without talking about [[⎈Language]]. Not too far behind is the [[⎈Leadership]].
+A fun section of the library, the 400s contains the underrated and oft-maligned subject of [[§Rhetoric]]. And one cannot talk long about rhetoric without talking about [[⎈Language]]. Not too far behind is [[⎈Leadership]].
 
 ## 500 - Natural Sciences
 A sharp break from the previous section, the 500s explore the natural world and universe in glorious notes like [[⎈Cosmology]], [[⎈Math]] and [[§Consciousness]]. 

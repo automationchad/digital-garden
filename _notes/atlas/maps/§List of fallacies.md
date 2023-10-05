@@ -213,7 +213,7 @@ A red herring fallacy, one of the main subtypes of fallacies of relevance, is an
 ## See also
 
 - [Cognitive distortion](https://en.wikipedia.org/wiki/Cognitive_distortion "Cognitive distortion") – Exaggerated or irrational thought pattern
-- [[§List of cognitive biases]] – Systematic patterns of deviation from norm or rationality in judgment
+- [[§List of heuristics]] – Systematic patterns of deviation from norm or rationality in judgment
 - [List of common misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions "List of common misconceptions")
 - [List of memory biases](https://en.wikipedia.org/wiki/List_of_memory_biases "List of memory biases") – Systematic patterns of deviation from norm or rationality in judgment
 - [List of paradoxes](https://en.wikipedia.org/wiki/List_of_paradoxes "List of paradoxes")

@@ -8,11 +8,6 @@ Related: [[The Most Intolerant Wins - The Dictatorship of the Small Minority]]
 
 **Social Proof**: People look for cues from others on how to behave or think. The opinions of a vocal minority can serve as a de facto standard, skewing the perception of quality or value for a restaurant, for instance.
 
-**Negativity Bias**: Negative experiences often compel people to share more than positive experiences. A bad meal could lead to a scathing review, whereas a great meal might not elicit the same urgency to review. This creates a skewed public image.
-
-**The Matthew Effect**: Those who gain a little advantage (positive reviews, in this case) will continue to gain more, while those with initial disadvantages (negative reviews) will find it difficult to recover.
-
-
 See: 
 - [[Cult psychology]]
 - [[Influencing public opinion]]

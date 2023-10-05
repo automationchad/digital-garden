@@ -4,4 +4,4 @@ What makes a good argument? How can I think critically about complicated argumen
 
 ### Lists
 
-[[§List of fallicies]]
+[[§List of fallacies]]

@@ -14,7 +14,7 @@ Related:
 
 ## References
 
-[Ericsson et al - The Role of Deliberate Practice in the Acquisition of Expert Performance](https://notes.andymatuschak.org/zEkCRJXM9NYCXxzFoDaNhL)
+[[Ericsson et al - The Role of Deliberate Practice in the Acquisition of Expert Performance]]
 
 > Almost without exception, [writers](https://notes.andymatuschak.org/zEjyrAtUG7LbgKYWCBC1fpT) tend to schedule 3–4 hr of writing every morning and to spend the rest of the day on walking, correspondence, napping, and other less demanding activities (Cowley, 1959; Plimpton, 1977).
 

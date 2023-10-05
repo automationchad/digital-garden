@@ -4,5 +4,5 @@ If you’ve thought them through, negatively-oriented notes usually contain a de
 
 For example:
 
-- [Metacognitive supports require dynamic, participatory environments](https://notes.andymatuschak.org/zADYGiM6rnN6iTBHqVa6kiu), not “Passive environments can’t offer good metacognitive support”
+- [[Metacognitive supports require dynamic, participatory environments]], not “Passive environments can’t offer good metacognitive support”
 - [[Use phones to collect and triage, not (usually) to read]], not “Don’t read on your phone”

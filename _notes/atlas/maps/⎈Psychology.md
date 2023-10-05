@@ -11,4 +11,5 @@
 
 ### Lists
 
-[[§List of cognitive biases]]
+[[§List of heuristics]]
+[[List of cognitive biases]]

@@ -12,4 +12,4 @@ A. You’re thinking about accomplishing the whole task (“getting it done”) 
 
 ## References
 
-[Solving the Procrastination Puzzle - Timothy Pychyl](https://notes.andymatuschak.org/zGtbUHQDrBoiSdtnXYxdF8n)
+[[Solving the Procrastination Puzzle - Timothy Pychyl]]

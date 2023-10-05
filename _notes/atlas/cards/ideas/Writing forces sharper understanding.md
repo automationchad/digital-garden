@@ -2,7 +2,7 @@ Writing is a great way to put pressure on your thinking: it’s hard to summariz
 
 The additional step of making associations and integrating that writing with prior notes (i.e. to create [[Evergreen notes]] particularly since [[Evergreen notes should be concept-oriented]]) makes this effect even more powerful because you have to understand how a given idea relates to other ideas. And when you’re comparing the new ideas to the old, you can see what’s _not_ being said in the new work.
 
-This practice is a rough kind of metacognitive support: [Metacognitive supports as cognitive scaffolding](https://notes.andymatuschak.org/zL2zRTTRhWf1Lx4x9p2uCDt).
+This practice is a rough kind of metacognitive support: [[Metacognitive supports as cognitive scaffolding]].
 
 This observation appears to be true even for non-prose writing: [Many eminent thinkers need a writing surface to think](https://notes.andymatuschak.org/zGEw4kJNMh8aK19aD2NyV6r)
 

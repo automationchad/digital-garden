@@ -1,7 +1,5 @@
 Therapeutic methodology with roots in [[Gestalt psychology]]. Rather than trying to treat issues simply with [[Non-identification]] as in [[Buddhism]] or [[Cognitive behavioral therapy]], it emphasizes “unblending” (as in those traditions) in order to build an explicit relationship with one’s burdened “parts.”
 
-See also [Log - IFS](https://notes.andymatuschak.org/zAH2hnong9hw7rBdQA3XMnk)
-
 ## Evidential base
 
 - Haddock, S. A., Weiler, L. M., Trump, L. J., & Henry, K. L. (2017). The Efficacy of Internal Family Systems Therapy in the Treatment of Depression Among Female College Students: A Pilot Study. Journal of Marital and Family Therapy, 43(1), 131–144. [https://doi.org/10.1111/jmft.12184](https://doi.org/10.1111/jmft.12184)
@@ -9,7 +7,7 @@ See also [Log - IFS](https://notes.andymatuschak.org/zAH2hnong9hw7rBdQA3XMnk)
 
 ---
 
-Q. Pendulum-based metaphor for IFS’s harmony between parts, per [Maryanna Saenko](https://notes.andymatuschak.org/Maryanna_Saenko)?  
+Q. Pendulum-based metaphor for IFS’s harmony between parts, per [[Maryanna Saenko]]?  
 A. Balancing parts’ needs is like an inverted pendulum: dynamically unstable!
 
 ---
@@ -45,4 +43,4 @@ A. …
 
 ## References
 
-[Self-Therapy - Earley](https://notes.andymatuschak.org/zCAUiGe5aHakEY2F6YMdamU)
+[[Self-Therapy - Earley]]
