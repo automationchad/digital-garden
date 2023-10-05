@@ -1,4 +1,5 @@
 ---
+title:
 up: []
 related: []
 created: {{date}}
@@ -10,9 +11,5 @@ tags:
 - 
 
 ## Directions
-
-- 
-
-## Notes
 
 - 
