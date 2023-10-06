@@ -62,5 +62,5 @@ In this process, we find that by enlightening others, we further our own journey
 
 See: 
 
-- [[There are problems to be solved and problems to be enjoyed]]
+- [[problems to be solved and problems to be enjoyed]]
 - [[There are only varying levels of active income]]

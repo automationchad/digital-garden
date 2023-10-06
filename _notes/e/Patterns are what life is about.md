@@ -14,7 +14,7 @@ If no pattern fits, rely on fundamental principles and sound judgment.
 
 See: 
 
-- [[There are problems to be solved and problems to be enjoyed]]
+- [[problems to be solved and problems to be enjoyed]]
 - [[How to structure patterns]]
 
 
