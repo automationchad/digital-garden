@@ -1,7 +1,7 @@
 ---
 title: Library
 ---
-<img src="./assets/20231001190849.png" width="100%"/>
+<img src="~/assets/20231001190849.png" width="100%" />
 
 ## 000 - Knowledge Management
 

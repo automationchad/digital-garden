@@ -1,0 +1,1 @@
+Understand the 3 relationships types: co-dependent, independent, inter-dependent. Identify and eliminate co-dependencies in your intimate relationships.

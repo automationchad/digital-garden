@@ -1,3 +1,3 @@
-In the philosophy of [[existentialism]], **bad faith** (_mauvaise foi_) is the psychological phenomenon whereby individuals act [[Autheticity|inauthentically]], by yielding to the external pressures of society to adopt false values and disown their innate freedom as sentient human beings. 
+In the philosophy of [[existentialism]], **bad faith** (_mauvaise foi_) is the psychological phenomenon whereby individuals act [[Authenticity|inauthentically]], by yielding to the external pressures of society to adopt false values and disown their innate freedom as sentient human beings. 
 
 Bad faith also derives from the related concepts of [[Self-deception]] and _[ressentiment](https://en.wikipedia.org/wiki/Ressentiment "Ressentiment")_.
