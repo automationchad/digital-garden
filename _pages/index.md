@@ -13,25 +13,25 @@ The Ronin Repository.
 
 <img src="https://cdna.artstation.com/p/assets/images/images/002/414/626/large/andreas-rocha-thelastfortress.jpg?1461446296" width="100%"/>
 
-My sanctuary is an ever-evolving collection of solutions and observations—a dynamic [[pattern language]] for understanding the very nature of existence.
+An ever-evolving collection of solutions and observations—a dynamic [[pattern language]] for understanding the very nature of existence.
 
-I strive to acquire, use and [[Work with the garage door up|share]] consumate skill and technique.
+Acquiring, using and [[Work with the garage door up|sharing]] consumate skill and technique.
 
-For posterity, this tapestry is my legacy. It's something I hope to leave behind for my children: [[Storytelling is how we ultimately advanced as a species]]. With every story passed down, we were spared from reliving our ancestors' follies.
+The other goal is to leave this tapestry behind for my children ([[Storytelling is how we ultimately advanced as a species]]). With every story passed down, we were spared from reliving our ancestors' mistakes.
 
-That's why I use [[Obsidian]], a bastion for enduring wisdom.
+That's why I use [[Obsidian]], a durable tool for knowledge growth.
 
-Navigate these notes with an open heart: some will offer solutions, while others may merely be musings, enigmas to contemplate. 
+Please navigate these notes with an open heart: some will offer solutions, while others may merely be observations; concepts to contemplate. 
 
 Remember, reality offers [[problems to be solved and problems to be enjoyed]]. So, approach each note without preconceived notions—some aim to spur action, others to inspire introspection.
 
-The wonder of this intricate web lies in its organic design. It eschews rigid categorization, inviting you instead to let patterns naturally unfold. A network of interlinked ideas, it mirrors the synaptic dance of our minds. 
+The true wonder of this intricate web lies in its organic design. A network of interlinked ideas, it mirrors the synaptic dance of our minds. [[So above as below]]. It removes rigid categorization, inviting you instead to meander through, you might find new patterns emerging, new connections taking root. 
 
-This isn't your traditional navigation—with no indices or familiar pathways. Begin your exploration by pursuing a link that resonates.
+That is the essence of this sanctuary: to cultivate a fertile ground, a nexus where ideas germinate and flourish, getting us closer to the [[Truth]].
+
+Begin your exploration by pursuing a link that resonates.
 
 - [[Library]]
 - [[§What’s top of mind]]
-
-As you meander through, you might find new patterns emerging, new connections taking root. That is the essence of this sanctuary: to cultivate a fertile ground, a nexus where ideas germinate and flourish, beckoning us closer to the [[Truth]].
 
 👋 Will Marzella
