@@ -29,7 +29,7 @@ We need to stop categorizing prospects by the company demographics that don’t 
 
 That doesn’t mean we completely throw out the notion of company demographics like size, revenue and other hard number metrics — we’d use these metrics for **quantitative** situations like cost estimates — BUT for problem solving which is more qualitative we CANNOT apply quantitative tools. See: [[Disorder is the domain in which we don’t know which of the domains dominate, so we behave according to our preferred domain.]]
 
-Following [[atlas/cards/ideas/The Cynefin framework]] allows us to qualitatively categorize the companies that we attract _**and**_ the problems they face incredibly easily.
+Following [[The Cynefin framework]] allows us to qualitatively categorize the companies that we attract _**and**_ the problems they face incredibly easily.
 
 Utilizing knowledge inappropriately in a specific context can lead to failure, and a prime example of this can be seen when attempting to bring an intelligent and authentic marketing approach to an industry that doesn’t align with those principles. Consider the insurance industry, a sector largely operating on fueling fears rather than engaging people’s rationality.
 

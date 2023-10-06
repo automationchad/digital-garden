@@ -1,32 +1,37 @@
 @font-face {
 	font-family: 'Atkinson Hyperlegible';
-	src: url('./_fonts/Atkinson-Hyperlegible-Regular-102a.woff2') format('woff2'),
-		url('./_fonts/Atkinson-Hyperlegible-Regular-102a.woff') format('woff');
+	src: url('../assets/fonts/Atkinson-Hyperlegible-Regular-102a.woff2')
+			format('woff2'),
+		url('../assets/fonts/Atkinson-Hyperlegible-Regular-102a.woff')
+			format('woff');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'Atkinson Hyperlegible';
-	src: url('./_fonts/Atkinson-Hyperlegible-Italic-102a.woff2') format('woff2'),
-		url('./_fonts/Atkinson-Hyperlegible-Italic-102a.woff') format('woff');
+	src: url('../assets/fonts/Atkinson-Hyperlegible-Italic-102a.woff2')
+			format('woff2'),
+		url('../assets/fonts/Atkinson-Hyperlegible-Italic-102a.woff') format('woff');
 	font-weight: normal;
 	font-style: italic;
 }
 
 @font-face {
 	font-family: 'Atkinson Hyperlegible';
-	src: url('./_fonts/Atkinson-Hyperlegible-Bold-102a.woff2') format('woff2'),
-		url('./_fonts/Atkinson-Hyperlegible-Bold-102a.woff') format('woff');
+	src: url('../assets/fonts/Atkinson-Hyperlegible-Bold-102a.woff2')
+			format('woff2'),
+		url('../assets/fonts/Atkinson-Hyperlegible-Bold-102a.woff') format('woff');
 	font-weight: bold;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'Atkinson Hyperlegible';
-	src: url('./_fonts/Atkinson-Hyperlegible-BoldItalic-102a.woff2')
+	src: url('../assets/fonts/Atkinson-Hyperlegible-BoldItalic-102a.woff2')
 			format('woff2'),
-		url('./_fonts/Atkinson-Hyperlegible-BoldItalic-102a.woff') format('woff');
+		url('../assets/fonts/Atkinson-Hyperlegible-BoldItalic-102a.woff')
+			format('woff');
 	font-weight: bold;
 	font-style: italic;
 }
@@ -38,8 +43,7 @@ $color-border: hsl(0, 0%, 85%);
 $color-action: #147d82;
 $color-box-background: mix($color-primary, white, 4%);
 $border-radius: 4px;
-$font-family: --apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
-	Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+$font-family: 'Atkinson Hyperlegible', sans-serif;
 
 body {
 	box-sizing: content-box;
