@@ -11,11 +11,11 @@ Hi, I'm Will. You may know me as *marzella* [[Who is this guy?|that]] fella. Cur
 
 The Ronin Repository.
 
+<img src="https://cdna.artstation.com/p/assets/images/images/002/414/626/large/andreas-rocha-thelastfortress.jpg?1461446296" width="100%"/>
+
 A haven for acquiring, using and [[Work with the garage door up|sharing]] my ever-evolving [[pattern language]] for life.
 
 *It's an interconnected set of solutions to common problems*.
-
-<img src="https://cdna.artstation.com/p/assets/images/images/002/414/626/large/andreas-rocha-thelastfortress.jpg?1461446296" width="100%"/>
 
 In doing so, I strive to enhance my thinking, foster continuous learning, and fuel my creativity.
 
