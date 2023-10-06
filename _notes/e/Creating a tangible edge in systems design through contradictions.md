@@ -16,7 +16,7 @@ These individuals often steep themselves in theory. While that's valuable for gr
 
 In contrast, we (mechanical engineers) see the "Lego pieces" more clearly and intuitively grasp how they ought to be assembled. We're not just mechanical engineers; we're system architects.
 
-Additional insights: [[The dance of form and function]], [[Deep understanding requires (and is a result of) intense personal connection]]
+Additional insights: [[Form versus function]], [[Deep understanding requires (and is a result of) intense personal connection]]
 
 ---
 

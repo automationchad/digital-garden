@@ -4,7 +4,7 @@ Before diving into this exploration of the intricate relationship between politi
 
 - **Non-duality:** The philosophical, spiritual, and scientific understanding of non-separation and fundamental intrinsic oneness.
 - [[Spiral Dynamics]]: A psychological approach to understanding the evolution of human consciousness.
-- **Self-Deception:** The mechanisms by which individuals lie to themselves to evade moral responsibility.
+- [[Self-deception]]: The mechanisms by which individuals lie to themselves to evade moral responsibility.
 - **Survival:** The basic drive behind all human actions and systems.
 - **Collective Ego:** The shared illusions and beliefs that hold together any social construct, be it a tribe, nation, or ideology.
 - **Devilry:** A comprehensive understanding of what constitutes "evil," its origins, and its mechanisms.

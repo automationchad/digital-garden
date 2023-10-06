@@ -6,7 +6,7 @@ A significant insight emerges: your level of consciousness directly shapes your 
 
 ### Structural vs. Content-driven Ideologies
 
-When considering political views, it's crucial to distinguish between content and structure. Content refers to specific beliefs and ideologies, like religious affiliation or stance on gun control. Structure, on the other hand, focuses on the underlying cognitive patterns that lead to these beliefs. One's "circle of concern"—the range of entities one cares about—becomes a pivotal aspect of this structure.
+When considering political views, it's crucial to distinguish between content and structure. Content refers to specific beliefs and ideologies, like religious affiliation or stance on gun control. Structure, on the other hand, focuses on the underlying cognitive patterns that lead to these beliefs. One's "circle of concern"—the range of entities one cares about—becomes a pivotal aspect of this structure. See: [[Don't confuse content and structure]]
 
 ### Developmental Psychology and the Expanding Circle of Concern
 

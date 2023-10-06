@@ -130,7 +130,7 @@ Many of these concepts are discussed throughout all my videos. Many of them are 
 - Neuroticism, Victim Mindset
 - Judgment, Moralization
 - True Happiness vs False Happiness, Distinguishing Success vs Growth
-- Gross vs Subtle
+- [[Gross versus Subtle]]
 - Culture, Marketing, Society
 - Overcoming Addictions, Hard Addictions, Soft Addictions
 - What are thoughts, what is thinking, what are symbols, the map is not the territory

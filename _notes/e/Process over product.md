@@ -12,7 +12,7 @@ Related:
 - [[The one-punch philosophy]]
 - [[Non-coercive productivity]].
 - [[Dig the tree deeper]]
-- [[Content versus structure]]
+- [[Don't confuse content and structure]]
 
 ## References
 
