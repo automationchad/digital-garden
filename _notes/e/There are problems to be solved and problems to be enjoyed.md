@@ -3,8 +3,6 @@ created: 2023-09-17
 tags:
   - 0🌲
 ---
-# There are problems to be solved and problems to be enjoyed.
-
 When you dive into the complexity of life, you realize not all problems are created equal.
 
 In business, problems are equations waiting for solutions. They are challenges that demand strategy, tactics, and execution. They have clear metrics—either you improve your revenue, optimize performance, or you don't. Time is money; there's no room for romanticizing the issue. Failure to solve business problems compromises the entire operation, possibly leading to the company's downfall.

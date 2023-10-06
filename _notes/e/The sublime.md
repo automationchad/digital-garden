@@ -1,4 +1,4 @@
-The classical notion of the sublime was fathered by [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant "Immanuel Kant") in his work _[Observations on the Feeling of the Beautiful and Sublime](https://en.wikipedia.org/wiki/Observations_on_the_Feeling_of_the_Beautiful_and_Sublime "Observations on the Feeling of the Beautiful and Sublime")_ (1764).[[4]](https://en.wikipedia.org/wiki/Digital_sublime#cite_note-4).
+The classical notion of the sublime was fathered by [[Immanuel Kant]] in his work _[Observations on the Feeling of the Beautiful and Sublime](https://en.wikipedia.org/wiki/Observations_on_the_Feeling_of_the_Beautiful_and_Sublime "Observations on the Feeling of the Beautiful and Sublime")_ (1764).
 
 He defined the [Sublime](https://en.wikipedia.org/wiki/Sublime_(philosophy) "Sublime (philosophy)") in his piece _[Critique of Judgment](https://en.wikipedia.org/wiki/Critique_of_Judgment "Critique of Judgment")_ (1790) as:
 
