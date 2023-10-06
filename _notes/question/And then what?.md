@@ -1,5 +1,4 @@
 <img src="https://cdnb.artstation.com/p/assets/images/images/066/557/945/large/sylvain-sarrailh-danghostisland.jpg?1693217274" width="100%"/>
-![[DALL·E 2023-10-06 00.33.43 - Oil painting of a serene Brazilian coastal setting. The man in a suit, with a slightly arrogant demeanor, stands with one hand in his pocket, looking .png]]
 
 In a dusty corner of a Brazilian coastal town, a man in a suit found himself staring at the ocean, probably trying to calculate the net worth of the water. 
 
@@ -28,5 +27,3 @@ The fisherman exhales, "How long?"
 The businessman grins, "Then? You retire. Get a nice place by the sea, wake up at dawn, fish a little, play with your kids, nap with your wife, drink with your pals at night. Bliss."
 
 The fisherman, with a smirk of his own, takes another drag, "You mean, like I'm doing right now?"
-
-![[a69f27b2-baa5-4f32-9d32-ebaf07aeceda.png]]
