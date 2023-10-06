@@ -13,7 +13,7 @@ For instance, replacing outdated office equipment might be an [[Obvious problems
 
 Coding a data pipeline that transfers data between a databases might fall into the [[Complicated problems have predictable solutions, but require expertise to understand.]] domain.
 
-Developing a new product for a market the company has never served before could fall into the [[Acting in the space causes the space to change, and cause and effect can only be understood in retrospect.]] domain.
+Developing a new product for a market the company has never served before could fall into the [[Acting in the space causes the space to change, and cause and effect can only be understood in retrospect]] domain.
 
 Managing a sudden crisis, such as a major product recall or PR disaster, might fall into the [[Chaos is a transient domain; it resolves itself quickly, and not necessarily in your favour.]] domain.
 
@@ -43,9 +43,9 @@ Q: “Someone in our organization has done this OR we have access to expertise s
 A: [[Complicated problems have predictable solutions, but require expertise to understand.]]
 
 Q: “Someone’s done this, but not in this context; don’t know what they discovered, or if it’ll be viable for us to replicate it”
-A: [[Acting in the space causes the space to change, and cause and effect can only be understood in retrospect.]]
+A: [[Acting in the space causes the space to change, and cause and effect can only be understood in retrospect]]
 
 Q: “Nobody’s done this before; it might not work at all”
-A: [[Acting in the space causes the space to change, and cause and effect can only be understood in retrospect.]], [[Chaos is a transient domain; it resolves itself quickly, and not necessarily in your favour.]]
+A: [[Acting in the space causes the space to change, and cause and effect can only be understood in retrospect]], [[Chaos is a transient domain; it resolves itself quickly, and not necessarily in your favour.]]
 
 ---

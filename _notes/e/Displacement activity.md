@@ -13,7 +13,7 @@ See also: 
 
 - [[Team environments make it easy to fool yourself with displacement activities]]
 - [[Champagne problems]]
-- [[Overcomplicating and resistance]]
+- [[Resistance]]
 
 ---
 

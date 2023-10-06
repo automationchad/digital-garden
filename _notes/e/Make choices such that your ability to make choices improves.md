@@ -1,33 +1,34 @@
+When it comes to financial wealth and career building and life at large, [[Acting in the space causes the space to change, and cause and effect can only be understood in retrospect]].
 
-> Choose the option that gives you the most options 
+It's akin to venturing into an ever-evolving maze.
 
--- My Dad
+Given that our actions invariably reshape this maze, making predictions becomes a Sisyphean task. 
 
-When it comes to financial wealth and career building because [[Acting in the space causes the space to change, and cause and effect can only be understood in retrospect.]], there's no point in trying to analyze all the options upfront.
+It's the equivalent of attempting to forecast the precise turns of a river while you're still redirecting its course. 
 
-Which person should I talk to?
+Overanalyzing every potential turn – "Should I strike a conversation with that influential figure?", "How will event XYZ pan out?" – often leads us down the rabbit hole of [[Champagne problems]]. 
 
-What will happen if XYZ?
+These inconsequential dilemmas, though tempting, only serve to cloud our vision.
 
-Blah, blah, blah.
+So, how does one navigate this intricate labyrinth? The key lies in selecting the pathways that broaden our horizons, enhance our skills, and amplify our potential choices. 
 
-Usually they're [[Champagne problems]]
+> Choose the option that gives you the most options -- My Dad
 
-And most answers will only become clear in hindsight.
+By continuously enhancing our capability to operate in this complex space, we not only amass wealth but also accumulate responsibility. 
 
-Q: So what decision do you make?
+It's a cycle: the more responsibility you shoulder, the more financial opportunities you unlock.
 
-A: The option before us that will enable us to operate in the complex space more effectively.
+As you scale this ladder of choices and responsibilities, a tipping point will inevitably emerge. 
 
-Money follows responsibility. If you want more, become responsible for more. 
-
-Expand your choices until the deciding on the choices themselves is itself limiting.
+This juncture, where the abundance of choices starts restricting your efficiency, signals the need to re-evaluate, refine, and refocus. 
 
 [[Scale is when you have full market share without compromising value.]]
 
 At this point you can cut back and re-focus your energy on the core areas that open up more space for the next project.
 
-I suspect these moments of cutting back / re-evalutation will form the chapters of your life.
+These moments of cutting back / re-evalutation will form the chapters of your life. 
+
+It's an iterative process of expansion, re-evaluation, and refocusing that determines your trajectory, be it a decision to move countries or simply the next career move.
 
 See:
 

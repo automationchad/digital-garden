@@ -17,7 +17,7 @@ There are two components to a system:
 
 These are the surface level things: your skills, abilities, and practical experience. This is your persona ([[Persona capitalizes on opportunities]]). 
 
-Note: It needs to be well defined, and its something that we consistently like to get cute with ([[Overcomplicating and resistance]]).
+Note: It needs to be well defined, and its something that we consistently like to get cute with ([[Resistance]]).
 
 You want a clear offering and a clear workflow. 
 

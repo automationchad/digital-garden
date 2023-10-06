@@ -1,0 +1,13 @@
+I notice that [Disneyland](https://notes.andymatuschak.org/zKDbF4BB6LNk4zCFGJk4SSN)’s newest Star Wars rides—particularly Rise of the Resistance—are only 5-10 minutes long. Yet in that time, I suspect riders are exposed to more than 100,000 person-hours of creative work. That’d be ~75 people full-time for a year (assuming 30 hrs/week for 44 weeks). It’s a remarkable feeling of compression, a level of intentional-detail-per-second in a sensory experience I’ve seen almost nowhere else. What a remarkable ratio—100k hours to 5-10 minutes. Does any other experience in the world have similar numbers?
+
+I think this feeling of compression is part of why I love theater—at an especially elaborate musical or opera, there’s likely also 100,000 person-hours of creative work on display. But it’s spread out over three hours, not 5-10 minutes, so, the effect is not nearly so overwhelming.
+
+[Sara](https://notes.andymatuschak.org/zGgc6msFsU8vqNMqk2kVxJ3) suggests: short films (maybe especially labor-intensive ones like claymation)? Could get close, but I suspect it’s quite rare for short films to have that much full-time staff for so long.
+
+Cathedrals? Walking into Sagrada Familia or St. Peter’s certainly produces an overwhelming feeling—the compression of creative human effort. Of course, one is meant to spend much than 5-10 minutes in a cathedral, but the overwhelming awe effect is arguably concentrated in the first few minutes.
+
+Stage magicians and circus performers will sometimes spend many years training to perform a specific trick or act. These are astounding; I think they generate a similar feeling of compression in part because they’re often much briefer. Two people could spend 10k hrs on a 1min routine—same ratio.
+
+In general, you won’t typically get to 100,000 hours of person-time with a small group of individuals. You’d need multiple decades of full-time preparation with <5 people.
+
+Immersive games like [Journey](https://notes.andymatuschak.org/z3aGFr9R7PZiWNAf4fCLenN) and [The Witness](https://notes.andymatuschak.org/zPf1LNEPcGriTJYips6UP7J) produce a compression feeling along these lines. These games are likely in the high tens of thousands of person-hours of creative work, but spread out over many hours of play-time. It’s interesting that they manage to produce such a strong feeling of compression, even though their time ratio is 10-100x lower. The explanation might be the efficiency of digital media: the physical environment and autonomous vehicles of the Disney rides likely consume vastly more time-per-detail to execute than a congruent virtual environment.

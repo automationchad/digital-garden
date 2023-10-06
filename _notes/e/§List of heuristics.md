@@ -38,7 +38,7 @@
 38. **Tetris effect:** When we indulge in a game of Tetris - or _any_ activity - for a long time, it structures our overall perception in other areas too. What we do _most often_ becomes the filter via which we perceive the world. When sailors return from sea, the land moves like waves.
 39. **Cheerleader effect**: Individually unattractive people look attractive in groups. First coined by Barney Stinson in _How I Met Your Mother,_ this effect has been replicated in psych experiments. The onlooker gathers an overall pleasant impression by overlooking what's unattractive.
 40. **Diderot effect**: We need the products we consume to complement, and coherent with, each other. Diderot was gifted a scarlet gown that outshone everything else in his house. The incongruence disturbed him, leading to lifestyle updates that only stopped when he was sunk in debt.
-41. [[Cobra effect]]: When incentives designed to solve a problem end up rewarding people for making it worse.
+41. [[Perverse incentive]]: When incentives designed to solve a problem end up rewarding people for making it worse.
 42. [[Goodhart's Law]]: When a measure becomes a target, it ceases to be a good measure.
 43. [[Buy wisely]]: Optimize for the lifetime cost of use when making purchasing decision.
 44. [[The Dunning-Kruger Effect]]: People with limited competence in a particular domain overestimate their abilities.

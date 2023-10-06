@@ -12,6 +12,6 @@ Be approachable and kind. Listen more than you speak. It’s simple social dynam
 
 **Make it easy.** This is your mantra. Life already throws enough challenges at people. Don't be another one. Make interactions with you smooth and painless.
 
-Most people are inherently lazy. Or maybe it's more accurate to say they're efficient—they don't want to expend more energy than they have to (Contra: [[Overcomplicating and resistance]]).
+Most people are inherently lazy. Or maybe it's more accurate to say they're efficient—they don't want to expend more energy than they have to (Contra: [[Resistance]]).
 
 This aligns well with the philosophy of [[Process over product]]. The way you do something often matters more than what you're actually doing. Make that process straightforward, and people are more likely to engage with the product, be it a service you’re offering or a relationship you’re building.

@@ -10,7 +10,7 @@ John Littlewood (the English mathematician) wrote:
 
 > I have tried to learn mathematics outside my fields of interest; after any interval I had to begin all over again.
 
-[Jonathan Blow](https://notes.andymatuschak.org/zJXLfxsJJ7VnXYvaJWQZzyL) on [a HN comment](https://news.ycombinator.com/item?id=7789438):
+[[Jonathan Blow]] on [a HN comment](https://news.ycombinator.com/item?id=7789438):
 
 > - More broadly, the best and most creative work comes from a root of joy and excitement. If you lose your ability to feel joy and excitement about programming-related things, you’ll be unable to do the best work. That this issue is separate from and parallel to burnout! If you are burned out, you might still be able to feel the joy and excitement briefly at the start of a project/idea, but they will fade quickly as the reality of day-to-day work sets in. Alternatively, if you are not burned out but also do not have a sense of wonder, it is likely you will never get yourself started on the good work.
 

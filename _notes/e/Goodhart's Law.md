@@ -8,7 +8,7 @@ Never letting metrics, numbers, scale or bean-counters get in the way of what ma
 
 Also see: 
 
-- [[Cobra effect]]
+- [[Perverse incentive]]
 - [[Overfitting]]
 
 ---

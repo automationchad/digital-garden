@@ -7,7 +7,7 @@ Related notes:
 - [[Strike while the iron is hot]]
 - [[Get playful]] / [[Get curious]]
 - [[Beware a sense of “should”]]
-- [[Overcomplicating and resistance]]
+- [[Resistance]]
 
 Less directly:
 
