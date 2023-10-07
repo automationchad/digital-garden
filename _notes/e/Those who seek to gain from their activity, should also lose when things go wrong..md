@@ -31,7 +31,7 @@ But as Nicolas Taleb wisely points out:
 
 > “Beware of the person who gives advice, telling you that a certain action on your part is “good for you” while it is also good for him, while the harm to you doesn’t directly affect him.” — Nicolas Taleb
 
-While these gurus might find some success, they're mostly catering to those who're equally lost — dweebs and squids selling and buying from dweebs and squids (See: [[Ouroboros]])
+While these gurus might find some success, they're mostly catering to those who're equally lost — dweebs and squids selling and buying from dweebs and squids (See: [[Ouroboros]], [[Pyramid schemes]])
 
 Want to land the big clients? Prove yourself first. Earn your place. Dive deep into your field. Grind. Learn. [[Pathemata mathemata]]. Achieve. And when you've amassed enough genuine experience, then, and only then, consider selling your expertise.
 
