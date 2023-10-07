@@ -19,7 +19,7 @@ But the path of the master does not stop at an individual's acquisition and usag
 
 Mastery takes that consumate skill and technique and [[Work with the garage door up|shares it]] to enhance the skills of others by order of magnitude.
 
-[[Storytelling is how we ultimately advanced as a species]]. With every story passed down, we were spared from reliving our ancestors' mistakes.
+[[Storytelling is how we ultimately advanced as a species]]. With every story, we're spared the time of experience to learn that same lesson.
 
 That's why I use [[Obsidian]], a durable tool for knowledge growth.
 
