@@ -41,7 +41,7 @@ $color-text: hsl(0, 0%, 15%);
 $color-subtext: hsl(0, 0%, 30%);
 $color-border: hsl(0, 0%, 85%);
 $color-action: #147d82;
-$color-box-background: mix($color-primary, white, 4%);
+$color-box-background: mix($color-primary, black, 4%);
 $border-radius: 4px;
 $font-family: 'Atkinson Hyperlegible', sans-serif;
 
@@ -55,7 +55,7 @@ body {
 	background-color: #fcf5e4;
 	color: $color-text;
 	font-size: 1rem;
-	max-width: 48em;
+	max-width: 62em;
 	@media (min-width: 820px) {
 		font-size: 1.2rem;
 	}
@@ -153,7 +153,7 @@ nav {
 		'content'
 		'side';
 
-	@media (min-width: 700px) {
+	@media (min-width: 48em) {
 		grid-template-columns: 3fr 1fr;
 		grid-template-areas: 'content side';
 	}
