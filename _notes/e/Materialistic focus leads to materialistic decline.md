@@ -12,6 +12,6 @@ See:
 
 - [[The endowment effect]]
 - [[Overfitting]]
-- [[The tyranny of metrics]]
+- [[The Tyranny Of Metrics - Jerry Muller]]
 - [[Perverse incentive]]
 - [[Goodhart's Law]]

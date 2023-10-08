@@ -7,3 +7,5 @@ My mission on this planet is to be the founding father of the Marzella family dy
 The Marzella family business empire will be comprised of technology, media, and real estate companies, consolidating human and intellectual capital, and other resources of financial leverage – to pass the baton; to create Old Money and a family that is a beacon of hope for the end of the 21st century and beyond. To “sever” our finite animalistic ties.
 
 My goal is to continue the infinite play; my family Empire does not _oppose_ the actions of others, but _initiates_ actions of our own in such a way that others will respond by initiating _their_ own. It is to construct a SD Yellow family culture that internalizes and mass promotes systemic, integral, emergent and transcendent values.
+
+See: [[Stagnation in the West]]
