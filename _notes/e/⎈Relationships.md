@@ -6,4 +6,4 @@
 - [[Love is more than sex]]
 - [[Self-interest is the lever that will move people]]
 - [[Are you still eating your vegetables?]]
-- 
+- [[Relationship types]]

@@ -172,12 +172,11 @@ code {
 }
 
 .invalid-link {
-	color: #515151;
+	color: #147d827a;
 	cursor: help;
 	padding: 0;
 }
 
 .invalid-link-brackets {
-	color: #ccc;
-	cursor: help;
+	display: none;
 }
