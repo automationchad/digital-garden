@@ -1,4 +1,4 @@
- It’s important to look at how fear works and how it influences your decisions.  Your fears manifest in a multitude of ways that you aren’t even aware of.  **You’ll never reach your full potential unless you conquer your fears.**
+It’s important to look at how fear works and how it influences your decisions.  Your fears manifest in a multitude of ways that you aren’t even aware of.  **You’ll never reach your full potential unless you conquer your fears.**
 
 **These simple questions have the power to clarify and uproot the most crippling of fears.**  If you’re facing a major decision, or having doubts about a big decision that you’ve already made, sit down and ask yourself:
 
