@@ -51,7 +51,7 @@ Related:
 - [[Premature scaling can stunt system iteration]] 
 - [[Enabling environments focus on doing what’s enabled]]
 - [[Make it intuitive]]
-- [[§Sovereignty]]
+- [[Skills over process]]
 
 
 ### References

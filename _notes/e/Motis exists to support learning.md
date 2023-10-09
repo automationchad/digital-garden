@@ -1,0 +1,1 @@
+I “grew up” as an engineer, so I have to keep reminding myself of this. My goal here is not to make a great “product,” not to engineer something beautiful, not to “win” the market. The point of [[Motis Group]] is to help me deliver value and learn new technology as flexibly and effectively as possible.

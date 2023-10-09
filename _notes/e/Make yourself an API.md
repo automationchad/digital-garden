@@ -40,15 +40,14 @@ With these things in mind, you are like an API in the network.
 
 Your talent, perspective and unique output as a plug-and-play accelerant for another person, business or idea.
 
-The question to answer is: [[§APIs]]?
-
 ---
 
 Q: **How important are non-functional requirements really?** Reason I ask that is because they're are plenty of examples where people have focused on the functional requirements and have been successful.
 
-A: I would first challenge your assumption of what success means. Is success rising to stardom really quickly to only then burn out after a couple of years? For me no. For me success means [[Walking the path of the master]]. So the question becomes: How do you sustain the success? The only way to sustain the functional requirements is making sure that the software's built on top of a solid foundation of non-functional requirements.
+A: I would first challenge your assumption of what success means. Is success rising to stardom really quickly to only then burn out after a couple of years? For me no. For me success means walking the path of the master. So the question becomes: How do you sustain the success? The only way to sustain the functional requirements is making sure that the software's built on top of a solid foundation of non-functional requirements.
 
 ---
 
-References
+See also: 
+- [[§APIs]]
 

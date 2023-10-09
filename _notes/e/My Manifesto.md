@@ -8,4 +8,4 @@ The Marzella family business empire will be comprised of technology, media, and 
 
 My goal is to continue the infinite play; my family Empire does not _oppose_ the actions of others, but _initiates_ actions of our own in such a way that others will respond by initiating _their_ own. It is to construct a SD Yellow family culture that internalizes and mass promotes systemic, integral, emergent and transcendent values.
 
-See: [[Stagnation in the West]]
+See: [[Technological stagnation comes from fear of undermining the very structure of a hierarchical society]]
