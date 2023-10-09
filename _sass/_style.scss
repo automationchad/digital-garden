@@ -41,6 +41,7 @@ $color-text: hsl(0, 0%, 15%);
 $color-subtext: hsl(0, 0%, 30%);
 $color-border: hsl(0, 0%, 85%);
 $color-action: #147d82;
+$color-background: #fffdf7;
 $color-box-background: hsla(0, 0%, 10%, 5%);
 $border-radius: 4px;
 $font-family: 'Atkinson Hyperlegible', sans-serif;
@@ -52,7 +53,7 @@ body {
 	line-height: 1.7;
 	padding: 4vh 6vw;
 	overflow-x: hidden;
-	background-color: #fcf5e4;
+	background-color: $color-background;
 	color: $color-text;
 	font-size: 1rem;
 	max-width: 62em;
