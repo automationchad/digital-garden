@@ -6,8 +6,6 @@ Ericsson claims (2016, p. 98) that there is no deliberate practice possible for 
 
 There’s significant tension between this line of reasoning and [[Enabling environments focus on doing what’s enabled]] / [[Enabling environments focus on creating opportunities for growth and action, not on skill-building]]. Those articles would seem to claim that top-notch tennis / piano academies are not enabling environments… which is almost certainly false. There’s potential tension also with [[How might we situate tools for thought within intrinsically meaningful contexts?]]
 
-See also [§Taking knowledge work seriously (Stripe convergence talk, 2019-12-12)](https://notes.andymatuschak.org/zBmSSpM1WfFDehxNCBcqSZp).
-
 ---
 
 ## References

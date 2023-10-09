@@ -66,4 +66,4 @@ tags:
     - [[Zettelkasten]]
     - Luhmann
     - Christian and Sascha
-    - [How to Take Smart Notes - Ahrens](https://notes.andymatuschak.org/zH7AVUkqYYK7xmoAn8PTpAV)
+    - [[How to Take Smart Notes - Ahrens]]

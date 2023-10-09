@@ -7,5 +7,3 @@ Because [[Skill development requires challenging homeostasis]], failure must be
 ## References
 
 Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. _Psychological Review_, _100_(3), 363. [[Ericsson et al - The Role of Deliberate Practice in the Acquisition of Expert Performance]]
-
-[2022-03-31 Patreon update - Implicit practice - a sight reading parable](https://notes.andymatuschak.org/zkjewjoFaCcm5VuFM1Enb9)
