@@ -1,3 +1,12 @@
+---
+title: §Non-coercion
+up:
+  - "[[§Thinking]]"
+related: []
+created: 2023-10-09
+tags:
+  - 0🌲
+---
 The concept of non-coercion serves as the foundation upon which I want to design my life. It's the guiding principle that keeps me on track.
 
 So, what's coercion all about? 

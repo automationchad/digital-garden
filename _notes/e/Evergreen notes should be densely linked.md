@@ -10,9 +10,9 @@ Luhmann actually argues that…
 
 > In comparison with this structure, which offers possibilities of connection that can be actualized, the importance of what has actually been noted is secondary.
 
-You don’t necessarily have to link to notes you’ve already written: [[Backlinks can be used to implicitly define nodes in knowledge management systems]]. It feels high-friction to stop and add a new note whenever it feels necessary; it’s very freeing to be able to link to a stub. (see also [Evergreen notes permit smooth incremental progress in writing (“incremental writing”)](https://notes.andymatuschak.org/zNqLdKMiTo9EHA9EWYGXs7b)).
+You don’t necessarily have to link to notes you’ve already written: [[Backlinks can be used to implicitly define nodes in knowledge management systems]]. It feels high-friction to stop and add a new note whenever it feels necessary; it’s very freeing to be able to link to a stub. (see also [[Evergreen notes permit smooth incremental progress in writing (“incremental writing”)]]).
 
-Aside from the ongoing value of the captured links, they may help you shepherd your attention while drafting: [Release valves for non-linear thought may support improved linear output](https://notes.andymatuschak.org/zDGk8tvVDD1mbTgpMMB5UGh).
+Aside from the ongoing value of the captured links, they may help you shepherd your attention while drafting: [[Release valves for non-linear thought may support improved linear output]].
 
 ---
 
