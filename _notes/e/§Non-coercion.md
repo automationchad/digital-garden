@@ -17,11 +17,11 @@ In my worldview, coercion extends beyond mere threats and force. It encapsulates
 
 Following the [[Levels of magnification|levels of magnification]], I see this playing out on 3 planes:
 
- 1. *Institutionally*: Here, you're navigating the systems of governance and societal structures in a way that minimizes coercion and maximizes personal freedom. Put yourself in environments [[Go where you're treated best|where you're treated best]]).
+ 1. *Institutionally*: Here, you're navigating the systems of governance and societal structures in a way that minimizes coercion and maximizes personal freedom. Put yourself in environments [[Go where you're treated best|where you're treated best]].
 
- 2. *Peer-to-peer*: At this level, it's about forming relationships based on mutual respect and freedom, avoiding manipulative tactics and power plays ([[Non-coercive marketing; Anti-marketing]], [[Operate from the inside-out]]). This also means not just doing work that pays the bills, but engaging in endeavours that are intrinsically rewarding creating [[Non-coercive productivity]].
+ 2. *Peer-to-peer*: At this level, it's about forming relationships based on mutual respect and freedom, avoiding manipulative tactics and power plays ([[Non-coercive marketing; Anti-marketing]], [[Operate from the inside-out]]). This also means not just doing work that pays the bills, but engaging in endeavours (See: [[Conscious capitalism]]).
 
- 3. *Intellectually*: This is about sharpening your thinking to ensure you're making decisions from a place of autonomy ([[Do your own thinking]]), not conforming to societal norms or external pressures. [[Only do things that are authentic to you]].
+ 3. *Intellectually*: This is about sharpening your thinking to ensure you're making decisions from a place of autonomy ([[Do your own thinking]]), not conforming to societal norms or external pressures ([[Non-coercive productivity]]). 
 
 A good heuristic for coercive actions is looking at friction. [[Friction tells us if we're forcing something not meant to be]].
 

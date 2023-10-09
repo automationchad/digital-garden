@@ -2,6 +2,8 @@
 
 The perpetual traveler idea proposes that individuals live in such a way that they are not considered a [legal resident](https://en.wikipedia.org/wiki/Residency_(domicile) "Residency (domicile)") of any of the countries in which they spend time or operate. By lacking a legal permanent residence status, the theory goes, they may avoid the legal obligations which accompany residency, such as income and asset [taxes](https://en.wikipedia.org/wiki/Tax "Tax"), social security contributions, [jury](https://en.wikipedia.org/wiki/Jury "Jury") duty, and [military service]. The idea has been described as a "late capitalist nomadism".[[1]](https://en.wikipedia.org/wiki/Perpetual_traveler#cite_note-1)
 
+Requires movement freedom.
+
 ### Flag theory
 
 The perpetual traveler idea has been presented in terms of flag theory, wherein each flag represents one of the legal jurisdictions under which the perpetual traveller operates. The Three Flags Theory is credited to investment pundit [Harry D. Schultz](https://en.wikipedia.org/wiki/Harry_D._Schultz "Harry D. Schultz"), who proposed that everyone should have a second passport and an address in a tax haven and that their assets should be kept outside their home country. The idea was later expanded to Five Flags to include a place where money was earned and a place for recreation.

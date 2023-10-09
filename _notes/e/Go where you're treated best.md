@@ -36,4 +36,6 @@ The EKG formula:
 Freedom, in this framework, leverages the global landscape to serve your individual needs and aspirations.
 
 
-Related: [[Perpetual traveler]]
+Related:
+
+- [[Perpetual traveler]]
