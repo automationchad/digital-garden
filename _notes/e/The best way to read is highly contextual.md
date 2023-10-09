@@ -10,4 +10,4 @@ Digital reading experiences often fail to recognize this variability and instead
 
 ## References
 
-[How to Read a Book - Adler and van Doren](https://notes.andymatuschak.org/zFSbY4oPcbeKpotrJVf1A8P)
+[[How to Read a Book - Adler and van Doren]]

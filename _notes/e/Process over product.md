@@ -9,6 +9,7 @@ Related:
 - [[Recast celebrations as reflective spaces, rather than rewards]]
 - [[A rigid fixation on “focus” can harm creative work]]
 - [[Are you still eating your vegetables?]]
+- [[What's the worst that can happen?]]
 - [[The one-punch philosophy]]
 - [[Non-coercive productivity]].
 - [[Dig the tree deeper]]

@@ -5,14 +5,14 @@ Some related notes:
 - [[Operate from the inside-out]]
 - [[Culturally default behaviors fill spare time with others’ ideas]]
     - [[People prefer doing to thinking]]
-    - [Many people find difficult creative work mostly unpleasant in the moment](https://notes.andymatuschak.org/zTaenCxxdcffpPUAzq3iDmQ)
+    - [[Many people find difficult creative work mostly unpleasant in the moment]]
 - [[Conversation with others often emphasizes the most well-understood elements of an idea]]
 - [[Writing forces sharper understanding]]
     - [[Do your own thinking]]
     - [[Literature notes are secondary and separate]]
 - [[Deep research requires a slower pace than tech industry work]]
 
-Exhortations which help: [[Get curious]]; [Get bored](https://notes.andymatuschak.org/zL7p6gaECTXdiirrFVSUTAW); [[Get playful]]
+Exhortations which help: [[Get curious]]; [[Get bored]]; [[Get playful]]
 
 ## Partial list of practices meant to produce deliberateness, receptivity
 

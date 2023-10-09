@@ -18,7 +18,7 @@ When processing the inbox in this way, there’s also a lot of pressure to simpl
 
 A more ideal mechanism would ensure that wait times remain tolerable, but the cycle time doesn’t necessarily have to be one day. We must also consider the number of decisions to be made. I’d rather make fewer decisions but tolerate a longer average wait time.
 
-One possible instantiation: [Spaced repetition can lower the stakes around destructive inbox-maintenance operations](https://notes.andymatuschak.org/zJ5Yzvba2729XKXivBBZ91J).
+One possible instantiation: [[Spaced repetition can lower the stakes around destructive inbox-maintenance operations]].
 
 ---
 

@@ -1,6 +1,0 @@
-[[Skills over process]]
-[[Process over product]]
-[[Mastery]]
-[[The one-punch philosophy]]
-[[Domains involving tacit knowledge often rely on apprenticeship]]
-[[Build timelessly]]

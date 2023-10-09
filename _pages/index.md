@@ -25,7 +25,7 @@ That's why I use [[Obsidian]], a durable tool for knowledge growth.
 
 Remember, reality offers [[problems to be solved and problems to be enjoyed]]. So approach each note with an open heart: some offer solutions to spur action, some offer observations to inspire introspection. 
 
-The true wonder of this intricate web lies in its organic design. A network of interlinked ideas, it mirrors the synaptic dance of our minds. [[So above as below]]. 
+The true wonder of this intricate web lies in its organic design. A network of interlinked ideas, it mirrors the synaptic dance of our minds. [[As above, so below]]. 
 
 It removes rigid categorization, inviting you instead to meander through, you might find new patterns emerging, new connections taking root. 
 
