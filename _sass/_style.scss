@@ -122,6 +122,7 @@ a {
 	&:hover {
 		color: $color-action;
 		border-bottom: 1px solid $color-action !important;
+		transition: border-bottom 300ms;
 	}
 	&:after {
 		position: relative;

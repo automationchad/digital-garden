@@ -2,7 +2,8 @@
 
 
 See also:
-- [[Antifragility]].[[Xenohormesis]]
+- [[Antifragility]].
+- [[Xenohormesis]]
 
 
 ### References
