@@ -31,3 +31,8 @@ They have proven their worth to the world, but more critically, to themselves. T
 See: 
 - [[Mastering the art of timing]]
 - [[Quit Your Job - Wolf Tivy]]
+
+
+### References
+
+[[2023-09-22]]

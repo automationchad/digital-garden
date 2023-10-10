@@ -1,1 +1,0 @@
-As long as we have a credit based money system, i.e where each note is a debt -- there will always be one group that controls. A plutocratic oligarchy.
