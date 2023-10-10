@@ -12,7 +12,7 @@ I like a variant [Joe Edelman](https://notes.andymatuschak.org/zTXJ65qqaMUbMi95
 
 Q. [David Holz](https://notes.andymatuschak.org/David_Holz), paraphrasing advice from a research mentor: “projects either take ??? or ???.”  
 
-A. three months / ten years ([2023-08-13](https://notes.andymatuschak.org/2023-08-13))
+A. three months / ten years
 
 
 See: [[Patient but furious]], [[Mastering the art of timing]]

@@ -1,3 +1,12 @@
+---
+title: Non-coercive productivity
+up:
+  - "[[§Non-coercion]]"
+related: []
+created: 2023-10-10
+tags:
+  - 0🌲
+---
 How to arrange one’s life so as to do meaningful work, without constant feelings of coercion, guilt, self-appropriation, obligation, etc?
 
 Related notes:

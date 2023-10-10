@@ -22,7 +22,7 @@ How do we balance them?
 
 
 - Key design properties:
-	- [[Non-coercive marketing; Anti-marketing]]
+	- [[Anti-marketing]]
 	- [[Operate from the inside-out]]
 	- [[Operating with a compass not a map]]
 	- [[Build timelessly]]

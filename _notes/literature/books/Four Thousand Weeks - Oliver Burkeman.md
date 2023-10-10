@@ -1,3 +1,11 @@
+---
+title: Four Thousand Weeks - Oliver Burkeman
+up: []
+related: []
+created: 2023-10-10
+tags:
+  - 0🌲
+---
 A really lovely articulation of various problem with “productivity culture”. Some central observations:
 
 - Most productivity books (like Getting Things Done) have the premise that it’s _possible_ to do all the things you want to do—that you really _can_ “catch up” or “feel on top of things”—it’s just that you need a better system. But this is wrong. It’s never going to be possible to do all the things you feel are “on your list.” With that mindset, you’re never going to feel at peace with what you accomplish.

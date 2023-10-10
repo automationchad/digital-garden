@@ -29,7 +29,7 @@ Note: It needs to be well defined, and its something that we consistently like t
 
 You want a clear offering and a clear workflow. 
 
-This will lead to easy marketing. ([[Non-coercive marketing; Anti-marketing]], [[Preselection creates opportunities]])
+This will lead to easy marketing. ([[Anti-marketing]], [[Preselection creates opportunities]])
 
 This will lead into an intuitive UX layout ([[Make it intuitive]]). 
 

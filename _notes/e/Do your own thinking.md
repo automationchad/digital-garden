@@ -17,7 +17,10 @@ Per Kant:
 
 
 
-One key antidote: [[Write about what you read to internalize texts deeply]]
+Some key antidotes: 
+
+- [[Write about what you read to internalize texts deeply]]
+- [[Operate from the inside-out]]
 
 ---
 
