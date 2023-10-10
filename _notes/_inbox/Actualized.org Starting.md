@@ -79,6 +79,7 @@ These videos lay out the basic principles for how to self-actualize. They focus 
 - [Free Will vs Determinism](https://www.actualized.org/articles/free-will-vs-determinism)
 - [40 Signs That You Are Neurotic](https://www.actualized.org/articles/40-signs-that-you-are-neurotic)
 - [Contemplating Your Own Death](https://www.actualized.org/articles/contemplating-your-own-death)
+	- Haraku
 - [Masculinity vs Femininity](https://www.actualized.org/articles/masculinity-vs-femininity)
 - [Lower vs Higher Self](https://www.actualized.org/articles/lower-vs-higher-self)
 - [Science vs Religion](https://www.actualized.org/articles/science-vs-religion)

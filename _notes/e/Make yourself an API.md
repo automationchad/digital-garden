@@ -1,3 +1,11 @@
+---
+title: Make yourself an API
+up: []
+related: []
+created: 2023-10-09
+tags:
+  - 0🌲
+---
 >"Technology democratizes consumption but consolidates production. The best in person in the world at anything, gets to do it for everyone." — Naval Ravikant
 
 Technology has created a [[Disintermediation]] of labor. Availability of your energy and skills are no longer constrained by a middleman (employer or agency).
