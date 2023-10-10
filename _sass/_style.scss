@@ -37,7 +37,7 @@
 }
 
 $color-primary: #a3f3dc;
-$color-text: #e1f3e8;
+$color-text: #c6d7cd;
 $color-subtext: #5c7364;
 $color-border: hsl(0, 0%, 85%);
 $color-action: hsl(168, 89%, 32%);
@@ -175,7 +175,7 @@ code {
 }
 
 .invalid-link {
-	color: hsla(88, 90%, 69%, 50%);
+	color: hsla(168, 89%, 32%, 40%);
 	cursor: help;
 	padding: 0;
 }
