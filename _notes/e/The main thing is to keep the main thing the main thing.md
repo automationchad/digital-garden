@@ -8,6 +8,6 @@ If you don’t sacrifice for your goal, your goal will become the sacrifice.
 
 See: 
 
-- [[The one-punch philosophy]]
+- [[The Magnum Opus]]
 - [[Building to last]]
 - [[Premature scaling can stunt system iteration]]

@@ -1,12 +1,9 @@
-Obligation is an energy and usually comes from PEOPLE, not situations.
+Wealth lets you say "No" when you just don't want to. Most obligations come from people, not circumstances.
 
-When you feel like you “have” to do something but do not really want to, pay attention to WHO is behind it.
+If you feel you "should" but don't want to, ask: Who's driving that? [[Beware a sense of “should”]]
 
-A situation only has power over me when some part of my identity or happiness is dependent on a person involved in the situation.
+Situations control you only when they tie into your identity or happiness, usually because of someone involved.
 
-If you remove the insecurity, you can remove the obligation.
+Solutions to obligation:  
 
-If it requires me to be fake nice & fake smile, I’m not going.
-
-
-See: [[Money is used to acquire in order to remove.]]
+- [[Money is used to acquire in order to remove]]

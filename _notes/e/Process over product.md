@@ -10,7 +10,7 @@ Related:
 - [[A rigid fixation on “focus” can harm creative work]]
 - [[Are you still eating your vegetables?]]
 - [[What's the worst that can happen?]]
-- [[The one-punch philosophy]]
+- [[The Magnum Opus]]
 - [[Non-coercive productivity]].
 - [[Dig the tree deeper]]
 - [[Don't confuse content and structure]]

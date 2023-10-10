@@ -3,20 +3,16 @@ created: 2023-09-17
 tags:
   - 0🌲
 ---
-The biggest lie (through omission) is "PASSIVE INCOME".
+"PASSIVE INCOME" is the industry's biggest sleight of hand. Beginners swallow this bait whole because, let's face it, it's an enticing sell.
 
-Beginners get sold the dream of "make money without work" because it is easy as fuck to sell.
+Let's cut through the crap. The rare individuals who manage to set up a so-called "passive income" have bled and sweat for YEARS to amass a specific skill set. 
 
-The truth?
+And here's a newsflash: it's not even truly "passive". A more honest label? "Delayed payment income". 
 
-The type of person that can ACTUALLY create (and manage) a passive income stream is a person that has spent YEARS cultivating a stack of very specific skills.
+Why? Because you're busting your ass now for a potential pay-off later.
 
-And even then - "passive income" isn't the correct term. The correct term should be something like "delayed payment income" because you will be doing a monstrous amount of work to set up a system that will (one day) pay you passively.
+"Oh, but real estate is passive, right?" Bullshit. 
 
-"But what about real estate!?"
+For a newbie, real estate is a treacherous path. You're better off taking that cash you're sinking into bricks and mortar for a measly $1,000/mo and invest in an online venture, plus get an OBM to manage it. The outcome? Easily pocketing $5k monthly instead of a pathetic $500.
 
-Real estate is one of the worst routes for passive income. Especially for beginners. Dudes could take the exact same amount of money they are dumping into their properties to scrape off $1,000/mo and buy an internet business + hire an OBM (online business manager) with the same amount of money and make 5-10x more per month. You'd be kicking out $5k/mo instead of $500.
-
-You can only create "passive income" for yourself after you know HOW to do it. And you'll only know HOW to do it by mastering skills for the next 3-4 years.
-
-Focus on first mastering a skill and using that skill to make money on the internet. Run that skill up to $1m/yr. Then worry about other things.
+Bottom line: If you're dreaming of "passive income", get ready to first master your game for the next 3-4 years. Only then can you even think about reaping rewards without the daily grind.

@@ -10,11 +10,9 @@ One success is all you need to validate your skills and provide you with the fre
 
 The essence of the philosophy is a synthesis of a fierce devotion to one's craft and the liberation from material constraints. 
 
-[[Get useful]]
-
 This journey begins not with the end in sight, but rather with the consecration of the self to an art, an enterprise so all-consuming that it transcends mere occupation or hobby—it becomes a vocation of the soul. [[Domains involving tacit knowledge often rely on apprenticeship]]
 
-But there always must be an achievement. *Patience is worthless unless combined with a willingness to fall ruthlessly on your opponent at the  right moment.*
+It's creating a Magnum Opus that transitions you from Journeyman to Master.
 
 In this inward retreat, a sanctuary is constructed. Within its walls, the individual seeks to attain a level of mastery so profound that it not only substantiates one's personal genius but also prepares for a singular act that disrupts and mesmerizes the external world. 
 
@@ -29,7 +27,6 @@ Thus, the journey comes full circle. The individual proves their genius to thems
 They have proven their worth to the world, but more critically, to themselves. This existential equilibrium provides a serene backdrop against which they continue their life's work, uninterrupted, at peace.
 
 See: 
-- [[Mastering the art of timing]]
 - [[Quit Your Job - Wolf Tivy]]
 
 

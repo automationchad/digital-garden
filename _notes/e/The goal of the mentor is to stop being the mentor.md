@@ -8,6 +8,6 @@ Within this approach breathes serenity, rooted in self-respect and a lucid perce
 
 Related:
 - [[Walking the path of the master]]
-- [[The one-punch philosophy]]
+- [[The Magnum Opus]]
 - [[Scale can kill authenticity]]
 - [[Sometimes you have to descend the local peak to ascend the global peak]]
