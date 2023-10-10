@@ -131,7 +131,7 @@ a {
 		top: -0.5em;
 		font-size: 0.7em;
 		content: '↗';
-		color: #aaaaaa;
+		color: $color-action;
 	}
 	&.internal-link:after,
 	&.footnote:after,
