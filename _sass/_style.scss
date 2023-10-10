@@ -120,7 +120,7 @@ a {
 	padding: 0;
 	text-decoration: none;
 	border-bottom: 1px solid $color-border;
-	color: $color-primary;
+	color: $color-action;
 	&:hover {
 		color: $color-action;
 		border-bottom: 1px solid $color-action !important;
@@ -175,7 +175,7 @@ code {
 }
 
 .invalid-link {
-	color: #147d827a;
+	color: hsla(88, 90%, 69%, 50%);
 	cursor: help;
 	padding: 0;
 }
