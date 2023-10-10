@@ -1,3 +1,12 @@
+---
+title: 
+up:
+  - "[[Logical thinking process]]"
+related: []
+created: 2023-10-10
+tags:
+  - 0🌲
+---
 1. **Clarity**: Making sure everything is understood clearly.
 2. **Entity Existence**: Checking if the things being talked about actually exist.
 3. **Causality Existence**: Checking if the cause really leads to the effect.
@@ -100,3 +109,4 @@ _**Circular logic**_
 - Is the cause intangible?
 - Is the effect offered as the rationale for the existence of the cause? (for example, "What else could it be?")
 - Are other unavoidable outcomes identifiable besides the proposed effect?
+[[Logical thinking process]]

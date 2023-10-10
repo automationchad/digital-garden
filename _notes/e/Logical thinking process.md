@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[atlas/maps/The Cynefin framework]]"
+  - "[[The Cynefin framework]]"
 related: []
 created: 2023-09-30
 tags:
