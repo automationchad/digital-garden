@@ -23,3 +23,7 @@ See:
 - [[A reading inbox to capture possibly-useful references]]
 - [[A writing inbox for transient and incomplete notes]]
 - [[Executable strategy for writing]]
+
+Loosely related:
+
+[[Pattern language]]

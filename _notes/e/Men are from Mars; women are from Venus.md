@@ -1,3 +1,12 @@
+---
+title: Men are from Mars; women are from Venus
+up:
+  - "[[⎈Relationships]]"
+related: []
+created: 2023-10-10
+tags:
+  - 0🌲
+---
 Intimate relationships are much easier when you understand where both sexes are coming from, what drives them, and how they think. If you don't understand the opposite sex, you are doomed to have nasty relationship problems.
 
 There is a deep asymmetry in intimate male/female relationships. What men and women want is different and inherently irreconcilable in some ways. The pop-cultural, politically correct notion of fairness and symmetry between man and woman in an intimate relationship is deeply flawed can leads to all sorts of long-term problems and unhappiness. Do not base your strategies for relationship success on this flawed model. The reality is much more complex and interesting.

@@ -13,5 +13,5 @@ In a way, antifragility is a faster form of [[Natural Selection]].
 Antifragility is closely related to resilience/robustness, although resilience shouts *"Still standing after stressors!"*
 
 ### Unsorted
-- [[Hormesis]] and the [[Lindy Effect]]
+- [[§Hormesis]] and the [[Lindy Effect]]
 - Eventually, tie this into my other thoughts: [[201509091056]] (not included in the LYT Kit)

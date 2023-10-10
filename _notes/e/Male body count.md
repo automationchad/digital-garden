@@ -1,3 +1,12 @@
+---
+title: 
+up:
+  - "[[⎈Relationships]]"
+related: []
+created: 2023-10-10
+tags:
+  - 0🌲
+---
 When venturing into the maze of digital dating, we often find ourselves attempting to decode subtle clues. What’s the underlying indicator, the unsung 'tell,' for men in the world of online profiles?
 
 While body count serves as a debated metric for some, it’s more complex than that. It's intriguing to hypothesize that for men, the "signal" might be in something as ubiquitous yet under-explored as... photos.

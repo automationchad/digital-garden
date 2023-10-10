@@ -13,7 +13,7 @@ The Ronin Repository.
 
 <img src="https://cdna.artstation.com/p/assets/images/images/002/414/626/large/andreas-rocha-thelastfortress.jpg?1461446296" width="100%"/>
 
-An ever-evolving collection of solutions and observations—a dynamic [[pattern language]] of the nature of existence.
+An ever-evolving collection of solutions and observations—a dynamic [[Pattern language]] of the nature of existence.
 
 But the path of the master does not stop at an individual's acquisition and usage of knowledge. 
 
