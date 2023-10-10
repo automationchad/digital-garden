@@ -1,0 +1,10 @@
+First, knitwear should always be folded, never hung, bc the garment can stretch out. Storage tip: During the off-season, store sweaters in rigid Tupperware bins. Slip a cotton sheet or pillowcase over the top, then snap the lid down. This keeps out bugs that eat wool fibers.
+
+Second, if you're hanging casualwear (e.g., button-up shirts, casual jackets), then you can use any old hanger. Although I prefer wooden hangers over thin wire ones, such as the ones you get from your dry cleaner. Ikea sells packs of 8 for about $9. The exception is heavy leather jackets, like those made from horsehide or cowhide. I think these are still mostly fine on the hangers above, but hardcore enthusiasts—particularly those who collect expensive vintage pieces—feel differently. These fall into the next category.
+
+When it comes to wardrobe storage, the major exception is high-end tailoring. These require special hangers. The reason is bc suit jackets and sport coats are not made like any other type of garment. They are built up from many layers of material—haircloth, canvas, and padding—which are carefully sewn together using pad stitching, and then specially ironed to create shape. This type of ironing is not like how you iron a shirt; it's pressing *shape* into the garment. When you look at a beautifully made, tailored jacket, it has a certain 3D shape. Notice how the chest here is rounded. The sleeves have a conical shape that hovers around the arm. There are no wrinkles, dents, puckers, or pulling. This is a result of tailoring + pressing. If you store these on the thin wooden hangers I mentioned above, you can permanently ruin the jacket over time. The shoulder line can get distorted. If the hanger is not sized right for the garment, the ends can push out the sleeves, ruining the clean, conical shaping.
+
+If the hanger's neck isn't right for the jacket, it can stretch out the collar. The jacket's collar is the part that touches the back of your neck. A tailor will carefully shape this area so it always sits on your neck. See the gaping here? This can become permanent by stretching.
+
+
+

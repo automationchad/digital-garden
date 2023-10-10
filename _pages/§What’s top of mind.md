@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Top of mind
+title: §What’s top of mind
 permalink: /top-of-mind
 ---
 Sort of like a [/now page](https://sivers.org/nowff), but with a broader time horizon and focused on what I’m thinking about.
@@ -9,4 +9,5 @@ Sort of like a [/now page](https://sivers.org/nowff), but with a broader time h
 
 - Expanding and understanding [[Conscious capitalism]] via [[Motis Group]]
 - Bodysurfing and taking in [[the sublime]]
+- Investing in creating unique travel experiences at [[Maelstrom]]
 - Using [[music]] as my artistic outlet under the pseudonym [Sevirance](https://soundcloud.com/sevirance) 

@@ -22,4 +22,7 @@ Pink Salt in water
 
 get off d3 and get on a comprehensive magnesium that is bicarb form with potassium, calcium, and sodium. d3 destroys potassium levels, get sunshine or red light therapy instead. add ginko per other commenter. also methylated b complex. for magnesium blend pristine hydro (has to be mixed with seltzer). b complex probably thorne or pure encapsulations. ginko just find organic and a brand that tests for heavy metals/mold
 
+---
+
+" Nature's Xanax" Magnolia Bark Extract - Crushes stress and anxiety - Promotes deep sleep - Uplifting positive mood - Potent GABA A Positive Allosteric Modulator - Muscarinic Acetylcholine Positive Allosteric Modulator - Bioactives: Magnolol & Honokiol - Dosage: 200-400mg up to twice per week
 
