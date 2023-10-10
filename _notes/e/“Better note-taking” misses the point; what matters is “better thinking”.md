@@ -1,7 +1,10 @@
 ---
-created: 2023-09-17
+created: 2023-10-09
 tags:
   - 0🌲
+title: “Better note-taking” misses the point; what matters is “better thinking”
+up: []
+related: []
 ---
 Lots of people write about solutions to the problem that [[Note-writing practices are generally ineffective]]. The vast majority of that writing fixates on a myopic, “lifehacking”-type frame, focused on answering questions like: “how should I organize my notes?”, “what kind of journal should I use?”, “how can I make it easy to capture snippets of things I read?”, etc.
 
