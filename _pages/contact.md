@@ -1,21 +1,20 @@
 ---
 created: 2023-10-06
-tags: 
-layout: page
-permalink: /contact
+title: contact
+layout: default
 ---
-Contact me for feedback about the site, tech support, billing issues, refunds, testimonials, interview requests, or business opportunities.
+Reach out for site feedback, tech support, billing, refunds, testimonials, interview requests, or business propositions.
 
-- **I DO NOT give personal advice via email.** Sorry, I just don't have time. Ask on the [Forum](https://actualized.org/forum/).
-- Do not pitch me any products, services, ad schemes, or affiliate programs.
-- I am not interested in any Youtube ad network offers.
-- Sorry, I don't have time to collaborate with you on your pet project.
-- Yes, you can link/embed my videos for non-profit purposes. Just link back to the site.
-- Yes, I am available for interviews/podcasting if you have a proven, strong audience.
-- I do not respond to poorly written emails. Be clear. Use proper grammar.
-- If you like my videos and want to say thanks or share your story, please don't email me here but post on the [Forum](https://actualized.org/forum/).
-- I've stopped all one-on-one personal coaching. Sorry, don't have time.
+- **I DON'T provide personal advice via email.** Short on time. 
+- No pitches for products, services, ads, or affiliate stuff.
+- Not in the market for Youtube ad network deals.
+- Collaborations on your side projects? Can't commit.
+- For non-profit use, link or embed my videos. Just credit back.
+- Open for interviews if you've got a solid audience track record.
+- Clarity counts. Write well or don’t write at all.
+- Appreciate my content? Share on the [Forum](https://actualized.org/forum/).
+- One-on-one coaching's off the table. Time's limited.
 
-**Because I receive large quantities of email, I will not read any emails longer than 5 sentences. Please get to the point. No walls of text or life stories. Thank you.**
+**Inundated with emails here. Keep it under 5 sentences. Be succinct. No life essays.**
 
-Please excuse me if I do not respond to non-urgent mail. I get way too much email.
+If I don't reply to non-critical messages, don't take it personally. Overwhelmed by the volume.

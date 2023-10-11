@@ -17,3 +17,13 @@ An unorganized set of working notes on challenges which feel particularly salien
 - [[Building timelessly]] 
 - [[Skills over process]]
 - [[Process over product]]
+
+--- 
+
+- Spin out a COO-as-a service firm assisting B2E SaaS (information technology, data analytics, AI tools) companies scale to $10M ARR; help boomer biz automate processes and increase revenue to attract quality exit investors.
+
+- AaaS (Automation as A Service). Architect business systems for late-stage startups for a retainer. Potential to be a full-time automation consultant that use the [tray.io](http://tray.io/) platform specifically to automate processes so 10+ private equity firms/VC firms ($500K-$5M contracts/or >20% equity) can increase their portfolio companies’ operational efficiency.
+
+- Brokering unicorn startup exits to big technology/pharmaceuticals/energy corps or IPO.
+
+- Team of 20 people. $12M liquid net-worth and earning $3,000,000+/year by 2032.

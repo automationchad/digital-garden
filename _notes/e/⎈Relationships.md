@@ -10,3 +10,11 @@
 - [[Marriage is an inherently negligent activity]]
 - [[Men are from Mars; women are from Venus]]
 - [[Male body count]]
+
+The reason you make money, 
+
+Love types:
+
+[[Agape]]
+[[Phileo]]
+[[Eros]]

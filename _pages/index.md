@@ -1,17 +1,13 @@
 ---
-layout: page
 title: Home
-id: home
 permalink: /
+layout: default
 ---
-Hi, I'm Will. You may know me as *marzella* [[Who is this guy?|that]] fella. Currently wandering the earth in search of adventure. 
-
+Hi, I'm Will. 
 
 ### You are here
 
 The Ronin Repository.
-
-<img src="https://cdna.artstation.com/p/assets/images/images/002/414/626/large/andreas-rocha-thelastfortress.jpg?1461446296" width="100%"/>
 
 An ever-evolving collection of solutions and observations—a dynamic [[Pattern language]] of the nature of existence.
 
