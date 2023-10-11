@@ -9,6 +9,7 @@ How do we balance them?
 
 - Seek to uplift consciousness
 	- Develop and adopt technologies that address human well-being, emphasizing tools that improve mental health, foster community, and bridge divides.
+	- [[Don't make money at the expense of others, make money at the service of others]]
 	- [[Guild learning]]
 
 - Understand history and philosophy:

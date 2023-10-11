@@ -19,7 +19,7 @@ Following the [[Levels of magnification|levels of magnification]], I see this pl
 
  1. *Institutionally*: Here, you're navigating the systems of governance and societal structures in a way that minimizes coercion and maximizes personal freedom. Put yourself in environments [[Go where you're treated best|where you're treated best]].
 
- 2. *Peer-to-peer*: At this level, it's about forming relationships based on mutual respect and freedom, avoiding manipulative tactics and power plays ([[Anti-marketing]]). This also means not just doing work that pays the bills, but engaging in endeavours that are intrinsically rewarding (See: [[Conscious capitalism]]).
+ 2. *Peer-to-peer*: At this level, it's about forming relationships based on mutual respect and freedom, avoiding manipulative tactics and power plays ([[Anti-marketing]]). This also means not just doing work that pays the bills, but engaging in endeavours that are intrinsically rewarding (See: [[§Conscious capitalism]]).
 
  3. *Intellectually*: This is about sharpening your thinking to ensure you're making decisions from a place of autonomy ([[Do your own thinking]]), not conforming to external pressures or feelings of obligation ([[Non-coercive productivity]]). 
 

@@ -7,6 +7,8 @@ Hi, I'm Will.
 
 ### You are here
 
+<img src="https://cdna.artstation.com/p/assets/images/images/002/414/626/large/andreas-rocha-thelastfortress.jpg?1461446296" width="100%"/>
+
 The Ronin Repository.
 
 An ever-evolving collection of solutions and observations—a dynamic [[Pattern language]] of the nature of existence.

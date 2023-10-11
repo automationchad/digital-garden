@@ -7,6 +7,8 @@ Working independently means the burden and opportunity of creating my own struct
 
 When my days don’t go well, it’s often because something derailed me in the morning, and I never really got back on track. [[The high-order bit for my productivity is whether I complete a deeply-focused morning creative block]]. So my day is structured around making intense creative mornings happen.
 
+---
+
 6:00 - Wake; shower; walk, stretch, feed my dog; make coffee; early morning surf  
 7:00 - 8:00 - Morning Routine (Water, Meditate, Visualization, Clean Breakfast) 
 8:00 - 12:00 - Deep Work  
@@ -22,11 +24,28 @@ When my days don’t go well, it’s often because something derailed me in the 
 22:00 - 23:00 - Evening Routine  
 23:00 - Sleep**
 
+---
+
+5.30am - Wake up (naturally) 
+5.45am - 3 Espressos 
+6am - 10am - Deep Work
+10am - Gym
+11am - 5km Run
+11.30am - walk by lake listen to podcast
+12.30pm - Lunch 
+1pm Sleep 
+2pm - 6pm - Deep work 
+6pm - Family time
+
+---
+
+
+
 - ~7:00: Wake; shower; walk, stretch, feed my dog; make coffee
 - ~7:45 – 13:45: Uninterrupted morning working block
     - Default environment: WiFi off; [Forest](https://www.forestapp.cc/) on my phone; alone at my desk ([[It’s hard to hear yourself think]])
     - No meetings; working in 25m/5m pomodoros (see notes on [[Pomodoro technique]]); no extended breaks (I find maintaining momentum is more important than combatting fatigue)
-    - Start a [[Daily working log]] write for a minute or so about how I’m feeling and my intentions for the day; look at my [Menu](https://notes.andymatuschak.org/z7YL32DPACvqsSZrMpt88X5) for the week, get a sense of what I’d like to dig into.
+    - Start a [[Daily working log]] write for a minute or so about how I’m feeling and my intentions for the day; look at my [[Menu]] for the week, get a sense of what I’d like to dig into.
     - Dig into whatever seems most exciting creatively, usually sticking to one task for the entire block
     - Details here vary depending on my projects and their status. Sometimes it’ll be [[My morning writing practice]] sometimes it’s designing or building prototypes; sometimes it’s reading through a stack of material about something I’m trying to understand.
     - If I start to run out of steam (usually around Pomodoro 10), I’ll switch to administrative and procedural tasks, like email time: I’ll spend ~30m ~3 times a week replying to email (and generally ignore it otherwise).

@@ -1,11 +1,10 @@
-My umbrella company consisting of [[Motis Group]], [[§Real estate]] investments, business acquisitions
+My umbrella company consisting of
 
-[[Terranova Holdings]]
+[[Pumps]]
+[[Buckets]]
+[[Moats]]
 
-I have strategically acquired companies/systems inside 4 lanes of business: 
-- Marketing
-- Sales
-- Operations
-- Finance 
 
-When a company fits our buy box, we run it through our portfolio, and 10x (at minimum) it’s valuation & efficiency.
+
+[[Motis Group]], [[§Real estate]] investments, business acquisitions
+
