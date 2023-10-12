@@ -22,5 +22,18 @@ An unorganized set of working notes on challenges which feel particularly salien
 - [[Process over product]]
 
 ---
-[[Motis Group services]]
 
+## What do we do?
+
+-  [[Integration Architecture Design & Strategy]]
+-  [[Custom API Gateway Services]]
+-  [[Migration Services]]
+
+## How do we do it?
+
+- [[The Secret Ingredient]]
+- [[Motis Group exists to support learning]]
+
+## How we convert value into revenue
+
+[[Motis billing model]]

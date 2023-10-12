@@ -23,9 +23,3 @@ c.f. [Minimum Viable Personality - AVC](https://avc.com/2011/09/minimum-viable-
 1. How do you change the customer’s life? (Helps them deepen their relationship with whatever they care about most)
 2. What do you stand for? (Meaningfulness, curiosity, diligence, ritual)
 3. Who or what do you hate? (Duty, grinding, graphs-up-and-to-the-right, complacence)
-
----
-
-> “Poetry is language in orbit. It may start with recollected emotion or immediate anger or rapture, but once that personal boost has helped a poem to lift off, it runs on its own energy circuit.”
-
-— Seamus Heaney, Finders Keepers (via [Noah Tye](https://notes.andymatuschak.org/zLPgZKe3u4N6gcdiXj5G1pB), [2022-04-08](https://notes.andymatuschak.org/zVi6msaeTVS7kKb3fydmkxk))

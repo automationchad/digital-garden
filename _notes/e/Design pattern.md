@@ -20,6 +20,7 @@ The range of situations in which a pattern can be used is called its context. So
 Usually the author of a pattern language or collection chooses a generic structure for all the patterns it contains, breaking each into generic sections like context, problem statement, solution etc.
 
 Christopher Alexander's patterns, for instance, each consist of:
+
 1. a short name, 
 2. a rating (up to two '*' symbols)
 3. a sensitizing picture, 
