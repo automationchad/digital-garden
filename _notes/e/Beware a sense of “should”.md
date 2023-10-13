@@ -10,6 +10,8 @@ This is of course not a unique idea. See e.g.:
 
 Shoulds are for retrospectives, not for deliberation.
 
+Guilt is just herd anxiety.
+
 - [[Nate Soares]] - [Not because you "should"](https://mindingourway.com/not-because-you-should/)
 
 > A few months ago, a friend of mine was describing her motivational issues to me. As an example, she explained she was having trouble making herself clean her room, despite her dissatisfaction with the constant messiness.

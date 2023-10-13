@@ -22,7 +22,7 @@ A. Asking yourself whether a guilt’s demands are realistic given your sustaina
 Q. What does [[Nate Soares]] see as the goal of shifting guilts (rather than just dropping them)?  
 A. Rephrasing them in terms of a _pattern of behavior_ which acts against your own will. It’s the pattern that you can actually address.
 
-[Nate Soares](https://notes.andymatuschak.org/z4U4Gf7qpeMHxSMfjVRBXDG): If you find yourself regularly experiencing guilt, then {you’re using guilt incorrectly} [i.e. because {guilt is costly and demotivating; it’s useful as a threat, not an everyday action}](https://notes.andymatuschak.org/zQTBAGqGvVQVvRntB69GNPi?stackedNotes=z2EeBFS91iTHhSkdmXqhTns)
+[Nate Soares](https://notes.andymatuschak.org/z4U4Gf7qpeMHxSMfjVRBXDG): If you find yourself regularly experiencing guilt, then {you’re using guilt incorrectly} i.e. because {guilt is costly and demotivating; it’s useful as a threat, not an everyday action}
 
 Q. Rather than feeling guilty when you act against your own will, what does [[Nate Soares]] recommend?  
 A. Use science to alter the pattern of behavior; use failures as data points.

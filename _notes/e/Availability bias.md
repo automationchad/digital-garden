@@ -9,7 +9,7 @@ Related: [[The Most Intolerant Wins - The Dictatorship of the Small Minority]]
 **Social Proof**: People look for cues from others on how to behave or think. The opinions of a vocal minority can serve as a de facto standard, skewing the perception of quality or value for a restaurant, for instance.
 
 See: 
-- [[Cult psychology]]
+- [[§Cult psychology]]
 - [[Influencing public opinion]]
 
 ### References

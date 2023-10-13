@@ -5,7 +5,7 @@
 
 The standard digital cut and paste prevents the fluidity of the physical process. Worse, there isn’t even “expert-level” software which enables something like the original behavior for sophisticated use cases. An approach like that of [LiquidText](https://notes.andymatuschak.org/zN9pG99Y6GY8f6YjUTiKi5Z) might work, but there seem to be many unsolved problems in that space.
 
-This is vaguely connected to [Peripheral vision](https://notes.andymatuschak.org/z4geAr5cERWdJPrdhU5gy3N): you want to be able to see and manipulate the whole and the parts simultaneously here, but you can’t.
+This is vaguely connected to [[Peripheral vision]]: you want to be able to see and manipulate the whole and the parts simultaneously here, but you can’t.
 
 Related: [[We lack UI patterns for non-destructive filtering and rearrangement on a 2D canvas]]
 
