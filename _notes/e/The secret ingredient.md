@@ -21,8 +21,9 @@ We’ve worked for years honing our craft.
 
 We build fast.
 
-We’re flexible.
+We’re flexible because [[A small ontological unit of experts in their respective fields is a good way to build a company|lack of inertia from bureaucracy]].
 
 And people enjoy working with us.
 
 That’s why most of our competitors opt to just work with us instead of copy us because we don’t have anything surface level they can replicate.
+

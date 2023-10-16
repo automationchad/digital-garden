@@ -1,7 +1,27 @@
 
-Luxury agri-tourism
+Luxury Agritourism
 
-Kit homes. Eco homes on a property.
+- [Tuscany](https://magazine.lecollectionist.com/luxury-agritourism-in-italy#tuscany)
+- [Puglia](https://magazine.lecollectionist.com/luxury-agritourism-in-italy#puglia)
+- [Sicily](https://magazine.lecollectionist.com/luxury-agritourism-in-italy#sicily)
+
+Point is to START SMALL: Either buy a fixer upper, renovate the interior and hire an interior designer to deck the home out in a modern way, or a kit homes. Eco homes on a property.
+
+Farm stay.
+
+But make the in
+
+Retreat. Be left alone.
+
+This is different from most experiences which harass you with different experiences.
+
+---
+
+Conversely you may want to 
+
+Americans LOVE packages.
+
+Tourism package:
 
 Bus takes them from small town to big town.
 

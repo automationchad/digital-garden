@@ -12,7 +12,6 @@ Reach out for site feedback, tech support, billing, refunds, testimonials, inter
 - For non-profit use, link or embed my videos. Just credit back.
 - Open for interviews if you've got a solid audience track record.
 - Clarity counts. Write well or don’t write at all.
-- Appreciate my content? Share on the [Forum](https://actualized.org/forum/).
 - One-on-one coaching's off the table. Time's limited.
 
 **Inundated with emails here. Keep it under 5 sentences. Be succinct. No life essays.**
