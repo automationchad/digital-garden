@@ -37,6 +37,7 @@ An unorganized set of working notes on challenges which feel particularly salien
 ## How we convert value into revenue
 
 [[Motis billing model]]
+[[Pay-to-play]]
 
 **Content**
 
