@@ -1,4 +1,4 @@
-Humanity’s problem today is that we have Paleolithic emotions, medieval institutions, and god-like technology; our biology, civilization and technological capabilities are completely out of sync.
+Humanity’s problem today is that we have Paleolithic emotions, medieval institutions, and god-like technology; our biology, civilization and technological capabilities are completely out of sync. We are living in a [[New Dark Age]].
 
 How do we balance them?
 

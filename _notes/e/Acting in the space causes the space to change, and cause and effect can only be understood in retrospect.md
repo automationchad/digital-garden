@@ -39,7 +39,7 @@ It emerges as you work.
 
 Because the outcomes we look for keep changing, we can’t apply our expert practices and expect success.
 
-## How does Motis Group handle Complex problems?
+## How does [[Motis Group]] handle Complex problems?
 
 In a complex environment the thought process is you probe, sense and respond.
 

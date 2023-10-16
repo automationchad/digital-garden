@@ -8,28 +8,19 @@ Hi, I'm Will.
 ### You are here
 
 <img src="https://cdna.artstation.com/p/assets/images/images/002/414/626/large/andreas-rocha-thelastfortress.jpg?1461446296" width="100%"/>
-
 The Ronin Repository.
 
-An ever-evolving collection of solutions and observations—a dynamic [[Pattern language]] of the nature of existence.
+Think of it as a [[Pattern language|toolbox for your mind]], always updating, always relevant. 
 
-But the path of the master does not stop at an individual's acquisition and usage of knowledge. 
+It's not just about hoarding knowledge; it's about making that knowledge actionable and amplifying its impact. We've come a long way as humans by [[Work with the garage door up|passing down stories]]—those pre-packaged experiences that save us a lot of trial and error. That's the same principle here.
 
-Mastery takes that consumate skill and technique and [[Work with the garage door up|shares it]] to enhance the skills of others by order of magnitude.
+Life's got its share of problems—[[problems to be solved and problems to be enjoyed|some to crack, some to ponder]]. Keep an open mind when you dive into these notes. Some might offer you a [[Pattern language|playbook]]; others, food for thought.
 
-[[Storytelling is how we ultimately advanced as a species]]. With every story, we're spared the time of experience to learn that same lesson.
+What sets this repository apart is its fluid structure. Forget rigid categories; this is more like your brain—a sprawling, interconnected network of ideas and insights. I use [[Obsidian]] to manage this ever-growing database. It's a robust platform that keeps up with how complex and nuanced real-world knowledge tends to be.
 
-That's why I use [[Obsidian]], a durable tool for knowledge growth.
+So, explore. This is a space that thrives on intellectual cross-pollination. Ideas here aren't static; they evolve, they interact, and sometimes they morph into something closer to the [[truth]].
 
-Remember, reality offers [[problems to be solved and problems to be enjoyed]]. So approach each note with an open heart: some offer solutions to spur action, some offer observations to inspire introspection. 
-
-The true wonder of this intricate web lies in its organic design. A network of interlinked ideas, it mirrors the synaptic dance of our minds. [[As above, so below]]. 
-
-It removes rigid categorization, inviting you instead to meander through, you might find new patterns emerging, new connections taking root. 
-
-That is the essence of this sanctuary: to cultivate a fertile ground, a nexus where ideas germinate and flourish, getting us closer to the [[Truth]].
-
-Begin your exploration by pursuing a link that resonates.
+Start by clicking on a link that catches your eye.
 
 - [[Library]]
 - [[§What’s top of mind]]

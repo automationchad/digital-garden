@@ -1,3 +1,12 @@
+---
+title: 
+up:
+  - "[[Techno-optimism]]"
+related: []
+created: 2023-10-16
+tags:
+  - 0🌲
+---
 e/acc
 
 > Accelerationism is simply the self-awareness of capitalism, which has scarcely begun. (“We haven’t seen anything yet.”)
@@ -50,3 +59,4 @@ We expect e/acc to compile as “scary” for many EAs, although that’s not th
 - Is prescriptive
 - Values more positive valence consciousness as good
 - Values zero recognizable consciousness in the universe as the absolute worst outcome.
+

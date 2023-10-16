@@ -11,9 +11,14 @@ Started by a [[zen devil]].
 
 The cost of membership is the work you go through when you actually do a deal with someone. It’s your time.
 
+A scam has to be: 
+1. charismatic enough, that it attracts prey. 
+2. It has to be convincing enough that the prey attempts it. 
+3. It has to have the perpetual hanging carrot on the stick, so that the prey is under illusion of that dream that is "by inches unachievable goal".
+
 **Key words:** 
 
-> Mind viruses; 
+> Mind viruses; grifter;
 
 
 
@@ -63,6 +68,7 @@ I'm on a mission to keep others, particularly guys like me, from tumbling down t
 - [[Russell Brunson]]
 - [[Iman Gazdhi]]
 - [[Arlin Moore]]
+- [[Luke Belmar]]
 - [[Alex Hormozi]]
 - [[Dan Lok]]
 - [[Andrew Tate]]
@@ -70,6 +76,7 @@ I'm on a mission to keep others, particularly guys like me, from tumbling down t
 
 Related: 
 
+- [[Online cults]]
 - [[Redpill ideology]]
 - [[Blackpill ideology]]
 - [[Echo chamber]]

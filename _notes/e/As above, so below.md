@@ -1,4 +1,4 @@
-_Quod est superius est sicut quod inferius, et quod inferius est sicut quod est superius._
+> _Quod est superius est sicut quod inferius, et quod inferius est sicut quod est superius._
 
 That which is above is like to that which is below, and that which is below is like to that which is above.
 
