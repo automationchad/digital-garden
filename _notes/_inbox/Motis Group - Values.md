@@ -16,7 +16,7 @@ A first pass at my value-level goals for [[Motis Group]]:
 
 ### diligence, seriousness, agency — not: complacence, passivity, deference
 
-## Another stance: “personality”
+### Another stance: “personality”
 
 c.f. [Minimum Viable Personality - AVC](https://avc.com/2011/09/minimum-viable-personality/)
 

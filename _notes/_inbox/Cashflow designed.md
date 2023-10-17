@@ -42,3 +42,5 @@ There are three main kinds of leverage:
 The fourth kind of leverage is TIME. A unit of time invested into learning how to maximize the unit of time will be more profitable than the same unit of time invested into doing something else with that time. This is a cyclical loop (as you get smarter, you work less for same output).
 
 To design our cashflow we want to first and foremost understand my definition of a financial moat: the difference between what’s possible at maximum velocity and what’s optimal.
+
+[[Wealth building]]

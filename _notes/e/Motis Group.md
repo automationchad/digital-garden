@@ -17,7 +17,6 @@ An unorganized set of working notes on challenges which feel particularly salien
 - [[Technical debt]]
 - [[The main thing is to keep the main thing the main thing]]
 - [[Metric fixation]]
-- [[Building timelessly]] 
 - [[Skills over process]]
 - [[Process over product]]
 
@@ -25,8 +24,8 @@ An unorganized set of working notes on challenges which feel particularly salien
 
 ## What do we do?
 
--  [[Integration Architecture Design & Strategy]]
--  [[Custom API Gateway Services]]
+-  [[Integration architecture design & strategy]]
+-  [[Custom API gateway services]]
 -  [[Migration Services]]
 
 ## How do we do it?
@@ -36,9 +35,9 @@ An unorganized set of working notes on challenges which feel particularly salien
 
 ## How we convert value into revenue
 
-[[Motis billing model]]
-[[Pay-to-play]]
+- [[Motis billing model]]
+- [[Pay-to-play]]
 
 **Content**
 
-[[Motis Group Tiktok]]
+- [[Motis Group Tiktok]]

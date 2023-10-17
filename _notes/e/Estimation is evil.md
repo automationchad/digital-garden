@@ -1,3 +1,12 @@
+---
+title: Estimation is evil
+up:
+  - "[[Motis Group]]"
+related: 
+created: 2023-10-17
+tags:
+  - 0🌲
+---
 See: https://ronjeffries.com/articles/021-01ff/estimation-is-evil/
 
 > Most of us were taught to write down all our requirements at the very beginning of the project. There are only three things wrong with this: “requirements”, “the very beginning”, and “all”. At the very beginning, we know less about our project than we’ll ever know again. This is the worst possible moment to be making firm decisions about what we “require”.

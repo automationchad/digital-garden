@@ -42,7 +42,7 @@ Now that the stage is set, let's delve deeper into the labyrinthine world where 
 ## Some more points about the nature of governments.
 
 
-- [[You are part of a society, whether you like it or not. You can’t escape society]]
+- [[You can’t escape society. You are part of a society, whether you like it or not.]]
 - [[Bureaucracy, and especially the court system, is vital to the survival of society]]
 - [[Society is grossly unfair, selfish, exploitative and barbaric]]
 - [[Normativity doesn’t exist. All norms are arbitrary and relative]]

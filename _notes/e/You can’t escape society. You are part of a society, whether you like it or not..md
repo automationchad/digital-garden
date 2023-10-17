@@ -1,6 +1,4 @@
- # You are part of a society, whether you like it or not. You can’t escape society.
- 
-You’re part of a super-organism, which is your country, which in itself is a part of the super-organism of all countries. It’s easy to be arrogant with your individualism, but unrealistic (Contra: [[§Sovereignty]]).  
+You’re part of a super-organism, which is your country, which in itself is a part of the super-organism of all countries. It’s easy to be arrogant with your individualism, but unrealistic.  
 
 Live on a private island as a billionaire? Your wealth holds meaning only because society gives it value. Those billions are worthless without the farmers, pilots, and service providers that sustain your lifestyle.
 
