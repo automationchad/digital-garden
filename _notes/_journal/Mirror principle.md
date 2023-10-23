@@ -1,0 +1,1 @@
+Outer world is a reflection formed by the image of our internal world.

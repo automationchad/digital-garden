@@ -1,10 +1,17 @@
-Quality without a name.
-
+---
+title: Quality without a name
+up:
+  - "[[Vital architecture]]"
+related: 
+created: 2023-10-23
+tags:
+  - 0🌲
+---
 As companies grow, they often have a hard time with quality, and usually just give up on it. Main reason is that quality is something which cannot be easily measured or defined. As the companies scale, the way they operate or make decisions, are based more on measurements. They start flying with the dashboard instead of flying by looking out of the window because the former is easier to do in scale (See: [[Goodhart's Law]] to see why this is bad)
 
 Christoper Alexander opens his book [[Timeless Way of Building - Christopher Alexander]], that in order to build with a timeless way, we first need to find the “quality without a name”. 
 
-What he is saying is that quality exists, it can be experienced and perceived, but it cannot be described by words. A town, place, or building that just feels good and natural. 
+What he is saying is that quality exists, it can be experienced and perceived, but it cannot be described by words. A town, place, or building that just feels good and natural. See: [[Vital architecture]]
 
 You can spec that a door needs hinges and locks that function, but we all have experienced a wide range of very smoothly working, quality doors, and very janky working, bad quality doors. 
 

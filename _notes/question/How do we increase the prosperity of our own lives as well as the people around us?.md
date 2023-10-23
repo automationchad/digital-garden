@@ -2,7 +2,7 @@ It's about investing in infrastructure, not just shiny tech toys. Modern problem
 
 Let's pivot to real estate. It's not just about owning four walls and a roof; it's about the ground it's built on. A mansion in Columbia can't hold a candle to a shack in California if the latter's on prime land. Location trumps structure. It's the same materials, same architect, but the value skyrockets or plummets based on GPS coordinates.
 
-So, the million-dollar question isn't about investing in the house or the land; it's about how to jack up the land's value. That's where infrastructure comes in—water, food, electricity, internet. This is the real deal in value creation. [[True ownership comes from creating something beautiful]]
+So, the million-dollar question isn't about investing in the house or the land; it's about how to jack up the land's value. That's where infrastructure comes in—water, food, electricity, internet. This is the real deal in value creation. [[True ownership comes from creating something beautiful]]. [[Vital architecture]]
 
 Think Roman ideals of beauty melded with hardcore infrastructure. It's not just about making a city livable; it's about making it aspirational. Meeting basic needs won't cut it; you've got to inspire and elevate. This isn't kid's play. You need a rock-solid grasp of the basics, a clear-as-day vision, and the balls to execute.
 

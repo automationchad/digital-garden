@@ -37,7 +37,7 @@ Walking along a rocky shoreline, you notice how the afternoon sun glints off the
 
 _Weaker Feeling of Sublime_ – Endless desert with no movement. 
 
-![[Pasted image 20231001184837.png]]
+<img src="Pasted image 20231001184837.png" width=100%/>
 
 > Pleasure from seeing objects that could not sustain the life of the observer.
 
@@ -67,4 +67,7 @@ Standing on a mountaintop, you gaze at the night sky and, for a moment, your min
 
 ---
 
-1. 
+
+### See also
+
+- [[Cosmicism]]
