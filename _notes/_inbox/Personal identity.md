@@ -33,3 +33,5 @@ Mega underworld performer for heaven elite
 Haley is in the rich group. Not your type. You like earth girls. End it with her.
 
 Lean into to history to guide you. Use history to guide you through life.
+
+See: [[Exploring the uncharted]]

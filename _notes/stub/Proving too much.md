@@ -1,9 +1,0 @@
-In [philosophy](https://en.wikipedia.org/wiki/Philosophy "Philosophy"), **proving too much** is a [logical fallacy](https://en.wikipedia.org/wiki/Informal_fallacy "Informal fallacy") which occurs when an argument reaches the desired conclusion in such a way as to make that conclusion only a [special case](https://en.wikipedia.org/wiki/Special_case "Special case") or corollary consequence of a larger, obviously absurd conclusion. It is a fallacy because, if the reasoning were valid, it would hold for the absurd conclusion.
-
-The judgement of fallacy is therefore largely dependent on a normative judgement of the "absurd" conclusion. A charge of "proving too much" is thus generally invoked, rightly or wrongly, against normatively-opposed conclusions, and so such charges are often controversial at the time they are made, as in the following examples:
-
-- Gaunilo argued that Anselm's [ontological argument](https://en.wikipedia.org/wiki/Ontological_argument#Anselm "Ontological argument"), that God exists because he is the greatest conceivable being and to exist is greater than to not exist, proves too much, because Gaunilo believed a parallel argument could be made proving the existence of a perfect island.[[1]](https://en.wikipedia.org/wiki/Proving_too_much#cite_note-1)
-
-- The Georgia-born American educator [Henry Coppée](https://en.wikipedia.org/wiki/Henry_Copp%C3%A9e "Henry Coppée") in 1850 described in his "Elements of Rhetoric" that if one argues that slavery is evil because masters are put into situations where they can beat slaves to death, then marriage and parenthood are also evil because domestic violence exists.[[2]](https://en.wikipedia.org/wiki/Proving_too_much#cite_note-2)
-
-Showing that an opponent has proved too much is a form of *[[reductio ad absurdum]]*

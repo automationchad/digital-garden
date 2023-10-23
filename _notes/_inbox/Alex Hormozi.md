@@ -1,1 +1,0 @@
-Hormozi isn’t dogmatic - talks in generalities which means that I don’t think he is doing it out of a cult like place, but it doesn’t mean that others themselves can hijack his narrative because it’s so vague, and can infect others with the same mind virus like other cults 

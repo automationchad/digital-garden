@@ -74,7 +74,7 @@ There were many challenges he’d have to face: leaving behind friends and famil
 
 **How to Discover Your True Fears and Motivation**
 
-          So sit down and really ask yourself:
+So sit down and really ask yourself:
 
 1. What’s the worst that will happen?
 2. Why is that bad?

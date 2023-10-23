@@ -1,0 +1,1 @@
+A proverb used to warn of the dangers of unnecessary investigation or experimentation. It also implies that being curious can sometimes lead to danger or misfortune. 

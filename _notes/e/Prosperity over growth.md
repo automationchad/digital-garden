@@ -27,4 +27,4 @@ To me technological progress that’s being made now is more of an escape from t
 
 It’s the Ego’s way of sweeping things under the rug.
 
-So then my big play is thinking [[how do we increase the prosperity of our own lives as well as the people around us?]]
+So then my big play is thinking [[How do we increase the prosperity of our own lives as well as the people around us?]]

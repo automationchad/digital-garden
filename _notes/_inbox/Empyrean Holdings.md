@@ -2,32 +2,17 @@ My umbrella company consisting of:
 
 ### Pumps
 
-
-
-Technology Arm - [[Innovatech Ventures]]
-
+Technology Arm:
 - [[Motis Group]]: Software Implementation Consultancy.
-- **Nexa AI Labs**: Research and development in AI and emergent technologies.
-- Phoenix Ventures: Incubating and accelerating tech startups with high growth potential.
+- [[Nexa AI Labs]]: Research and development in AI and emergent technologies.
+- [[Phoenix Ventures]]: Incubating and accelerating tech startups with high growth potential.
 
-### [[Buckets]]
+### Buckets
 
-Real Estate Arm: Marzella Estates
-
-- **Marzella Commercial Developments**: Sustainable, community-centric commercial real estate projects.
-
- - **Marzella Residential Communities**: Residential real estate projects fostering community and sustainable living.
-
+Real Estate Arm:
 - [[Luxus Terrae]]: A portfolio of luxury vacation properties in desirable locations worldwide. 
 
-### [[Moats]]
+### Moats
 
-**Media Arm: Marzella Media**
-
-- **Marzella Ed**: Educational platforms focused on emergent tech, systemic thinking, and integral values.
-
+Media Arm:
 - [[Oblivion Media]]: Content creation and distribution aligned with the Marzella ethos.
-
-**Knowledge and IP Division (within Marzella Innovations)**
-- Focused on creating, acquiring, and protecting intellectual property that provides competitive advantages.
-

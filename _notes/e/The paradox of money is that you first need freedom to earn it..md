@@ -2,5 +2,5 @@ The paradox of money is that you first need freedom to earn it. Freedom allows y
 
 
 Related: 
-- [[Be the best at what you do]]
+- [[Get good]]
 - [[Materialistic focus leads to materialistic decline]]

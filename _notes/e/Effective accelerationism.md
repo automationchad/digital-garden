@@ -1,7 +1,7 @@
 ---
 title: 
 up:
-  - "[[Techno-optimism]]"
+  - "[[§Techno-optimism]]"
 related: []
 created: 2023-10-16
 tags:

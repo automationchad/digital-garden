@@ -19,7 +19,11 @@ My dad's observation about my ex's parents is a vivid illustration of this pitfa
 
 Efficient? Maybe. But in their ruthless optimization, they forget that some experiences, like their daughter's milestones, should not be crunched into data points. They are missing out on the problem to be enjoyed.
 
-In essence, life is a tapestry of different kinds of problems. Some require the analytical rigor of a code debugger, while others ask for the nuanced touch of a poet. Be versatile. Wield different tools for different problems. Never let the rigidity of one domain seep into the fluidity of another. If you do, you risk turning the whole tapestry into a monochrome, devoid of the colors that make life worth living.
+In essence, life is a tapestry of different kinds of problems. Some require the analytical rigor of a code debugger, while others ask for the nuanced touch of a poet. 
+
+Be versatile. Wield different tools for different problems. Never let the rigidity of one domain seep into the fluidity of another. If you do, you risk turning the whole tapestry into a monochrome, devoid of the colors that make life worth living.
+
+See: [[Solutions to all of my problems boil down to either “get over it” or “get good”]]
 
 ---
 

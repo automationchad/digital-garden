@@ -1,15 +1,22 @@
+---
+title: 
+up:
+  - "[[Empyrean Holdings]]"
+related: 
+created: 2023-10-22
+tags:
+  - 0🌲
+---
+
+
 
 Luxury Agritourism BUT ECO.
-
 
 Boutique hotels I see a lot of.
 
 How many people are doing eco-homes?
 
 Or doing small cottages around a centralized area?
-
-
-
 
 - List of principles by which you will develop the project
 
@@ -37,7 +44,7 @@ This is different from most experiences which harass you with different experien
 
 ---
 
-Conversely you may want to 
+Conversely you may want to offer packages.
 
 Americans LOVE packages.
 
@@ -51,11 +58,7 @@ Digging ground and planting plants.
 
 Teaching them painting, teaching them pasta.
 
-
-
-20+ global real estate investments (homes, casinos, farms, hotels, AirBnbs).
-
-Properties in: LA, SF, Miami, NYC, Honolulu, Paris, London, Switzerland, Roma, Capri, Mykonos, Seychelles, Majorca, St. Lucia, Egypt, Morocco, Bosnia, Uruguay, Thailand, Tokyo, Melbourne and Sydney.
+---
 
 Influencers with good recs:
 

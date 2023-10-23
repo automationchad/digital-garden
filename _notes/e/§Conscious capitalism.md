@@ -11,6 +11,11 @@ How do we balance them?
 	- Develop and adopt technologies that address human well-being, emphasizing tools that improve mental health, foster community, and bridge divides.
 	- [[Don't make money at the expense of others, make money at the service of others]]
 	- [[Guild learning]]
+	- [[Anti-marketing]]
+	- [[Operate from the inside-out]]
+	- [[Operating with a compass not a map]]
+	- [[Build timelessly]]
+	- [[Process over product]]
 
 - Understand history and philosophy:
 	- Encourage ethics in innovation. Ensure developers consider potential societal impacts of their creations.
@@ -23,11 +28,8 @@ How do we balance them?
 
 
 - Key design properties:
-	- [[Anti-marketing]]
-	- [[Operate from the inside-out]]
-	- [[Operating with a compass not a map]]
-	- [[Build timelessly]]
-	- [[Process over product]]
+	- 
+	- 
 - Impact
 	- [[Remote work]]
 - Hypotheses/questions

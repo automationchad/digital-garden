@@ -1,4 +1,4 @@
-I prefer nuanced thinks over crude things -- humor, dancing. Twerking vs bachata. one is an outright representation of sex vs the other which is more of an intimate experience. Why? Maybe because it requires more work to get to the sex?
+Gross versus Subtle. I prefer nuanced thinks over crude things -- humor, dancing. Twerking vs bachata. one is an outright representation of sex vs the other which is more of an intimate experience. Why? Maybe because it requires more work to get to the sex?
 
 Crude experiences are direct, unrefined, and often instant in gratification. They provide a burst of intense stimulation that satisfies an immediate desire. This realm is alluring for a variety of reasons:
 

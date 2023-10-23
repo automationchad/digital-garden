@@ -17,11 +17,11 @@ Whether to minimize governmental interference (via taxes or otherwise), or to ma
 5. Playgrounds – where one spends one's money, ideally somewhere with low [consumption taxes](https://en.wikipedia.org/wiki/Consumption_tax "Consumption tax").
 
 
-In 1995, financial commentator [Bob Beckman](https://en.wikipedia.org/wiki/Bob_Beckman "Bob Beckman") commented about his residence in Monaco: "A long time ago, I was told that the most efficient way for an individual to handle his affairs was to work one place, keep his money in a second place and live in a third place. I live in Monaco. I don't work here, my money is placed elsewhere, but managed from here."[[2]](https://en.wikipedia.org/wiki/Perpetual_traveler#cite_note-act-2)
-
+In 1995, financial commentator [Bob Beckman](https://en.wikipedia.org/wiki/Bob_Beckman "Bob Beckman") commented about his residence in Monaco: "A long time ago, I was told that the most efficient way for an individual to handle his affairs was to work one place, keep his money in a second place and live in a third place. I live in Monaco. I don't work here, my money is placed elsewhere, but managed from here."
 
 See also: 
 
 - [[Remote work]]
 - [[Global nomad]]
 - [[Global citizenship]]
+- [[Types of countries]]

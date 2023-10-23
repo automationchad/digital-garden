@@ -27,10 +27,3 @@ A good heuristic for coercive actions is looking at friction and obligation:
 
 - [[Friction tells us if we're forcing something not meant to be]].
 - [[Beware a sense of “should”]]
-
----
-
-See also:
-- [[Inversionism]]
-- [[Essentialism]]
-- [[Utilism]]

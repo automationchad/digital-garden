@@ -37,5 +37,5 @@ See also:
 - [[You can’t escape society. You are part of a society, whether you like it or not.]] 
 - [[The chief cause of problems is solutions]]
 - [[Productivity paradox]]
-- [[Make yourself an API]]
+- [[You are an API]]
 

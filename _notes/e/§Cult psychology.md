@@ -5,6 +5,9 @@
 
 A hierarchical organisation created by a charismatic narcissist leader, which uses mind control techniques to amass money, power and sex.
 
+[[Cults In Our Midst - Margaret Thaler Singer]]
+
+
 Hierarchical structure — pyramid scheme.
 
 Started by a [[zen devil]].
@@ -29,8 +32,8 @@ A scam has to be:
 
 **Concepts that are manifested:**
 
-- [[Ponzi schemes]]
-- [[Multi-level marketing]]
+- [[Ponzi scheme]]
+- [[Ponzinomics, the Untold Story of Multi-Level Marketing - Rob Fitzpatrick]]
 
 It's not that the groups themselves are inherently bad, it's how they create mind-viruses.
 

@@ -1,0 +1,9 @@
+Disintermediation isn't just a buzzword; it's a renaissance in how we build and deploy software. Gone are the days of bloated, one-size-fits-all solutions that act like gatekeepers between developers and their goals. Today's top platforms—think Supabase, Ironclad—are ditching the fluff, offering raw, potent toolsets that put devs back in the driver's seat.
+
+Why all the fuss about developer-centricity? Because it works. Supabase isn't just Postgres with a new paint job. It's an ecosystem, complete with authentication, encryption, and more—all modular, mind you. Ironclad takes a similar approach but goes one step further. Forget about pre-cooked, "native" integrations. They hand you an API and say, "You're the chef now. Cook it how you like it."
+
+Let's not miss the forest for the trees here. The magic isn't just in the tools themselves but in the philosophy that guides their development. These aren't just isolated features thrown together; they're carefully curated extensions of a core functionality. Supabase didn't just stumble upon adding auth or encryption. They recognized a natural, organic workflow and built around it. Modular pricing? That's not an afterthought; it's a direct consequence of a design philosophy that values user agency.
+
+The lesson? Build for yourself. Solve your own pain points and then find others who share them (See: [[Work with the garage door up]]). You're not just creating a tool; you're fostering a community of likeminded developers who will push the boundaries of what's possible. This isn't just software development; it's a collaborative revolution. Build it well, and they will come.
+
+See: [[Deep collaborations between tool-makers and tool-users may support insight through making]]

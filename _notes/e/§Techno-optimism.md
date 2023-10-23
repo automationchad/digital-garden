@@ -1,0 +1,3 @@
+- [[The Fourth Turning - William Strauss]]
+- [[The Techno-Optimist Manifesto - Marc Andreessen]]
+- [[Effective accelerationism]]

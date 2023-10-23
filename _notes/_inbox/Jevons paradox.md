@@ -1,0 +1,1 @@
+Efficiency gains can sometimes lead to increased consumption of a resource rather than decreased consumption, essentially negating the benefits of the innovation in terms of carrying capacity.

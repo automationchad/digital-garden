@@ -55,7 +55,7 @@ _Full Feeling of Sublime_ – Overpowering turbulent Nature.
 
 > Pleasure from beholding very violent, destructive objects).
 
-Being in a violent ocean storm on a pirate ship. Here, you're not just witnessing nature's turbulence—you're in it, struggling against it, and at its mercy. The ship itself becomes an extension of your vulnerability, as it too fights to stay afloat amidst towering waves and howling winds.
+Being in a violent ocean storm on a pirate ship ([[Exploring the uncharted]]). Here, you're not just witnessing nature's turbulence—you're in it, struggling against it, and at its mercy. The ship itself becomes an extension of your vulnerability, as it too fights to stay afloat amidst towering waves and howling winds.
 
 The ocean's overwhelming force engulfs you, offering no escape or detachment. You're not just observing this power; you're at the center of it. The experience would be both terrifying and awe-inspiring, giving you a profound sense of your smallness against nature's grand scale and destructive potential.
 

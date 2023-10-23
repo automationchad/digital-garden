@@ -1,5 +1,7 @@
 - In
 	- [[§Investments]]
+	- [[Cashflow designed]]
+	- [[cash]]
 
 - Out
 	- [[§Insurance]]

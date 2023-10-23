@@ -39,3 +39,4 @@ Freedom, in this framework, leverages the global landscape to serve your individ
 Related:
 
 - [[Perpetual traveler]]
+- [[Types of countries]]

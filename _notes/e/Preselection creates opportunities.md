@@ -7,3 +7,4 @@ See:
 - [[Attraction is not a binary]]
 - [[Persona capitalizes on opportunities]]
 - [[Personality maintains opportunities]]
+- [[Creating more surface area for opportunity]]

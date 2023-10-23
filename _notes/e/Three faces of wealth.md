@@ -19,4 +19,4 @@ See: [[Make choices such that your ability to make choices improves]]
 
 Mario, hailing from Verona, exemplifies wealth that surpasses fiscal measures. With his wife, Nadia, he runs a B&B from a centuries-old building, serving up breakfasts with his culinary magic. Yet, his uniqueness lies in his philosophy—enlightenment is intertwined with enlightening others. His vast knowledge of Verona isn't hoarded; it's shared generously. He connects people with stories of Leonardo, offers unparalleled views of the city, and unveils secrets hidden from typical tourists. For Mario, wealth is a tool to shed light on the world, sharing insights, and touching souls. True affluence lies in elevating collective consciousness and turning individual enlightenment into a shared experience.
 
-See: [[True ownership comes from creating something beautiful.]]
+See: [[True ownership comes from creating something beautiful]]

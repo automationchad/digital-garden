@@ -13,6 +13,7 @@ A first pass at my value-level goals for [[Motis Group]]:
 
 ### wu wei, effortlessness, “trust the process” — not: inboxes, graphs, knobs
 
+[[Process over product]]
 
 ### diligence, seriousness, agency — not: complacence, passivity, deference
 

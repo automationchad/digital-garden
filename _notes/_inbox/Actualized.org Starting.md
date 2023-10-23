@@ -100,7 +100,7 @@ These videos lay out the basic principles for how to self-actualize. They focus 
 
 Many of these concepts are discussed throughout all my videos. Many of them are recurring themes, which need to be understood from different angles. You will need to study all of these deeply if you want to understand how to significantly transform yourself.
 
-- [[Mastery]], 10,000 Hour Rule, Deliberate Practice, Deep Work, Self-Discipline creates freedom
+- [[§Mastery]], 10,000 Hour Rule, Deliberate Practice, Deep Work, Self-Discipline creates freedom
 - Enlightenment, Spirituality, Nonduality, Mysticism, Mindfulness
 - Being vs Doing vs Having
 - Spiritual Purification

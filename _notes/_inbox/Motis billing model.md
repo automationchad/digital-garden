@@ -3,7 +3,7 @@
 
 [[Estimation is evil]]
 
-The problem is that it always places an emphasis on estimation when what we should be doing it the work itself.
+The problem is that it always places an emphasis on estimation when what we should be doing is the work itself.
 
 Everyone has this aversion to small ad-hoc projects - the hourly model because it’s slightly unpredictable. They want the big deals, enterprise clients. 
 

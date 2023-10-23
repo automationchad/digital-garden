@@ -1,5 +1,0 @@
-A Ponzi scheme is a form of [fraud](https://en.wikipedia.org/wiki/Fraud "Fraud") that lures [investors](https://en.wikipedia.org/wiki/Investor "Investor") and pays [profits](https://en.wikipedia.org/wiki/Profit_(accounting) "Profit (accounting)") to earlier investors with [funds](https://en.wikipedia.org/wiki/Funding "Funding") from more recent investors. Named after Italian businessman [Charles Ponzi](https://en.wikipedia.org/wiki/Charles_Ponzi "Charles Ponzi"), the scheme leads victims to believe that profits are coming from legitimate business activity (e.g., product sales or successful investments), and they remain unaware that other investors are the source of funds. 
-
-A Ponzi scheme can maintain the illusion of a sustainable business as long as new investors contribute new funds, and as long as most of the investors do not demand full repayment and still believe in the non-existent assets they are purported to own.
-
-For schemes that promise rewards based on enrolling ever larger numbers of people see [[Pyramid schemes]]

@@ -8,11 +8,11 @@ Q. What antidote does [Ken Kocienda](https://notes.andymatuschak.org/Ken_Kocien
 
 A. “The key question: What’s the most important thing I could be doing right now to make progress on the project? Do that. Don’t worry about the parts that remain frozen. If you keep answering the question, eventually, their time will come.” [https://twitter.com/kocienda/status/1422043864970326020](https://twitter.com/kocienda/status/1422043864970326020)
 
-I like a variant [Joe Edelman](https://notes.andymatuschak.org/zTXJ65qqaMUbMi95Ak4a3mu) proposes: “What would I be most proud to face today?”
+I like a variant [[Joe Edelman]] proposes: “What would I be most proud to face today?”
 
-Q. [David Holz](https://notes.andymatuschak.org/David_Holz), paraphrasing advice from a research mentor: “projects either take ??? or ???.”  
+Q. [[David Holz]], paraphrasing advice from a research mentor: “projects either take ??? or ???.”  
 
 A. three months / ten years
 
 
-See: [[Patient but furious]], [[Mastering the art of timing]]
+See: [[Patient but furious]], [[Master the art of timing]]
