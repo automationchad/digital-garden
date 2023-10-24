@@ -6,4 +6,3 @@ Pervasive norms in the tech industry seem to oppose this principle ([[Tech indus
 
 ## References
 
-Initially inspired by some pointed nudges from [Michael Nielsen](https://notes.andymatuschak.org/z4JuirVwUcoGL4wZ8dM6Los), [2022-11-16](https://notes.andymatuschak.org/z5s6fpivt7yL5GdMoNKbRjp).
