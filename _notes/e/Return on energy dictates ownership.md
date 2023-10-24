@@ -17,4 +17,4 @@ Using time to build things that will give you more ownership over your time.
 See: 
 
 - [[Everything in my life has either been created by me or allowed by me.]]
-- 
+- [[Health is a deliberate focus of energy to counteract entropy]]

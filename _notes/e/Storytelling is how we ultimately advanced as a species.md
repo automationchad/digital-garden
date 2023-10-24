@@ -1,3 +1,12 @@
+---
+title: 
+up:
+  - "[[§Art & Science Storytelling]]"
+related: 
+created: 2023-10-24
+tags:
+  - 0🌲
+---
 > Memory of past mistakes and the ability to plan for the future is how we became an apex predator.
 
 The art of storytelling is not merely an exercise in entertainment or artistic expression; it is intrinsically tied to the evolution and progress of humanity. This unique capability of humans to conceptualize, narrate, and share experiences has been pivotal in shaping our collective journey, from survival strategies to the intricate web of modern societies.

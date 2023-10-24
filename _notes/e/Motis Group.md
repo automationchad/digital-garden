@@ -30,7 +30,7 @@ An unorganized set of working notes on challenges which feel particularly salien
 
 ## How do we do it?
 
-- [[The secret ingredient]]
+- [[About - Motis Group]]
 - [[Motis Group exists to support learning]]
 
 ## How we convert value into revenue

@@ -1,4 +1,4 @@
-### **Chapter I**
+### Chapter I
 *How Usury Destroyed the Roman Empire*
 
 > “Money, being naturally barren, to make it breed money is preposterous and a perversion from the end of its institution, which was only to serve the purpose of exchange and not of increase... Men called bankers we shall hate, for they enrich themselves while doing nothing."" – Aristotle, Politics

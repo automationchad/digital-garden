@@ -24,11 +24,11 @@ Collecting some related material:
 - [[Stop trying to try and try, after Soares]] (fixation on outcome makes failure much more salient)
 - [[Quit Your Job - Wolf Tivy]] (“you won’t find interesting novelty by chasing along known value gradients”)
 
-[Jess Miller](https://notes.andymatuschak.org/zPMHPDfjQLgWKM5Pn7YjULR)’s [Becoming a magician – Autotranslucence](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/)
+[[Jess Miller]]’s [Becoming a magician – Autotranslucence](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/)
 
 > You can’t keep your gaze tightly fixed on the outcome you want because it will lock your mind onto the strategies you currently have for meeting them, which by definition probably don’t work (otherwise you would have succeeded already and you wouldn’t need to use the strategy).
 
-[Wanting - Luke Burgis](https://notes.andymatuschak.org/zTn2yX8ErYsUwHhkwxg6V56)
+[[Wanting - Luke Burgis]]
 
 > Have you noticed that goals have an irreproachable and unimpeachable status? You want to run an ultramarathon? People will applaud your determination. Run for city office? You have their support. Sell your home and move into the back of a van? Cool, essentialism is in. Nobody will question your goals.
 

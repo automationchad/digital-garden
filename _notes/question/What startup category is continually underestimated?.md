@@ -3,3 +3,5 @@ In the clip below, Peter Thiel explains why he believes “complex coordination�
 Keith Rabois expressed a similar affinity for vertically integrated companies in his recent panel at the BUILD Summit in New York
 
 [[Is there a formula for startup success?]]
+
+[[§Business]]

@@ -1,3 +1,12 @@
+---
+title: 
+up:
+  - "[[A small ontological unit of experts in their respective fields is a good way to build a company]]"
+related: 
+created: 2023-10-23
+tags:
+  - 0🌲
+---
 Original: https://supabase.com/blog/who-we-hire
 
 It’s been 12 months since I wrote [How we launch at Supabase](https://supabase.com/blog/supabase-how-we-launch), which details our Launch strategy. This methodology helped us grow our hosted platform 46% month-over-month for the first 18 months since [first launching on Hacker News](https://news.ycombinator.com/item?id=23319901) in summer 2020.

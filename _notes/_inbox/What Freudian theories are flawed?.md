@@ -1,3 +1,12 @@
+---
+title: 
+up:
+  - "[[⎈Psychology]]"
+related: 
+created: 2023-10-23
+tags:
+  - 0🌲
+---
 Freud was a groundbreaking figure, no doubt, but let's not kid ourselves—many of his theories are riddled with glaring inconsistencies, lack of empirical validation, and problematic societal implications. Several come to mind:
 
 1. **Oedipus Complex**: Freud claimed that boys experience sexual attraction to their mothers and harbor hostile feelings toward their fathers. While the theory had a huge cultural impact, scientifically it's a shaky framework. It operates on anecdotal accounts, is heavily influenced by culture and time period, and hasn't stood up to rigorous empirical testing.
