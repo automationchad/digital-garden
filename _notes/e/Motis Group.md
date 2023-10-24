@@ -7,7 +7,9 @@ created: 2023-10-09
 tags:
   - 0🌲
 ---
-My platform for experiments in [[§Conscious capitalism]], with [[A small ontological unit of experts in their respective fields is a good way to build a company|a small ontological unit of experts]], etc. [https://motis.group](https://motis.group)
+My platform for experiments in [[§Conscious capitalism]], with [[A small ontological unit of experts in their respective fields is a good way to build a company|a small ontological unit of experts]] doing [[Integration architecture design & strategy]], [[Custom API gateway services]],  [[Migration Services]] etc.
+
+[https://motis.group](https://motis.group)
 
 - [[Motis Group - Values]]
 
@@ -22,16 +24,7 @@ An unorganized set of working notes on challenges which feel particularly salien
 
 ---
 
-## What do we do?
-
--  [[Integration architecture design & strategy]]
--  [[Custom API gateway services]]
--  [[Migration Services]]
-
-## How do we do it?
-
 - [[About - Motis Group]]
-- [[Motis Group exists to support learning]]
 
 ## How we convert value into revenue
 

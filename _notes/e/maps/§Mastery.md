@@ -6,3 +6,4 @@ A collection of my notes on the nature of mastery
 - [[Deep Work]]
 - [[Self-Discipline creates freedom]]
 - [[Process over product]]
+- [[The goal of the mentor is to stop being the mentor]]

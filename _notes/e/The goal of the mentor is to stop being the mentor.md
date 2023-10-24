@@ -1,3 +1,12 @@
+---
+title: 
+up:
+  - "[[§Mastery]]"
+related: 
+created: 2023-10-24
+tags:
+  - 0🌲
+---
 Navigating the domain of mentorship in the service industry uncovers a profound paradox: the mentor's ultimate aspiration is their own obsolescence. At the heart of this lies a deep-rooted assurance, untethered from the capricious nature of external affirmation. This isn't about chasing the market's undying adoration but anchored in self-acknowledgment and a keen awareness of the transactional dance of business affiliations.
 
 There exists a perilous inclination: to yearn perpetually for market adoration, often stemming from an inner emptiness, supplanting self-worth with external validation. Such a path veers from genuine market interplay, which rests on transient trust and respect.
