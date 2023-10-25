@@ -1,0 +1,6 @@
+- [ ] Fold clothes away and put clothes into suitcases
+- [ ] Bedding and towels into duffel bag
+- [ ] Need boxes for remaining books
+- [ ] Where to put fragile kitchen stuff?
+- [ ] Skillets and Japanese knives.
+- [ ] Wash white sheets

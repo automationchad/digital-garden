@@ -1,3 +1,12 @@
+---
+title: §Cult psychology
+up:
+  - "[[⎈Psychology]]"
+related: 
+created: 2023-10-25
+tags:
+  - 0🌲
+---
 **What is a cult?**
 
 A hierarchical organisation created by a charismatic narcissist leader, which uses mind control techniques to amass money, power and sex.
