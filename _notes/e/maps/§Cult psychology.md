@@ -41,6 +41,8 @@ What underpins all the self-help groups?
 - [[Trance and Hypnosis in cults]]
 - [[Peer pressure and modeling]]
 - [[Emotional manipulation]]
+- [[Doublethink]]
+- [[Groupthink]]
 
 **Damage control and recovery**
 

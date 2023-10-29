@@ -36,7 +36,7 @@ Generally, across everything from HR, finance, security, IT, etc.
 - talk more about the how of the work, vs the what and why if the work
 - leaders lose track of the details
 - teams lose track of the bigger picture
-- customers become data points and % rates, not real people with real problems (See: [[Scale can kill authenticity]], [[Goodhart's Law]]).
+- customers become data points and % rates, not real people with real problems (See: [[Scaling badly can kill authenticity]], [[Goodhart's Law]]).
 
 Processes, meetings, policies—they're not inherently bad; they're needed for scale and reliability. But if you're not vigilant, these become weeds choking your organization. Act immediately. Cut the deadwood. Be ruthless.
 
@@ -50,7 +50,7 @@ Related:
 - [[Effective system design requires insights drawn from serious contexts of use]]
 - [[Premature scaling can stunt system iteration]] 
 - [[Enabling environments focus on doing what’s enabled]]
-- [[Make it intuitive]]
+- [[Make it easy for people to interact with you]]
 - [[Skills over process]]
 
 

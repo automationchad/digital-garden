@@ -12,6 +12,24 @@ tags:
 
 Luxury Agritourism BUT ECO.
 
+Busy people crave meaningful experiences. We all need an escape. 
+
+Creating environments that are transportive.
+
+Wow factor.
+
+Solving for status on a certain level.
+
+Creating an instagramable properties. Design will be important.
+
+immersive & iconic stays.
+
+The experiential hospitality model
+
+What does experiential hospitality mean?
+
+
+
 Boutique hotels I see a lot of.
 
 How many people are doing eco-homes?

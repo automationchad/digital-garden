@@ -1,0 +1,1 @@
+[[Xerox PARC]] researcher, best known for [[Ubiquitous computing]].

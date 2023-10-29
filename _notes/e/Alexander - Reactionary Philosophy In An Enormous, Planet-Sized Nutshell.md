@@ -1,6 +1,6 @@
 [https://slatestarcodex.com/2013/03/03/reactionary-philosophy-in-an-enormous-planet-sized-nutshell/](https://slatestarcodex.com/2013/03/03/reactionary-philosophy-in-an-enormous-planet-sized-nutshell/)
 
-[Scott Alexander](https://notes.andymatuschak.org/z9hfoSKuG9186kjhyQVZYdf)’s attempt to pass an [Ideological Turing test](https://notes.andymatuschak.org/z6FhMFzUNhgN2ppb5saPphN) on the views of [Reactionism](https://notes.andymatuschak.org/zL25gAHhFHMNyvehSj4jySK). See also [The Anti-Reactionary FAQ](https://slatestarcodex.com/2013/10/20/the-anti-reactionary-faq/), also on [Slate Star Codex](https://notes.andymatuschak.org/zGrsoj2hnvmB8oa8Lmv8bM1). My summary of this summary (n.b. generally not my views):
+[[Scott Alexander]]’s attempt to pass an [[Ideological Turing test]] on the views of [[Reactionism]]. See also [The Anti-Reactionary FAQ](https://slatestarcodex.com/2013/10/20/the-anti-reactionary-faq/), also on [Slate Star Codex](https://notes.andymatuschak.org/zGrsoj2hnvmB8oa8Lmv8bM1). My summary of this summary (n.b. generally not my views):
 
 ## Modern society represses criticism of progressive views
 

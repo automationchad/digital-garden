@@ -45,3 +45,5 @@ tags:
 38. What is the best compliment you ever received?
 39. What is the luckiest thing that happened to you?
 40. What makes you hopeful?
+
+[[PROTOCOL - 7 day technology Detox]]

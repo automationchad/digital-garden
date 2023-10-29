@@ -33,11 +33,3 @@ If you just do the bare minimum you will become a battery for the matrix.
 Powerful systems outside of your awareness will co-opt your consciousness to feed their survival and serve their low consciousness priorities and outright devilry.
 
 You will become an intellectual slave without even realizing it.
-
-Everything is connected.
-
-[[Your brain]] is connected to [[your gut]] which is connected to [[your musculoskeletal system]]…
-
-…which is connected to [[your breath]] which is connected to [[your hormones]]…
-
-…which is connected to [[your immune system]] which is connected to [[your metabolism]]…

@@ -23,7 +23,10 @@ In essence, life is a tapestry of different kinds of problems. Some require the 
 
 Be versatile. Wield different tools for different problems. Never let the rigidity of one domain seep into the fluidity of another. If you do, you risk turning the whole tapestry into a monochrome, devoid of the colors that make life worth living.
 
-See: [[Solutions to all of my problems boil down to either “get over it” or “get good”]]
+See: 
+
+- [[Solutions to all of my problems boil down to either “get over it” or “get good”]]
+- [[And then what?]]
 
 ---
 

@@ -1,10 +1,4 @@
-**Hypocrisy** is the practice of feigning to be what one is not or to believe what one does not.
-
-[[Double-standards]]
-
-[[Psychological projection]]
-
-[[Self-deception]]
+The practice of feigning to be what one is not or to believe what one does not.
 
 "So convenient a thing is it to be a reasonable creature, since it enables one to find or make a reason for everything one has a mind to do."[[27]](https://en.wikipedia.org/wiki/Hypocrisy#cite_note-27) [Benjamin Franklin](https://en.wikipedia.org/wiki/Benjamin_Franklin "Benjamin Franklin")'s observation has been confirmed by recent studies in [self-deception](https://en.wikipedia.org/wiki/Self-deception "Self-deception").[[28]](https://en.wikipedia.org/wiki/Hypocrisy#cite_note-28)
 
@@ -14,3 +8,14 @@ Humans take a position, look for evidence that supports it, then, if they find 
 
 > People who live in glass houses shouldn't throw stones.
 
+See also:
+
+- [[Double-standards]]
+- [[Psychological projection]]
+- [[Self-deception]]
+
+---
+
+Related:
+
+- [[Doublethink]]

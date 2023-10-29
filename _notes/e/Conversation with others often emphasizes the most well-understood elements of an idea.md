@@ -2,7 +2,7 @@ There’s an unintuitive danger in talking about an emerging idea with others. T
 
 But if you’re doing something original, the most interesting elements are the ones which others—and you!—understand least well. Particularly early on, you may not be able to articulate the new element you’re reaching for very clearly. It may just sound like an unusual adverb choice or an innocuous-seeming qualifier. In any case: because their replies will tend to emphasize the most mainstream elements and pass over the elements you least understand, conversation will often drag you back towards the mainstream. It’s a kind of “regression to the mean” for ideas.
 
-Of course, the best colleagues and collaborators actively avoid this trap! One of my favorite [Michael Nielsen](https://notes.andymatuschak.org/z4JuirVwUcoGL4wZ8dM6Los) behaviors is that if he hears me talking about some idea that seems fairly banal, he’ll deliberately tug at the places where I’m straining to reach past typical interpretations.
+Of course, the best colleagues and collaborators actively avoid this trap! One of my favorite [[Michael Nielsen]] behaviors is that if he hears me talking about some idea that seems fairly banal, he’ll deliberately tug at the places where I’m straining to reach past typical interpretations.
 
 ---
 

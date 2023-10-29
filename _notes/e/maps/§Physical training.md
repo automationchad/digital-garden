@@ -1,5 +1,4 @@
-
-you train in a discipline that compliments your mental frame, eat to fuel your efforts and a strong physical presence comes naturally
+> Train in a discipline that compliments your mental frame.
 
 [[Flexibility]]
 [[Calisthenics]]

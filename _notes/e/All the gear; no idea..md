@@ -6,4 +6,4 @@ In reality these things only add 5%. But the reason they’re sexy is because th
 
 In pursuing the outcome you miss the work that will enable to outcome.
 
-All the while you are not cultivating anything worthwhile. You’re not interesting ([[Be a problem solver, and an interesting personality will follow]]).
+All the while you are not cultivating anything worthwhile. You’re not interesting ([[Be a problem solver, and an interesting relationships will follow]]).

@@ -1,3 +1,12 @@
+---
+title: 
+up:
+  - "[[§Consciousness]]"
+related: 
+created: 2023-10-26
+tags:
+  - 0🌲
+---
 These thoughts are not seperated between positive and negative just attuned to your choosen state of being.
 
 1. Chaotic repeating thoughts: nonsense, selfloathing, fear, worries, fragments, memories, impressions, basically everything scattered

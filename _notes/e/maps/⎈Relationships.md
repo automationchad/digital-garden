@@ -4,6 +4,7 @@
 
 - [[Get over the idea of being with a particular person]]
 - [[Love is more than sex]]
+- [[Don't take a client call while she's showing you her favourite place in the world]]
 - [[Self-interest is the lever that will move people]]
 - [[Are you still eating your vegetables?]]
 - [[Relationship types]]
@@ -13,8 +14,4 @@
 
 The reason you make money, 
 
-Love types:
 
-[[Agape]]
-[[Phileo]]
-[[Eros]]

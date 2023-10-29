@@ -1,0 +1,1 @@
+Parkinson's Law says that work expands to fill the time allotted for its completion. If you give yourself 4 hours to process an inbox, it'll take 4 hours. Give yourself 30 minutes, it'll take 30 minutes. Create constraints on "busy" work.

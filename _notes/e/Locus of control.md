@@ -1,0 +1,1 @@
+[[I’m dependent on social validation]]

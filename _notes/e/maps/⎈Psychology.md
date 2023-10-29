@@ -13,3 +13,6 @@
 
 [[§List of heuristics]]
 [[List of cognitive biases]]
+
+---
+
