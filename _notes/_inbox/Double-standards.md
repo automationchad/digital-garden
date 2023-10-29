@@ -1,1 +1,0 @@
-A **double standard** is the application of different sets of [principles](https://en.wikipedia.org/wiki/Principle "Principle") for situations that are, in principle, the same.

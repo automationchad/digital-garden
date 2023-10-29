@@ -1,0 +1,19 @@
+aka The Rothschild Formula:
+
+1. War is the ultimate discipline to any government. If it can successfully meet the challenge of war, it will survive. If it cannot, it will perish. All else is secondary. The sanctity of its laws, the prosperity of its citizens, and the solvency of its treasury will be quickly sacrificed by any government in its primal act of self-survival.
+
+3. All that is necessary, therefore, to insure that a government will maintain or expand its debt is to involve it in war or the threat of war. The greater the threat and the more destructive the war, the greater the need for debt.
+
+5. To involve a country in war or the threat of war, it will be necessary for it to have enemies with credible military might. If such enemies already exist, all the better. If they exist but lack military strength, it will be necessary to provide them the money to build their war machine. If an enemy does not exist at all, then it will be necessary to create one by financing the rise of a hostile regime.
+6. The ultimate obstacle is a government which declines to finance its wars through debt. Although this seldom happens, when it does, it will be necessary to encourage internal political opposition, insurrection, or revolution to replace that government with one that is more compliant to our will. The assassination of heads of state could play an important role in this process.
+7. No nation can be allowed to remain militarily stronger than its adversaries, for that could lead to peace and a reduction of debt. To accomplish this balance of power, it may be necessary to finance both sides of the conflict. Unless one of the combatants is hostile to our interests and, therefore, must be destroyed, neither side should be allowed a decisive victory or defeat. While we must always proclaim the virtues of peace, the unspoken objective is perpetual war.
+
+
+Essentially, any time a country, (like Germany before WW1) starts to grow economically and away from central banking--which threaten the greater powers and be free from their reach and surpassing them in power--war is manufactured with orchestrated events to draw the targeted nations into military conflicts to bankrupt the countries and then force them to come back groveling to the central bankers to ask for help and repair of their country.
+
+> Although the war started between Austria-Hungary and Serbia , it quickly shifted to focus on Germany, whose industrial capacity was seen as an economic threat to Great Britain, who saw the decline of the British Pound as a result of too much emphasis on financial activity to the neglect of agriculture, industrial development, and infrastructure (not unlike the present day United States). Although pre-war Germany had a private central bank, it was heavily restricted and inflation kept to reasonable levels. Under government control, investment was guaranteed to internal economic development, and Germany was seen as a major power. So, in the media of the day, Germany was portrayed as the prime opponent of World War One, and not just defeated, but its industrial base flattened. Following the Treaty of Versailles, Germany was ordered to pay the war costs of all the participating nations, even though Germany had not actually started the war. This amounted to three times the value of all of Germany itself. Germany's private central bank, to whom Germany had gone deeply into debt to pay the costs of the war, broke free of government control, and massive inflation followed (mostly triggered by currency speculators) , permanently trapping the German people in endless debt."
+
+### References
+
+- [[The Creature from Jekyll Island - G. Edward Griffin]]
+- [[A History of Central Banking and the Enslavement of Mankind - Stephen Goodson]]

@@ -4,7 +4,7 @@
 
 **Relation to hypocrisy**
 
-Doublethink is related to, but differs from, [[hypocrisy]]. 
+Doublethink is related to, but differs from, [[Hypocrisy]]. 
 
 In doublethink, you're fully aware of the cognitive dissonance but accept it. In hypocrisy, you might very well be oblivious to the contradiction between your words and deeds.
 
@@ -20,4 +20,7 @@ Examples:
 - "Cancel culture" - One minute, society's preaching the values of tolerance and understanding; the next, it's ready to cancel someone for a decade-old tweet. The dissonance is glaring, but it's accepted, almost normalized.
 - "Work-life balance," but you're also subtly encouraged to prioritize work over everything else? It's like being told to sprint and meditate at the same time.
 
-See: [[§Cult psychology]]
+See also: 
+
+- [[§Cult psychology]]
+- [[Groupthink]]

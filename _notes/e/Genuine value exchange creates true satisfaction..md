@@ -15,7 +15,7 @@ Initially, money was designed to ease the process of exchange and to serve as a 
 
 Once money becomes a commodity, it's subjected to market forces of supply and demand, speculative trading, and hoarding. This gives rise to financialisation: the financial industry ruling over the real economy. 
 
-This can be seen clearly in the rise of asset classes like [[cryptocurrency]], which often serve more as speculative investments than as mediums of exchange AND the perversion of real assets (like land) becoming instruments for speculative gains rather than real productivity.
+This can be seen clearly in the rise of asset classes like [[Cryptocurrency]], which often serve more as speculative investments than as mediums of exchange AND the perversion of real assets (like land) becoming instruments for speculative gains rather than real productivity.
 
 Through the issuance of loans—a practice which could be likened to [[usury]]—banks generate money that often recirculates within asset markets rather than contributing to societal well-being.
 
@@ -26,6 +26,11 @@ So if the medium of exchange is sort of fucked, where do we go from here?
 Answer: [[There are only varying levels of active income]]
 
 ---
+### See also
+- [[Prosperity over growth]]
+- [[How do we increase the prosperity of our own lives as well as the people around us?]]
+- [[The paradox of money is that you first need freedom to earn it]]
+- [[If you win the rat race, you're still a rat]]
 
 ### References
 

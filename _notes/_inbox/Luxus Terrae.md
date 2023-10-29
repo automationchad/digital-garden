@@ -28,15 +28,11 @@ The experiential hospitality model
 
 What does experiential hospitality mean?
 
-
-
 Boutique hotels I see a lot of.
 
 How many people are doing eco-homes?
 
 Or doing small cottages around a centralized area?
-
-- List of principles by which you will develop the project
 
 - [Tuscany](https://magazine.lecollectionist.com/luxury-agritourism-in-italy#tuscany)
 - [Puglia](https://magazine.lecollectionist.com/luxury-agritourism-in-italy#puglia)
@@ -51,7 +47,6 @@ But make the in
 Retreat. Be left alone.
 
 This is different from most experiences which harass you with different experiences.
-
 
 - List of the reasons why you're doing it
 - List of the things you do not want

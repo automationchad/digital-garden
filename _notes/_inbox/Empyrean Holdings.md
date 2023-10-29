@@ -2,10 +2,16 @@ My umbrella company consisting of:
 
 ### Pumps
 
-Technology Arm:
-- [[Motis Group]]: Software Implementation Consultancy.
-- [[Nexa AI Labs]]: Research and development in AI and emergent technologies.
-- [[Phoenix Ventures]]: Incubating and accelerating tech startups with high growth potential.
+Technology Arm - [[Phoenix Ventures]]
+
+Strategically acquired companies/systems inside 4 lanes of business: 
+
+- Marketing -
+- Sales - 
+- Operations - [[Motis Group]]: Software Implementation Consultancy.
+- Finance -
+
+When a company fits our buy box, we run it through our portfolio, and 10x (at minimum) it’s valuation & efficiency.
 
 ### Buckets
 

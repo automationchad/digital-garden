@@ -5,4 +5,4 @@ Instead of throngs, opt for tribe-like assemblies, no more than 30—a figure ro
 
 Recurring dinners or cocktail nights prove particularly effective. The setting filters out random passersby, leaving room only for those who share existing bonds with you.
 
-See: [[Be a problem solver, and an interesting relationships will follow]]
+See: [[Be a problem solver, and interesting relationships will follow]]

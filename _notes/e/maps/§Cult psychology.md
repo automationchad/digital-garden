@@ -19,7 +19,7 @@ A hierarchical organisation created by a charismatic narcissist leader, which us
 
 **Why does it happen?**
 
-Started by a [[zen devil]].
+Started by a [[Zen devil]].
 
 A scam has to be: 
 1. charismatic enough, that it attracts prey. 

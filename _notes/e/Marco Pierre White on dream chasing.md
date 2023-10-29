@@ -55,6 +55,6 @@ A: It's not about the food. It's about the moment, food's secondary.
 
 Serve it hot, serve it quick and [[Keep it simple, stupid]].
 
-Don't force something to be what it's not.
+
 
 Stories inspire, recipes confuse.

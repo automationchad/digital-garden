@@ -23,3 +23,5 @@ So, explore this haven for intellectual cross-pollination. Ideas here dance, evo
 👋 Will Marzella ([email](mailto:automation@motis.group), [Twitter](https://twitter.com/williammarzella), [Motis Group site](https://motis.group))
 
 PS: A common query pops up—no, I haven't opened this system for others yet. I'm probably never going to create a course or educate others in a mass-medium way, and [[Premature scaling can stunt system iteration]].
+
+P.S.S General guiding values: [[Guiding values of The Marzella Wiki]]

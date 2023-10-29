@@ -1,4 +1,0 @@
-[[Flexibility]]
-[[Calisthenics]]
-[[Cardio]]
-[[Tabata]]

@@ -10,9 +10,9 @@ For example, when writing about how to formulate spaced repetition prompts to re
 Related:
 
 - [[Process over product]]
-- [Research as Understanding - Kanjun Qiu](https://notes.andymatuschak.org/zDKZVL9Fr1NnDRsQD2B4EW1)
+- [[Research as Understanding - Kanjun Qiu]]
 
 > That rote process of science we’re taught in school—to start with a question, generate hypotheses, test with experiments, draw conclusions—it’s a good tool, but it doesn’t capture the most important element: {actually wanting to know the answer to the question}!
 
-- [Why Greatness Cannot Be Planned - Stanley and Lehman](https://notes.andymatuschak.org/zUVBM3NDu1efs6vkrUtqz2Z)
+- [[Why Greatness Cannot Be Planned - Stanley and Lehman]]
 - [[Focused software development work is self-abnegating]]

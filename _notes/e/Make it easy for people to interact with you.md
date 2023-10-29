@@ -14,3 +14,7 @@ Use straightforward payment options. No hidden fees, no complicated invoicing—
 Most people are inherently lazy. Or maybe it's more accurate to say they're efficient—they don't want to expend more energy than they have to (Contra: [[Resistance]]).
 
 This aligns well with the philosophy of [[Process over product]]. The way you do something often matters more than what you're actually doing ([[Persona capitalizes on opportunities]]). Make that process straightforward, and people are more likely to engage with the product, be it a service you’re offering or a relationship you’re building.
+
+See also:
+
+[[Keep it simple, stupid]]

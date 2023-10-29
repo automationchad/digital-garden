@@ -3,7 +3,7 @@
 
 Getting lost in the sauce.
 
-[[What is the notion of going meta]]? Going meta means that you're stepping outside of the plane of the content.
+[[What is the notion of going meta?]]? Going meta means that you're stepping outside of the plane of the content.
 
 [[Form versus function]]
 

@@ -7,3 +7,5 @@ You'll rarely encounter a highly successful individual who isn't wholly absorbed
 Many settle for mediocrity not because they lack capability, but because they lack belief in their own worth. They don't see themselves as potential kings of their own domain, so they don't act like it. They aim low, seeking just enough to get by—enough money to eat, a roof over their heads, and modest pleasures. But ambition isn't about settling for the minimum; it's about striving for the maximum.
 
 So, if you aspire for more, act like it. Defy the norms that keep the masses in check. Be selfish in your pursuits, be ambitious in your goals, and don't shy away from wanting more. Because only those who dare to want more ever get more.
+
+See also: [[The backdoor]], [[The sidedoor]]
