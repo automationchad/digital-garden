@@ -14,8 +14,8 @@ Technology has created a disintermediation of labor. Availability of your energy
 
 Software is a self-contained system, and so are we. The principles that make software useful are eerily similar to what makes us valuable as individuals. Break it down, and any system has two core elements:
 
-1. Functional requirements: the **what**—your skills, know-how, and real-world chops. That's your persona, and it better be rock-solid ([[Persona capitalizes on opportunities]]). Stop messing around with cutesy gimmicks ([[Resistance]])—your offering and workflow should be crystal clear. No BS. This sets the stage for seamless marketing ([[Anti-marketing]], [[Preselection creates opportunities]]) and intuitive UX ([[Make it easy for people to interact with you]]).
-2. Non-functional requirements: the **how**—your reliability in delivering said skills. These are your lagging indicators ([[Lagging indicators]]), the silent factors that dictate whether people stick with you or bail ([[Personality maintains opportunities]]).
+1. [[Functional requirements]]: the **what**—your skills, know-how, and real-world chops. That's your persona, and it better be rock-solid ([[Persona capitalizes on opportunities]]). Stop messing around with cutesy gimmicks ([[Resistance]])—your offering and workflow should be crystal clear. No BS. This sets the stage for seamless marketing ([[Anti-marketing]], [[Preselection creates opportunities]]) and intuitive UX ([[Make it easy for people to interact with you]]).
+2. [[Non-functional requirements]]: the **how**—your reliability in delivering said skills. These are your lagging indicators ([[Lagging indicators]]), the silent factors that dictate whether people stick with you or bail ([[Personality maintains opportunities]]).
 
 - Shoddy scalability that leads to downtime? Expect churn.
 - A UI that's a maze? Same story.

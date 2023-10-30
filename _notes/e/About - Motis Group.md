@@ -21,7 +21,7 @@ Startups, enterprises, conglomerates, and governments have all partnered with us
   
 And through it all, we've developed our own way of work that [[A small ontological unit of experts in their respective fields is a good way to build a company|enables us to move fast]]. It's our secret. But you can hire us to experience it yourself.
 
-Projects start at $5,000.
+Projects start at $9,500.
 
 [hello@motis.group](mailto:hello@motis.group)  
 [@motisgroup](https://twitter.com/motisgroup)

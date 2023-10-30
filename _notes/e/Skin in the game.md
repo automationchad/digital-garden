@@ -31,9 +31,23 @@ But as Nicolas Taleb wisely points out:
 
 > “Beware of the person who gives advice, telling you that a certain action on your part is “good for you” while it is also good for him, while the harm to you doesn’t directly affect him.” — Nicolas Taleb
 
+Those who seek to gain from their activity, should also lose when things go wrong.
+
 While these gurus might find some success, they're mostly catering to those who're equally lost — dweebs and squids selling and buying from dweebs and squids (See: [[Ouroboros]], [[Pyramid scheme]])
 
-Want to land the big clients? Prove yourself first. Earn your place. Dive deep into your field. Grind. Learn. [[Pathemata mathemata]]. Achieve. And when you've amassed enough genuine experience, then, and only then, consider selling your expertise.
+Want to land the big clients? 
+
+Prove yourself first. 
+
+Earn your place. 
+
+[[Do the unscalable to scale]]. 
+
+[[Do the job before you get the job]]
+
+Dive deep into your field. Grind. Learn through pain ([[Pathemata mathemata]]). Achieve. 
+
+And when you've amassed enough genuine experience, then, and only then, consider selling your expertise.
 
 Take my uncle, for example. Today, he's raking in $5M a year as a consultant. But he didn't start there. He dedicated 25 years, working tirelessly, before he ventured into consultancy. 
 

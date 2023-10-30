@@ -1,15 +1,15 @@
 
-How is. a business valued? 
+How is a business valued? 
 
-Cash (assets)
-Cash flows (current)
-Future cashflows
+1. Cash (assets)
+2. Cash flows (current)
+3. Future cashflows
 
 > "What are we willing to pay now for the likelihood of cash flows in the future?"
 
-Your valuations will not come from your ability to get new customers. Instead, your valuation will come from how *many ways* you can get new customers. It's the diversity here that maximizes your multiple. Why is this? Because when people buy a business, they're looking for certainty. Ten ways to grow a business is more "certain" that only one way to grow a business. It's more of a question of certainty of future cash flow than the amount of future cash flow.
+Your valuations will **<ins>not</ins>** come from your ability to get new customers. Instead, your valuation will come from how *many ways* you can get new customers. It's the diversity here that maximizes your multiple. Why is this? Because when people buy a business, they're looking for certainty. Ten ways to grow a business is more "certain" than only one way to grow a business. It's more of a question of *certainty* of future cash flow than the *amount* of future cash flow.
 
-**The definition of unhealthy scale is when growth of the business violates the certainty of the future of the business**
+**The definition therefore of unhealthy scale is when growth of the business violates the certainty of the future of the business**
 
 See [[Scaling badly can kill authenticity]].
 

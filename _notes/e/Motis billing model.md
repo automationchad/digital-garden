@@ -1,21 +1,15 @@
+The issue with projects lies in the consulting industry's billing models, which focus too much on estimation rather than the actual work at hand. This focus leads to a general reluctance towards small, ad-hoc projects that operate on an hourly model; everyone is chasing after large-scale deals with enterprise clients because it somehow makes all the upfront time invested worth it.
 
+However, these large deals are often outliers. Enterprise-level companies aren't fundamentally different from smaller ones in how they tackle projects. The work is still divided among teams rather than being a company-wide effort. What we often see is that these enterprises already have 80% of the required resources in place. It's the remaining 20% of the project that demands 80% of the effort.
 
-The problem is that most consulting billing models places an emphasis on estimation when what we should be doing is the work itself.
+Take, for instance, [[Appen]]'s product team, which didn't want to wait for their engineering department. They recognized the value of our specialized expertise to move things forward.
 
-Everyone has this aversion to small ad-hoc projects - the hourly model because it’s slightly unpredictable -- they want the big deals, enterprise clients. 
+So, it's crucial to reframe how we think about projects. Instead of trying to cut down an entire forest, focus on identifying that one specific tree that needs to be felled, using a very particular kind of chainsaw. In other words, the focus should be less on the company type and more on the type of problem we're solving.
 
-Most of the times these cases are rare. Enterprise companies are no different to small companies, as the work itself gets broken down into teams versus a company wide effort. I suspect this is down to how most enterprise companies do projects -- they already have 80% of the resources, it's the last 20% of the project that's requiring 80% of the effort. 
+What are your options?
 
-Great example is Appen's product team not wanting to wait on engineering to deliver for them and so they valued our specialised expertise to push work forward.
-
-In this sense you can stop thinking about projects from a chop the whole forest down, and think about it like they need a very specific tree in that forest cut down, with a very specific type of chainsaw.
-
-It's less about company type, more about problem type.
-
-What options do we have?
-
-- Hourly sessions to troubleshoot an issue live - [schedule here](https://calendly.com/motis-group/1-on-1) 
-- Bucket of hours for larger projects - [send us an email](mailto:hello@motis.group) and we'll tell you how many you'll need.
+- For live troubleshooting, we offer hourly sessions. You can [schedule one here](https://calendly.com/motis-group/1-on-1).
+- For more extensive projects, we provide a 'bucket of hours' system. To find out how many hours you'll need, [send us an email](mailto:hello@motis.group).
 ---
 
 ==TO DO==

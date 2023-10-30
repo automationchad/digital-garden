@@ -10,7 +10,7 @@ The larger a company becomes, the harder it is to maintain that personal, human 
 
 Therefore, a crucial challenge for growing businesses is navigating this complex landscape, grappling with hard metrics while striving to retain that intimate, human approach. It's a tightrope walk between holding onto the non-coercive principles that may have nurtured your initial customer base and the demands of a large-scale operation that requires a degree of coercion to hit certain targets. This is a significant bridge to cross, demanding careful thought on how to preserve that authenticity and respect for customers' agency as you scale. It's not just about numbers; it's about people, and reconciling these two can indeed be tough. Finding a path that respects the integrity of non-coercive marketing while meeting business demands remains a paramount endeavor for any growing company.
 
-See: [[Good scale is when you have full market share without compromising value.]]
+See: [[Good scale is when you have full market share without compromising value]]
 
 ---
 

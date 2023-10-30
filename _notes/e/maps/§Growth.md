@@ -9,7 +9,7 @@ tags:
 ---
 [[Scaling badly can kill authenticity]]
 [[Prosperity over growth]]
-[[Good scale is when you have full market share without compromising value.]]
+[[Good scale is when you have full market share without compromising value]]
 [[Focus on power over scale for transformative system design]]
 [[Motis Group scale pinchpoints]]
 [[§Scale-free networks]]

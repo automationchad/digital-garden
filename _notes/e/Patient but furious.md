@@ -16,7 +16,7 @@ Acting with speed and not haste, there should always be a bias towards action, b
 
 Even though it’s tempting to do the wrong thing? 
 
-People who act with haste tend to conveniently ignore this fact because they believe the ends justify the means (See: [[Communism]], and [[Those who seek to gain from their activity, should also lose when things go wrong]])
+People who act with haste tend to conveniently ignore this fact because they believe the ends justify the means (See: [[Communism]], and [[Skin in the game]])
 
 They’ll do ANYTHING for a quick payday.  This means don’t opt for lower consciousness activities for the sake of a dollar, but it does mean when you know the action to take a new note, arise action to take to have a bias towards pulling the trigger without delay. 
 

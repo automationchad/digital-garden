@@ -22,6 +22,9 @@ If you view your career through this lens, you will spot things other people mis
 
 In my observation, people who succeed in continually upgrading their ability to spot and capitalize on arbitrage, view this process as a ladder: **We all** **start at the bottom, and climb.**
 
+Q: How to get started? 
+A: [[Do the job before you get the job]]
+
 
 
 

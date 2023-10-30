@@ -22,7 +22,7 @@ As you scale this ladder of choices and responsibilities, a tipping point will i
 
 This juncture, where the abundance of choices starts restricting your efficiency, signals the need to re-evaluate, refine, and refocus. 
 
-[[Good scale is when you have full market share without compromising value.]]
+[[Good scale is when you have full market share without compromising value]]
 
 At this point you can cut back and re-focus your energy on the core areas that open up more space for the next project.
 

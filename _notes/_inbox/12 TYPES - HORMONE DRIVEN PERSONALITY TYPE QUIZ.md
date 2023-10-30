@@ -6,10 +6,12 @@ You are: **Novelty focused (Dopamine) - High Risk Taker**
 
 Which career should you pursue?
 
+Venture capitalism.
+
 |                                 | Structure focused (Serotonin) | Novelty focused (Dopamine) | Empathy focused (Oxytocin) | Threat focused (Cortisol) |
 | ------------------------------- | ----------------------------- | -------------------------- | -------------------------- | ------------------------- |
 | Archetype                       | The Planner                   | Creative                   | Socialite                  | Protector                 |
-| High Risk Taking/Testosterone   | Tech Entrepreneur             | Venture Capitalist         | Sales Leader               | Civil Rights Leader       |
+| High Risk Taking/Testosterone   | Tech Entrepreneur             | **Venture Capitalist**         | Sales Leader               | Civil Rights Leader       |
 | Medium Risk Taking/Testosterone | Engineer                      | Marketer                   | Manager                    | Investigative Journalist  |
 | Low Risk Taking/Testosterone    | Bookkeeper                    | Artist/Musician            | Therapist                  | Quality Assurance Tester  |
 | 

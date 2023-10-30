@@ -10,4 +10,4 @@ Related:
 
 Contra: 
 - [[Integrity]]
-- [[Those who seek to gain from their activity, should also lose when things go wrong]]
+- [[Skin in the game]]
